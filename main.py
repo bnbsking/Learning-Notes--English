@@ -44,3 +44,7 @@ while 1:
     
     count+=1
     print('-'*70)
+
+# update status
+with open("status.txt", "w") as f:
+    f.write(f"Completed = mem/all = {mem}/{raw} = {round(mem/raw,3)}")
