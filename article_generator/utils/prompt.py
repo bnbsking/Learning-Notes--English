@@ -18,9 +18,15 @@ extract_vocabs = """
 
 
 generate_article = """
-    **Task**: Below is a list of vocabulary words. Can you generate an article that uses all of these words?
+    **Task**: Below is a list of vocabulary words.
+    Use these words to generate a short article in markdown format.
+    You should follow these rules:
     
-    **Output Format:** output in markdown format and use **vocabulary** (bold in markdown) to highlight the vocabularies.
+    1. If the vocabulary mis-spelled, please correct it.
+    2. Make sure the grammar is correct and the article is coherent.
+    3. Use medium-level language (roughly IELTS 6~7) suitable for English learners
+    4. Highlight the **vocabulary** as bold in markdown
+    5. Give the article a title
     
     **Vocabularies**: {{ vocabularies }}
 """
