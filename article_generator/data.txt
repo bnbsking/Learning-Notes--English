@@ -1,36 +1,59 @@
 [AAA]
 
-Aboriginal = indigenous (adj)
+aboriginal (n)
+indigenous (adj)
 
-abrasion (n) bruise (v)
+abrasion (n) (skin, wheel, surface, ...) rubbed away
+bruise (n)(v)
 
-(v) abuse = misuse = spoil
+(v) abuse = misuse
+(n) drug abuse
 (-) (adj) spoiled = indulged = dissoluted
-(+/-) (v) pamper
+(+/-) (v) pamper / spoil
+
+拐
+abduct (v) = kidnap (v)
+human trafficking (n)
+偷
+steal (v)
+shoplift (v) steal shop
+theft (n) -- thieve
+搶
+rob (v) = mug (v) = snatch (v)
+mug (n) cup with straight sides; fool = moron
+騙
+cheat on (v) exam / people / money
+= deceive (v) = scam (n)(v) = fraud (n)
 
 be accountable/responsible for
 
-accident = misfortune = mishap = tragedy
-casual = not formal or not serious
-causal = reason and result
-calamity = catastrophe = disaster
+accident = calamity = catastrophe = disaster = misfortune = mishap = tragedy (n)
+casual (adj) not formal or not serious e.g. dress in casual clothes
+causal relationship (n) reason and result
 death/injury toll = casualty (n) people injured or killed in a disaster
 mortality rate
 toll (n) = fee (n) = fare (n) = charge (v)(n)
 charge (v) = fill
 take charge of (v) = manage
-discharge = release or not hospitalized
-morgue = mortuary (n) the body placed at in hospital or building (=columbarium)
-ash (n) powder after burned, ashes (n) bone after burned
+discharge (n) release or not hospitalized
+
+morgue = mortuary (n) the body placed at in a hospital
+columbarium (n) the body placed at in a building
+ash (n) powder after burned
+ashes (n) bone after burned
 cremation (n) burning a dead body
 cremation urn (n) put the ashes into it after cremation
-burial (n) = inhume (n)(v) burying a dead body <-> exhume (v)
+[pron: bery] bury (v)
+[pron: berial] burial (n) = inhume (n)(v) burying a dead body
+<-> exhume (v) legal
+tomb raiding (n) = grave robbing (v) illegal
 bury the secret
 
 acne (n) 痘痘
 
 Acute <-> Chronic (adj)
-chronicle (n) history sorted by date; chronological (adj)
+chronicle (n) history sorted by date
+chronological (adj)
 
 accomplish = complete  (v)
 
@@ -38,32 +61,35 @@ added value
 
 be adept / deft / skilled / talented at (v)
 = be capable of (v)
-= be accomplished / experienced / specialize / proficient  in
+= be accomplished / experienced / specialize / proficient in
 = excel in (v)
 a master/genius/expert of
 
-Adverse = bad or negative (adj.)
+(adverse is noun)
+Adverse effect / adverse weather / adverse impact
 very bad   = abysmal = atrocious = awful = dreadful = horrible = horrendous = terrible
-very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior = unbelievable
+very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: supir rir] = unbelievable
 incredulous = improbable (adj) not likely to be true
 horror movie (n)
 
 Aes|the|tic (adj) perspective of beautiful things
-[pro] A|the|ist (n) No-god believers, A|the|ism (n) No-god belief
+A|the|ist (n) No-god believers
+A|the|ism (n) No-god belief
 
-abdicate 退位(v) <-> enthrone 即位 (v)
-anarchy (n) non-government state
-form of state (n) election or not-> hereditary 世襲 = monarchy 君主 vs republic 共和(election)
-regime (n) responsible or not -> democracy vs dictatorship=autocracy
-autonomy (n) the right of a group that can govern itself; autonomous region
+abdicate 退位 (v) <-> enthrone 即位 (v)
+[pron: anar chy] anarchy (n) non-government state
+form of state (n) election or not -> hereditary 世襲 = monarchy 君主 vs republic 共和 (election)
+regime (n) responsible or not -> democracy vs dictatorship = autocracy
+autonomy (n) the right of a group that can govern itself
+= autonomous region (n)
 author; authorize=empower; authority; authentic=genuine; authentication
 elector = constituent (n) <-> candidate
 electorate (n) all electors
-blood relations = consanguinity (n)
+have a blood relations = relate by consanguinity
 
 Advocate (v) support or suggest an idea (n) lawyer for defending
 plaintiff (n) <-> defendant (n)
-notary (n)
+witness (n)(v)
 be accused of = be charged with = be indicted for = be prosecuted for
 in custody (adv) be restricted
 sue sb for sth
@@ -159,7 +185,7 @@ microvessels 微血管
 vessel (n) 1 blood tube 2 boat
 
 [pro] annihilate = eliminate = eradicate = wipe out = exterminate = obliterate
-falsify = alter / erase / destroy = annihilate = submerge / conceal evidence (un)
+falsify = alter / erase / destroy = annihilate = spoil = submerge / conceal evidence (un)
 
 [pro] history antagonism between
 an|tagonist 1 (n) opponent = rival = competitor = foe = enemy 
@@ -199,6 +225,7 @@ audible (adj) can be heard <-> inaudible (adj)
 visible <-> invisible
 perceptive (adj) = insightful (adj) = discerning (adj) = penetrating (adj) = observant (adj) ~ far-sighted 1 (adj) <-> short-sighted (adj) = myopic (adj)
 	far-sighted 2 (adj) <-> near-sighted (adj) myopia (n)
+take a long-term view (v)
 [pro] blatant (-) obvious and intentional
 conspicuous (+/-) = noticeable
 notable (+) is important and deserves attention
@@ -280,6 +307,9 @@ ensure (v) make something certain
 reassure sb that (v) let someone not be worried
 Warranty (n) written promise from a company to repair or replace a product within a period
 insure sb (v) provide insurance for sb
+
+awkward (adj) moving slow
+awkward (adj) thorny
 
 at the end of one’s rope/tether (adj) no more patient or methods
 
@@ -574,6 +604,8 @@ canny = shrewd = intelligent (adj)
 intellectual (adj) relate to intelligence (n) very educated person
 
 cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
+
+capital punishment (n) death punishment
 
 cardinal = chief = critical = crucial = essential = important = indispensable = significant = vital
 chief (n) leader
@@ -1509,6 +1541,9 @@ moron (n) fool
 never been a fan of
 
 nominal <-> de facto
+
+notarization (n) formal validation by people
+notary (n) people to perform formal validation
 
 nursery (n) 托兒所
 nursing home (n) 養老院
