@@ -1,0 +1,167 @@
+[
+    {
+        "vocabulary": "bloom",
+        "definition": "To produce flowers; to thrive.",
+        "part_of_speech": "verb/noun",
+        "example_sentence": "The roses will bloom in the spring.",
+        "synonyms": [
+            "blossom",
+            "flower",
+            "open"
+        ],
+        "antonyms": [
+            "wither",
+            "fade"
+        ]
+    },
+    {
+        "vocabulary": "burgeon",
+        "definition": "To begin to grow or increase rapidly; to flourish.",
+        "part_of_speech": "verb",
+        "example_sentence": "The company's profits began to burgeon after the new marketing campaign.",
+        "synonyms": [
+            "flourish",
+            "thrive",
+            "increase",
+            "expand"
+        ],
+        "antonyms": [
+            "decline",
+            "wither",
+            "shrink"
+        ]
+    },
+    {
+        "vocabulary": "develop",
+        "definition": "To grow or cause to grow and become more mature, advanced, or elaborate.",
+        "part_of_speech": "verb",
+        "example_sentence": "The city continues to develop new infrastructure to support its growing population.",
+        "synonyms": [
+            "evolve",
+            "cultivate",
+            "mature",
+            "advance"
+        ],
+        "antonyms": [
+            "stunt",
+            "deteriorate",
+            "regress"
+        ]
+    },
+    {
+        "vocabulary": "grow",
+        "definition": "To increase in size or amount; to develop.",
+        "part_of_speech": "verb",
+        "example_sentence": "The plant grew quickly in the sunlight.",
+        "synonyms": [
+            "increase",
+            "expand",
+            "develop",
+            "advance"
+        ],
+        "antonyms": [
+            "shrink",
+            "decline",
+            "decrease"
+        ]
+    },
+    {
+        "vocabulary": "flourish",
+        "definition": "To grow or develop in a healthy or vigorous way, especially as the result of a favorable environment.",
+        "part_of_speech": "verb",
+        "example_sentence": "The arts scene is flourishing in the city.",
+        "synonyms": [
+            "thrive",
+            "prosper",
+            "succeed",
+            "bloom",
+            "burgeon"
+        ],
+        "antonyms": [
+            "wither",
+            "fail",
+            "decline"
+        ]
+    },
+    {
+        "vocabulary": "prosper",
+        "definition": "To succeed in a financial or business way; to thrive.",
+        "part_of_speech": "verb",
+        "example_sentence": "The new business is expected to prosper in the coming years.",
+        "synonyms": [
+            "thrive",
+            "succeed",
+            "flourish",
+            "bloom"
+        ],
+        "antonyms": [
+            "fail",
+            "decline",
+            "wither"
+        ]
+    },
+    {
+        "vocabulary": "thrive",
+        "definition": "To grow vigorously; to prosper; to flourish.",
+        "part_of_speech": "verb",
+        "example_sentence": "The new plants thrived in the rich soil.",
+        "synonyms": [
+            "prosper",
+            "flourish",
+            "succeed",
+            "bloom",
+            "burgeon"
+        ],
+        "antonyms": [
+            "wither",
+            "fail",
+            "decline"
+        ]
+    },
+    {
+        "vocabulary": "blooming",
+        "definition": "Producing flowers; flourishing.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The garden was filled with blooming flowers.",
+        "synonyms": [
+            "flourishing",
+            "blossoming"
+        ],
+        "antonyms": [
+            "wilted",
+            "fading"
+        ]
+    },
+    {
+        "vocabulary": "flourishing",
+        "definition": "Growing or developing successfully; thriving.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The flourishing business expanded to multiple locations.",
+        "synonyms": [
+            "thriving",
+            "prosperous",
+            "successful"
+        ],
+        "antonyms": [
+            "failing",
+            "declining"
+        ]
+    },
+    {
+        "vocabulary": "prosperous",
+        "definition": "Successful in material terms; flourishing financially.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The company enjoyed a prosperous year with record profits.",
+        "synonyms": [
+            "wealthy",
+            "successful",
+            "thriving",
+            "flourishing"
+        ],
+        "antonyms": [
+            "poor",
+            "unsuccessful",
+            "failing"
+        ]
+    }
+]

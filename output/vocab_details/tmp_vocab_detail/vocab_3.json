@@ -1,0 +1,160 @@
+[
+    {
+        "vocabulary": "sharp",
+        "definition": "Having a thin edge or point that can cut or pierce something.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The knife had a sharp blade.",
+        "synonyms": [
+            "pointed",
+            "keen",
+            "cutting"
+        ],
+        "antonyms": [
+            "dull",
+            "blunt"
+        ]
+    },
+    {
+        "vocabulary": "adventurous 1",
+        "definition": "Willing to try new or difficult things, or to take risks.",
+        "part_of_speech": "adjective",
+        "example_sentence": "She was an adventurous traveler, always seeking out new experiences.",
+        "synonyms": [
+            "venturesome",
+            "daring",
+            "bold"
+        ],
+        "antonyms": [
+            "cautious",
+            "timid",
+            "unadventurous"
+        ]
+    },
+    {
+        "vocabulary": "bold",
+        "definition": "Showing an ability to take risks; confident and courageous.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The knight made a bold move to save the princess.",
+        "synonyms": [
+            "brave",
+            "daring",
+            "courageous"
+        ],
+        "antonyms": [
+            "timid",
+            "cowardly",
+            "fearful"
+        ]
+    },
+    {
+        "vocabulary": "daring",
+        "definition": "Adventurous and willing to take risks.",
+        "part_of_speech": "adjective",
+        "example_sentence": "It was a daring plan to climb the treacherous mountain.",
+        "synonyms": [
+            "bold",
+            "adventurous",
+            "brave"
+        ],
+        "antonyms": [
+            "cautious",
+            "timid",
+            "cowardly"
+        ]
+    },
+    {
+        "vocabulary": "courageous",
+        "definition": "Not deterred by danger or pain; brave.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The firefighter was courageous in the face of the fire.",
+        "synonyms": [
+            "brave",
+            "bold",
+            "valiant"
+        ],
+        "antonyms": [
+            "cowardly",
+            "timid",
+            "fearful"
+        ]
+    },
+    {
+        "vocabulary": "brave",
+        "definition": "Ready to face and endure danger or pain; showing courage.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The soldiers were brave in the face of enemy fire.",
+        "synonyms": [
+            "courageous",
+            "bold",
+            "valiant"
+        ],
+        "antonyms": [
+            "cowardly",
+            "timid",
+            "fearful"
+        ]
+    },
+    {
+        "vocabulary": "timid",
+        "definition": "Showing a lack of courage or confidence; easily frightened.",
+        "part_of_speech": "adjective",
+        "example_sentence": "The timid child hid behind her mother.",
+        "synonyms": [
+            "shy",
+            "fearful",
+            "cowardly"
+        ],
+        "antonyms": [
+            "brave",
+            "bold",
+            "courageous"
+        ]
+    },
+    {
+        "vocabulary": "cowardly",
+        "definition": "Lacking courage; easily frightened.",
+        "part_of_speech": "adjective",
+        "example_sentence": "His cowardly actions were condemned by everyone.",
+        "synonyms": [
+            "timid",
+            "fearful",
+            "chicken"
+        ],
+        "antonyms": [
+            "brave",
+            "courageous",
+            "bold"
+        ]
+    },
+    {
+        "vocabulary": "coward",
+        "definition": "A person who lacks courage; someone easily frightened.",
+        "part_of_speech": "noun",
+        "example_sentence": "He was called a coward for running away from the fight.",
+        "synonyms": [
+            "chicken",
+            "poltroon",
+            "craven"
+        ],
+        "antonyms": [
+            "hero",
+            "daredevil"
+        ]
+    },
+    {
+        "vocabulary": "adventurous 2",
+        "definition": "Willing to undertake new and daring enterprises.",
+        "part_of_speech": "adjective",
+        "example_sentence": "They embarked on an adventurous journey across the continent.",
+        "synonyms": [
+            "venturesome",
+            "daring",
+            "bold"
+        ],
+        "antonyms": [
+            "cautious",
+            "timid",
+            "unadventurous"
+        ]
+    }
+]
