@@ -1,6 +1,7 @@
 import os
 import glob
 import json
+import shutil
 import time
 
 from src.utils.prompt import extract_vocabs
@@ -26,7 +27,7 @@ if __name__ == "__main__":
         content += blocks[block_i] + "\n\n"
         block_i += 1
         
-        if len(content) >= CONTENT_SIZE:
+        if len(content) >= CONTENT_SIZE or block_i == len(blocks):
             print(f"Processing chunk: {chunk_i}")
 
             prompt = extract_vocabs.strip(" \n").replace("{{ vocabularies }}", content)
@@ -55,6 +56,9 @@ if __name__ == "__main__":
             vocabs = json.load(f)
             merged_vocabs.extend(vocabs)
     
+    # remove temp directory recursively by shutil
+    shutil.rmtree(tmp_dir)
+
     # Save merged vocabularies
     with open(f"{OUTPUT_DIR}/vocab.json", "w", encoding="utf-8") as f:
         json.dump(merged_vocabs, f, ensure_ascii=False, indent=4)
