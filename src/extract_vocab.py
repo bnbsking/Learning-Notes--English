@@ -8,7 +8,7 @@ from src.utils.prompt import extract_vocabs
 from src.utils.api import Gemini
 
 
-INPUT_PATH = "data.txt"
+INPUT_PATH = "data_tmp.txt"
 CONTENT_SIZE = 4000 * 4  # 4000 tokens * 4 characters per token
 OUTPUT_DIR = "output"
 
