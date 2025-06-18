@@ -15,3 +15,30 @@ Before the rebellion, they were ready to fight. They started to **affix a stamp 
 The fate of Baron Von Hess remains uncertain, but the villagers had tasted freedom. The **burial** of his reign was a turning point. What remained was just **ash**. They will hold a **cremation** to bury all the past.
 
 They will **enthrone** a new leader. The new leader hopes the village will have a **fabulous** future.
+
+======================================================================
+Here are three single-choice questions based on the provided article:
+
+1.  **What event triggered the uprising in Eldoria?**
+    a)  The eruption of Mount Cinder
+    b)  The Baron's lavish spending and the scam that impoverished the villagers.
+    c)  The death of the village Elder
+    d)  A conflict with neighboring villages
+
+    **Answer:** b) The Baron's lavish spending and the scam that impoverished the villagers.
+
+2.  **What was the Baron's ruling style characterized as?**
+    a)  Fair and just
+    b)  Supportive of the Elder.
+    c)  Brash and ostentatious
+    d)  Meek and dutiful
+
+    **Answer:** c) Brash and ostentatious
+
+3.  **What was the initial state of the villagers of Eldoria described as?**
+    a)  Rebellious and independent
+    b)  Common, dutiful, and meek
+    c)  Wealthy and powerful
+    d)  In control of the local council
+
+    **Answer:** b) Common, dutiful, and meek

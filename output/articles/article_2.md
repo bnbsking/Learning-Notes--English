@@ -19,3 +19,30 @@ Before leaving, I wanted to retrieve some belongings from my house. However, whe
 Then, I went to see my friend. I told him about the incident. He asked me: "**Ain't** you scared? You can be **mugged** or even worse."
 
 The memories are like fragments of glass, sharp and painful, and they never leave you. I had to **exhume** the truth about what had happened to my grandfather before going. And, sometimes, I still consider the **toll** these events took on me. Even though the details might be missing or incorrect, I would like to have the **chronological** order of these events.
+
+======================================================================
+Here are three single-choice questions based on the article, along with their answers:
+
+1.  **What event is primarily linked to the beginning of the narrator's troubles?**
+    a)  His own injury in a childhood accident
+    b)  The death of his grandfather
+    c)  Being accused of shoplifting
+    d)  The loss of his house.
+
+    **Answer: b) The death of his grandfather**
+
+2.  **Why was the narrator's grandfather's body cremated?**
+    a)  To honor his wishes.
+    b)  To hide the body from grave robbing.
+    c)  Because the government ordered it.
+    d)  He died of a heart attack.
+
+    **Answer: b) To hide the body from grave robbing.**
+
+3.  **What was the narrator accused of after his grandfather's death?**
+    a)  Drug abuse.
+    b)  Shoplifting.
+    c)  Being a member of a secret union and plotting a riot.
+    d)  Inciting the indigenous to rebel.
+
+    **Answer: c) Being a member of a secret union and plotting a riot.**

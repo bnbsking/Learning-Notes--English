@@ -32,6 +32,14 @@ generate_article = """
 """
 
 
+generate_article_qa = """
+    **Task**: Below is an article.
+    Generate three single choice questions based on the article and its corresponding answers.
+    
+    **Article**: {{ article }}
+"""
+
+
 generate_vocab = """
     **Task**: Below is a list of vocabulary words.
     For each vocabulary, generate its:

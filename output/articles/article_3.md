@@ -15,3 +15,30 @@ The King, surrounded by those who he thought would follow him. The only people l
 The kingdom, once vibrant, now felt like a **morgue**. It became obvious the king was a monster. The king wanted to **domesticate** the people. **Often** he made **dreadful** decisions.
 
 The whispers, the fear, and the **ashes** of the King's reputation, now being destroyed, began to solidify. The once-strong bonds of the ruling **association** were dissolving, as they no longer cared for the kingdom. The once **league** of advisors now **hint that** they may not follow the King’s commands. The King will be prosecuted as soon as they find a way to overthrow the **monarchy** and bring back the **democracy**.
+
+======================================================================
+Here are three multiple-choice questions based on the provided article, along with their answers:
+
+1.  **What initially caused unrest in Eldoria?**
+    a) The King's decision to build a new palace.
+    b) The King's arrogant demeanor and actions, prioritizing his own glory over the people's welfare.
+    c) The disappearance of the royal jewels.
+    d) The kidnapping of the merchant's daughter.
+
+    **Answer: b)**
+
+2.  **Which event most significantly worsened the King's reputation?**
+    a) The King's declaration of atheism.
+    b) The King's attempt to bury the secret of the missing jewels.
+    c) The King's decision to build a lavish palace.
+    d) The kidnapping of the merchant's daughter
+
+    **Answer: b)**
+
+3.  **What is the most likely future for Eldoria, based on the article?**
+    a) Continued peace and prosperity under the King's rule.
+    b) A period of increased chaos followed by a stronger monarchy.
+    c) A potential rebellion aimed at overthrowing the monarchy and restoring democracy.
+    d) The King will domesticate the people
+
+    **Answer: c)**
