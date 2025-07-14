@@ -20,10 +20,11 @@ shoplift (v) steal shop
 theft (n) -- thieve
 搶
 rob (v) = mug (v) = snatch (v)
-mug (n) cup with straight sides; fool = moron
+mug (n) a cup with straight sides and a handle; fool = moron
 騙
-cheat on (v) exam / people / money
-= deceive (v) = scam (n)(v) = fraud (n)
+cheat on (v) (exam / people / money)
+= deceive (v) = scam on (v)
+scam (n) = fraud (n)
 
 be accountable/responsible for
 
@@ -48,6 +49,7 @@ cremation urn (n) put the ashes into it after cremation
 <-> exhume (v) legal
 tomb raiding (n) = grave robbing (v) illegal
 bury the secret
+raid (v) = assult (v) = suddenly attack (v)
 
 acne (n) 痘痘
 
@@ -76,7 +78,7 @@ Aes|the|tic (adj) perspective of beautiful things
 A|the|ist (n) No-god believers
 A|the|ism (n) No-god belief
 
-abdicate 退位 (v) <-> enthrone 即位 (v)
+abdicate 退位; 放棄 (v) <-> enthrone 即位 (v)
 [pron: anar chy] anarchy (n) non-government state
 form of state (n) election or not -> hereditary 世襲 = monarchy 君主 vs republic 共和 (election)
 regime (n) responsible or not -> democracy vs dictatorship = autocracy
@@ -106,8 +108,10 @@ Aggravate 1 = deteriorate = exacerbate (v) become worse
 Aggravate 2 = exasperate = irritate = provoke = inflame (v) annoy sb
 agitate/argue for/against sth (v)
 erupt
-commotion (n) sudden noise or movement
+commotion (n) sudden noise or excited movement
 riot (n) a violent public meeting
+unrest (n)
+rebellion (n)
 agitation (n) = protest = uprising
 incite sth (e.g. insurrection) = incite sb to (v)
 idea/imagination was kindled by
@@ -119,6 +123,8 @@ Exaggerated (adj) <-> mediocre (adj)(-) = moderate (adj)(+)
 exaggerate (v) = overstate (v) describe sth more important or serious than it really is
 commonplace (adj)(+/-) = common
 take things too far (v) = go overboard (v) 做太過火
+out of line (adj)
+squash (some events)
 
 In agony
 
@@ -259,7 +265,7 @@ dwell in 2 = reside in = live in (v)
 abide in = stay at = be accommodated in 
 domicile (n) = residence (n) place for living
 habitat (n) living place of animals 
-form a habit of = get used to
+form a habit of = get used to = accustom ones'self to sth
 
 apprentice=pupil
 beginner = novice = newbie = newcomer = rookie
@@ -430,6 +436,8 @@ drive in an erratic course (v) 蛇行
 be stuck in the friendzone with (v) 被發好人卡
 suffered from one-sided love (v)
 
+beacon (n) 燈塔
+
 Bearing 軸承
 beat around the bush (v) 拐彎抹角
 give sb the runaround (v) 敷衍
@@ -565,7 +573,7 @@ prospectus, leaflet, handout
 [pro] bronchus (n) 支氣管
 windpipe (n) 氣管
 
-brutal = cruel = savage = ruthless = inhuman (adj)
+brutal = cruel = savage = ruthless = inhuman (adj) = tyrannical (strong to weak)
 barbarian = savage (n) less social and more violent 
 barber (shop) (n) people cut hair (shop)
 
@@ -719,6 +727,7 @@ civil 2 (adj) 民事的 <-> criminal (adj) 刑事的 <-> administrative (adj) �
 criminal record (n)
 civil 3 (adj) = cordial = courteous = polite (adj) 有禮貌的, 客氣的
 courtesy (n), etiquette (n) more rules for courtesy
+demeanour (n) 風度
 decent (adj) socially acceptable (style/person/wearing)
 
 city center
@@ -728,6 +737,8 @@ clan (n) large family with same name
 clash (n) = collision = conflict,  confrontation (n) defiance
 confront (v) face
 an countervailing force against (n) having equal force but an opposite effect
+
+climate (n) 1. 氣候 2. atmosphere
 
 climax (v) the most important/exciting point in a story or situation, especially close to the end
 climax (n) = peak = pinnacle = summit
@@ -765,6 +776,7 @@ commensurate with (v) in a suitable amount compared to sth
 commitment (n) a promise
 
 commodity = merchandise (n)
+merchant (v) seller
 
 compact 1 (adj) position together closely (for physical)
 fulfilled (adj) do something hoped to happen (for mental) = enriched (adj)
@@ -798,7 +810,7 @@ senate, senator
 [British] parliament, speaker/member of parliament
 [US] congress = house of representative, congressman = speaker/member of …
 
-conquer = overcome
+conquer = overcome = surmount (v)
 
 由...組成 consist of = be comprise of = be made up of = be composed of
 組成/占...比例 accout for = compose = constitute 
@@ -1015,7 +1027,7 @@ faction (n) a group that separated from a larger
 fraction (n) ½, ⅔ … = fractional number = rational number
 
 denote (v) = imply = indicate = mean = represent = signify = suggest 1 = show
-depict (v) can also work for arts
+depict (v) can also work for arts = portray (v)
 
 [pro] deputy (n) a person whose rank is below its leader
 
@@ -1242,7 +1254,7 @@ emigrate (v) = immigrate; migrate (v) for animal
 eminent (adj) = famous = renowned = well known
 prominent (adj) famous and important
 
-emphasize (v) = highlight (v) = [pro] accent (v)
+emphasize (v) = highlight (v) = [pro] accent (v) = underscore (v)
 [pro] accent (n)
 
 empirical (adj) based on experience
@@ -1345,7 +1357,7 @@ exemplify (v) gives a typical example of sth
 
 exempt (v) to free from (duty, payment)
 
-exert (influence / presssure) on (v)
+exert (influence / pressure) on (v)
 
 exorbitant (adj) too high (prices or demands)
 hurdle (n) a fence for jumping over in a race
@@ -1478,7 +1490,10 @@ hand sanitizer (n)
 
 imbue with (v) fill (feeling) with
 
+impoverish (adj) make sb poor
+
 in a tight corner (adj) in a difficult situation
+plight (n)
 
 in goblin mode (adj)
 
@@ -1539,6 +1554,8 @@ moron (n) fool
 
 [NNN]
 
+narrate (v) to tell a story
+
 never been a fan of
 
 nominal <-> de facto
@@ -1558,6 +1575,8 @@ overhead
 overcast
 
 opt for (v) choose = select = pick
+
+ordeal (n) very unpleasant experience
 
 outfit (n) clothes
 
@@ -1604,6 +1623,7 @@ put up with = toloerate
 raid (v) = assault (v) sudden attack
 
 rampage (v) 橫衝直撞
+rampant (adj) 猖獗的; getting worse quickly and uncontrollable
 
 ranch (n) large farm with animals
 
@@ -1611,12 +1631,18 @@ ransom 贖金
 
 ravage (v) 蹂躪
 
+ravel (v) to separate a knot
+unravel (v) 1. ravel 2. solve (mysterious subject) 3. destroy 
+revel in (v) enjoy in
+
 rejuvenate (v) refresh
 
 remittance vs transfer
 
 replenish = refill
 offer supplementary/additional information on/about
+
+resentment (n) strong feeling of anger
 
 resuscitate 復甦
 
@@ -1649,6 +1675,9 @@ Sit on one’s hand = take no action
 
 silver bullet (n) a simple solution to a complicated problem
 
+simmering (adj) 醞釀中的
+smoulder fire (n) 悶燒的火
+
 slump = plummet = plunge (v) decrease rapidly
 
 smuggle (v)
@@ -1674,6 +1703,9 @@ I don't expect that there is a person so immoral.
 stance = standpoint = position
 Step aside 讓開
 
+stark (adj) (room / reality) simple without decoration
+stark constrast to 與...有鮮明對比
+
 stiff (adj)
 inflexible (adj)
 
@@ -1690,6 +1722,8 @@ motion sickness pill (n)
 tabloid (n)(adj) 八卦(的)小報 <-> broadsheet 大報 (n)
 
 temptress (n) 狐狸精
+
+teeter on the brink of war/collapse/disaster/...
 
 the very second (adv) = right now
 theft (n) stealing behavior
