@@ -158,41 +158,49 @@ ostentatious (adj) obviously show money/power/possession to make others admire y
 ostensible (adj) claiming sth but its something else
 window dressing (n) = ostentation (n)
 
-audit 1 (v) go to a class without grades
+audit 1 (v) go to a class without getting grades
 audit 2 (v)(n) account
 audition (n) a short performance to show whether they are suitable for a film, show, etc.
 
-allowance, pension~annuity, scholarship, grant=subsidy, dole (for unemployed=jobless people)
+allowance
+pension = annuity (n) yearly money for sb 
+grant = subsidy (n) money for sb
+scholarship (n) money for students
+dole (n) money for unemployed=jobless people
 stipend = salary
 incentive bonus
 subside <-> rebound
-subsidiary
-subordinate
-headquarter, parent company, direct store <-> franchise store
+subsidiary <-> parent comapny <-> headquarter
+subordinate <-> supervisor
+franchise store <-> direct store
 
-alloy (n) mix of two metals, lollipop 棒棒糖
-longitude, latitude, altitude vs  attitude
-	equator (n) 0 degree of parallel (latitude)
+alloy (n) mix of two metals
+lollipop (n) 棒棒糖
+longitude <-> latitude
+altitude, attitude
+	equator (n) 0 degree of latitude
 Altimeter (n) A device measuring altitude
 Hygrometer (n) A device measuring humidity
 Thermometer (n) A device measuring body/air temperature
 
-[pro] amateur, ammunition
+[pro] amateur <-> professional
+[pro] (load) ammunition / bullet
 [pro] artillery =  cannon (n) large gun with large 
 arsenal (n) building with lots of weapons
-bullets
 billboard (n) An advertisement board
 signboard (n) A board shows the name of an institution
 bulletin board
 traffic sign
 
-artery 動脈; important road
-vein 靜脈 葉脈 礦脈 characteristic
-microvessels 微血管
-vessel (n) 1 blood tube 2 boat
+vessel (n) 1 blood tube 2 large ship
+	artery 1 動脈 2 important road > arteriole
+	vein 1 靜脈  2 葉脈 3 礦脈 4 風格 > venules 
+	microvessels 微血管 = capillary
 
 [pro] annihilate = eliminate = eradicate = wipe out = exterminate = obliterate
-falsify = alter / erase / destroy = annihilate = spoil = submerge / conceal evidence (un)
+erase / destroy = annihilate = spoil
+submerge the evidence
+conceal the evidence
 
 [pro] history antagonism between
 an|tagonist 1 (n) opponent = rival = competitor = foe = enemy 
@@ -853,7 +861,13 @@ edible (adj) can be eaten
 
 counsel (v)(n) = advice / advise = exhort (v)
 
-counterfeit (adj) = fake = forged = pirated 
+counterfeit (adj) = fake (adj) = forged (adj)
+pirate (v) illegal copy of a program, music, form, etc.
+fabricate (v) change truth to decieve others
+falsify (v) change document to decieve others
+feign (v) pretent feeling
+forge (v)
+fabric (n) material of making clothes
 
 counterpart (n) corresponding substance
 
@@ -1380,10 +1394,6 @@ extravagant (adj)(-)
 lavish (adj)(+) ~ luxurious (adj)(+/-)
 
 [FFF]
-
-fabric (n) material of making clothes
-fabricate (v) = forge (v) = falsify (v) = fake (v)(n) = feign (v) 
-counterfeit (adj)
 
 facet (n) = aspect
 

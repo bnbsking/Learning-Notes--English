@@ -34,9 +34,29 @@ generate_article = """
 
 generate_article_qa = """
     **Task**: Below is an article.
-    Generate three single choice questions based on the article and its corresponding answers.
+    Generate 3 single choice questions based on the article and its corresponding answers.
+    You should follow these rules:
+    + The vocabularies in the question and answer are suggested to be diffrent from the vocabularies in the article, i.e. use synonyms if possible.
+    + The choices should be A, B, C, D.
+    + The probability of true answer for each choices should be roughly equal.
     
     **Article**: {{ article }}
+
+    **Response format**:
+    ```json
+    [
+        {
+            "Question": [str],
+            "Choice A": [str],
+            "Choice B": [str],
+            "Choice C": [str],
+            "Choice D": [str],
+            "Answer": [A/B/C/D],
+            "Explanation": [str],
+        },
+        ...
+    ]
+    ```
 """
 
 
