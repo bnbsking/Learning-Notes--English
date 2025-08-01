@@ -311,10 +311,10 @@ ingest (v) eat or drink
 digest (v) change food into stomach and body can used = assimilate (v) or become similar
 absorb 1 (v) mix sth into
 absorb sb 2 (v) fully take up sb’s attention = captivate = engross = fascinate
-absorbing (adj) = captivating = engrossing = fascinating 
+absorbing (adj) = captivating = engrossing = fascinating
 
 assorted (adj) = diverse 1 = [pro] miscellaneous = various = a wide range/realm of
-catholic (adj)
+catholic (adj)(n), christian (n), islam (n), judaism (n)
 heterogeneous (adj)
 
 assure sb that (v) tell someone not be worried
@@ -326,13 +326,14 @@ insure sb (v) provide insurance for sb
 awkward (adj) moving slow
 awkward (adj) thorny
 
-at the end of one’s rope/tether (adj) no more patient or methods
+at the end of one’s rope/tether (adj) = exhausted
+tether (n) = leash (n)
 
 athlete (n)
 
 attain = obtain = reach = acquire = fulfill (v) (the goal)
 
-(museum/zoo) attendant 1 = guide = docent (n) show people around museums, zoos
+(museum/zoo) attendant 1 = guide = docent (n) explain knowledge around museums, zoo. docent can also be used in college
 attendant 2 = server = receptionist
 attendant 3 = servant
 giver <-> recipient
@@ -357,7 +358,7 @@ autograph (n)(v) signature for a famous person
 baby = infant < toddler
 
 [pro] ballet 芭雷舞
-[pro] ballot
+[pro] ballot (n) secret voting
 Referendum
 
 [pro] ballistic missile 彈道飛彈 遠距離
