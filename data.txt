@@ -49,7 +49,7 @@ cremation urn (n) put the ashes into it after cremation
 <-> exhume (v) legal
 tomb raiding (n) = grave robbing (v) illegal
 bury the secret
-raid (v) = assult (v) = suddenly attack (v)
+raid (v) = ambush (v) = assult (v) = suddenly attack (v)
 
 acne (n) 痘痘
 
@@ -1131,6 +1131,8 @@ displace (v) = replaced = supersede = substitute for
 
 Disregard = ignore (v)
 
+disseminate (v) spread (news or idea)
+
 distil (v) 蒸餾; 凝結 = condense <-> vaporize (v) ~ evaporate (v)
 freeze (v) 凝固 <-> melt (v)
 refine (v) 提煉
@@ -1516,6 +1518,8 @@ increase (v) = escalate (v) << proliferate (v)
 
 independent travel = self-guided tour
 <-> escorted tour = guided tour
+
+instrumental (adj) helpful
 
 intermittent fasting (n) stop eating intermittently
 
