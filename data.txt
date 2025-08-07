@@ -70,7 +70,8 @@ a master/genius/expert of
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
 very bad   = abysmal = atrocious = awful = dreadful = horrible = horrendous = terrible
-very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: supir rir] = unbelievable
+very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
+[pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
 horror movie (n)
 
@@ -85,8 +86,7 @@ regime (n) responsible or not -> democracy vs dictatorship = autocracy
 autonomy (n) the right of a group that can govern itself
 = autonomous region (n)
 author; authorize=empower; authority; authentic=genuine; authentication
-elector = constituent = voter (n) <-> candidate
-electorate (n) all voters
+elector = constituent = voter (n) <-> candidate; electorate (n) all voters
 have a blood relations = relate by consanguinity
 
 Advocate (v) support or suggest an idea (n) lawyer for defending
@@ -122,8 +122,9 @@ Aggregate (v)
 Exaggerated (adj) <-> mediocre (adj)(-) = moderate (adj)(+)
 exaggerate (v) = overstate (v) describe sth more important or serious than it really is
 commonplace (adj)(+/-) = common
-take things too far (v) = go overboard (v) 做太過火
-out of line (adj)
+take things too far (v) = go overboard (v) 做太過火; out of line (adj)
+go off the rail (v) behaves inappropriately
+derail (v) come off the railway track
 squash (some events)
 
 In agony
@@ -255,7 +256,7 @@ mouthy (adj)(-) often overstating
 
 apprehend 1 (v) = catch on = understand
 apprehend 2 (v) = bust = detain = charge <-> discharge
-apprehensive about 3 (adj) = anxious/nervous/panic/worry about = brood over = dwell on 1 = afraid of 
+apprehensive about 3 (adj) = anxious/brood/nervous/panic/worry about = dwell on 1 = afraid of 
 < be in a overwrought / oversensitive state
 sentimental (adj) = oversensitive (adj) for mental
 allergic (adj) = hypersensitive (adj) for physical
@@ -394,6 +395,8 @@ oust = recall (v) force sb to leave a position of power
 overthrow (government)
 demolish (theory, building)
 
+bark (v) dog noise (n) skin of tree
+
 barn (n) a building where animals and grain are kept
 
 barnacle (n) 藤壺
@@ -402,7 +405,8 @@ tentacle (n) 觸手
 barrel 1 (n) bucket, gun tube
 barrel 2 (v) run very fast = dash = rush
 buck 公鹿
-bull = cattle = ox (n) 公牛
+[pro] buffalo = cattle
+bull  = ox (n) 公牛
 扣環 (n) buckle = clasp
 扣住 (v) buckle
 抓住 (v) clasp = clutch = grab = grasp = grip
@@ -420,34 +424,32 @@ mine 地雷 礦脈(vein) 受詞我的
 
 barter sth for sth with sb 以物易物
 
-batter (v) hit sb/sth many times (n) mixed of flour, eggs, milk
+batter (v) hit sb/sth many times (n) mixed of flour, eggs, milk (n) baseball hitter
 
-bay (n) 海灣 (v) bark
+bay (n) 海灣
 keep sth in bay = 4.
 1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = shun
 2. 拒絕 reject = turn down
-3. 妨礙/干擾 disrupt = disturb = hamper= hinder = interfere = intervene = obstruct = purturb
-4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard = stem = suppress
+3. 妨礙/干擾 disrupt = disturb = hamper = hinder = interfere = intervene = obstruct = purturb
+4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
 5. 禁止 ban = block = forbidden = prohibit
 interleave (v) 交錯
 inhibit (v) slow down a (biological) process
 confinement (n) 禁閉室
-go off the rail (v) behaves inappropriately
-derail (v) come off the railway track
 dodgeball (n)
 
-bazaar (n) a market for raise money for an organization
-bizarre (adj) = eccentric = erratic = grotesque = peculiar = strange = weird = unconventional = unorthodox = unusual (adj)
+bazaar (n) a market for raise fund for an organization
+bizarre (adj) = eccentric = grotesque = peculiar = strange = weird = unconventional = unorthodox = unusual (adj)
 <-> conventional = orthodox (adj)
 convention (n) custom or agreement
 drive in an erratic course (v) 蛇行
 
-be stuck in the friendzone with (v) 被發好人卡
-suffered from one-sided love (v)
-
-beacon (n) 燈塔
+bacon (n) 培根
+bagel (n) 貝果
+beacon (n) 燈塔; 指引光明的人或物
 
 Bearing 軸承
+
 beat around the bush (v) 拐彎抹角
 give sb the runaround (v) 敷衍
 perfunctory (adj) 敷衍的
@@ -460,19 +462,23 @@ Behind time = late
 bring/has benefits/profits to = be beneficial/conducive to
 advantages (n)
 be detrimental/harmful to
-disadvantages (n) = drawback = downside 
-strong sense of inferiority
+disadvantages (n) = drawback = downside
 
-berth (n) = bunk (n) bed in ship or train
-berth (v) stop (ship) at a place
+berth (n) bed in ship or train
+bunk (n) two bed attach together, one on top and on at down
+berth (v) (ship) stop along a place
 
 be beset by (v) having trouble with
 siege (n) surrounded of a place by an armed force
 
-bitumen = asphalt (n)(v) = pitch (n) 瀝青
+[pro bi/by-chu-men] bitumen = asphalt (n)(v) = pitch (n) 瀝青
 pave (v)
-football pitch, pitch=level or degree, pitch a baseball ~ a good/bad pitch, pitch a tent
-fling = hurl = heave = pitch = throw = toss (v)
+1 (football) pitch (n) a sports area
+2 pitch (n) level or degree
+3 pitch a baseball (n) a good/bad pitch
+4 pitch a tent (v) 紮營
+fling = hurl (v) throw with a lot force
+heave = pitch = throw = toss (v)
 haul (v) pull something heavy
 
 bishop (n) prime priest
@@ -1326,6 +1332,9 @@ vocal (adj) related to voice e.g. vocal range
 erect (v) build; raise sth vertically; 勃起的 (adj)
 establish (v) = set up
 
+drive in an erratic course (v) 蛇行
+errotic (adj) sth relate to sexual
+
 erroneous (adj) = wrong = incorrect
 
 essay (n) = article (n) = composition (n)
@@ -1448,6 +1457,9 @@ autopsy (n) examination of a dead body to discover the reason of death
 coroner (n) people (carry out)/perform autopsy
 
 fortify = intensify = reinforce
+
+be stuck in the friendzone (v) 被發好人卡
+= suffered from one-sided love (v)
 
 From now on = henceforth 
 Since then = after that = from then on = ever since = thereafter
@@ -1747,6 +1759,8 @@ There is still a lingering fear in my heart
 stroll (v) go for a walk
 wander (v) = roam (v) walk around slowly without purpose
 
+tide (n) 潮汐, 浪潮
+
 tip 1 (v) = incline = tilt
 tip 2 (v) dump = pour
 tip 3 (v)(n) give extra money to server
@@ -1780,6 +1794,8 @@ Veil (v) 遮蔽
 villain = scoundrel (n)
 
 volatility (n) 揮發性 動盪
+
+voyage (n)
 
 [WWW]
 
