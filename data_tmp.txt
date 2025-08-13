@@ -1,78 +1,118 @@
-barrel 1 (n) bucket, gun tube
-barrel 2 (v) run very fast = dash = rush
-buck 公鹿
-[pro] buffalo = cattle
-bull  = ox (n) 公牛
-扣環 (n) buckle = clasp
-扣住 (v) buckle
-抓住 (v) clasp = clutch = grab = grasp = grip
-夾住 (v) clip = clamp
-黏住 (v) cling; clingy (n) 黏人精
-固定 (v) fasten
-buckle up = fasten seat belt
+[pro bee shop] bishop (n) prime priest
+[pro prist] priest (n) person perform religious duties for other religions
+pastor = minister (n) person perform religious duties for Christianity
 
-barren = infertile = unproductive ~ desolate (adj)
-<-> abundant = ample = fertile = productive = prolific (adj)
-remote (adj) far, far from city center
+blame (v) = rebuke = reproach = scold
+criticize = condemn = denounce = deplore = slam
 
-barricade (n) object stop people going
-mine 地雷 礦脈(vein) 受詞我的
+blast = explode (v)
+blaze (n)(v) = flare (up) (n)(v)
 
-barter sth for sth with sb 以物易物
+outlook/prospect is (bleak <-> promising)
+overshadow (v) make sb/sth’s outlook not promising
+(in) eclipse (n) situation becomes less important; 日食 or 月食
+fade away (v)
+fade in/out (v)
+prospectus (n) document giving details of a school or business
 
-batter (v) hit sb/sth many times (n) mixed of flour, eggs, milk (n) baseball hitter
+bland (adj) <-> has a strong flavor
 
-bay (n) 海灣
-keep sth in bay = 4.
-1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = shun
-2. 拒絕 reject = turn down
-3. 妨礙/干擾 disrupt = disturb = hamper = hinder = interfere = intervene = obstruct = purturb
-4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
-5. 禁止 ban = block = forbidden = prohibit
-interleave (v) 交錯
-inhibit (v) slow down a (biological) process
-confinement (n) 禁閉室
-dodgeball (n)
+blend (n)(v) = composite = mix / mixture > compound > molecule > atom
+synthesize (v) produce sth by a chemical reaction
+synthetic (adj)
+concoct (v) make food by adding different things together; invent excuse/story to deceive sb
 
-bazaar (n) a market for raise fund for an organization
-bizarre (adj) = eccentric = grotesque = peculiar = strange = weird = unconventional = unorthodox = unusual (adj)
-<-> conventional = orthodox (adj)
-convention (n) custom or agreement
-drive in an erratic course (v) 蛇行
+blink (v) close and open eyes; flash on and off = twinkle
+brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
+[pro Pre|ci|pi|tate]
+	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
+	Precipitate (adj) = careless = hasty = indiscreet = impetuous = reckless = sloppy
+	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
+on the fly (adv) do something quickly without preparation
+bustling = busy = hectic (adj)
+swamp with (n) busy for, swamp (n) 沼澤
 
-bacon (n) 培根
-bagel (n) 貝果
-beacon (n) 燈塔; 指引光明的人或物
+(v) bloom = burgeon = develop fast = grow fast = flourish = prosper = thrive
+(adj) blooming = flourishing = prosperous = thriving
 
-Bearing 軸承
+beforehand = in advance = previously 
 
-beat around the bush (v) 拐彎抹角
-give sb the runaround (v) 敷衍
-perfunctory (adj) 敷衍的
+blaring (adj) loud
 
-On sb’s behalf = for sb
+an ink blot (n) a small area of ink
 
-Behind the times = obsolete = old-fashioned = outdated = out of date
-Behind time = late
+blunder (v) = make a serious mistake = make a blunder  
 
-bring/has benefits/profits to = be beneficial/conducive to
-advantages (n)
-be detrimental/harmful to
-disadvantages (n) = drawback = downside
+blunt <-> sharp (adj)
 
-berth (n) bed in ship or train
-bunk (n) two bed attach together, one on top and on at down
-berth (v) (ship) stop along a place
+adventurous 1 (adj), bold = daring (+/-) (adj), courageous = brave (+) (adj)
+<-> timid = cowardly (adj); [pro cow-ard] coward (n) timid people
+adventurous 2 (adj) exciting and often dangerous
+bald (n) no hair
+courage (n) = fortitude (n) = bravery (n)
 
-be beset by (v) having trouble with
-siege (n) surrounded of a place by an armed force
+blush (v)(n) = embarrass
+defile (v) = humiliate = insult = offend = put sb to shame
+show one’s contempt / disdain / defiance / despise
 
-[pro bi/by-chu-men] bitumen = asphalt (n)(v) = pitch (n) 瀝青
-pave (v)
-1 (football) pitch (n) a sports area
-2 pitch (n) level or degree
-3 pitch a baseball (n) a good/bad pitch
-4 pitch a tent (v) 紮營
-fling = hurl (v) throw with a lot force
-heave = pitch = throw = toss (v)
-haul (v) pull something heavy
+bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
+bond (n) relationship; 公債; 保釋金
+bail sb out of jail 保釋
+hail 冰雹, freeze <-> melt
+
+bonus
+year-end bonus
+performance bonus
+profit bonus
+
+phone booth (n) small space that a person can go into
+
+boring (adj) = dreary = dull = humdrum = insipid = monotonous = tedious
+mundane 世俗的 = very ordinary
+[cp] dreadful (adj), dread to v (v), dreary (adj)
+
+boundary = border
+frontier (n) border of a country
+
+bounty (n) = reward
+
+[pro] bouquet (n) a bunch/bundle of flowers
+
+breach (v) break the law 
+bleach (n) 漂白水 (v) 漂白
+
+break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
+
+breathtaking = magnificent = spectacular (adj) = very beautiful (scene)
+spectator = audience (n)
+
+breeze (n) things easy to do; small wind
+
+brew (v) make beer, coffee or tea; (n) beer
+sth is brewing (v) unpleasant thing is gonna happen
+conceive (+) (v) imagine; plan; be pregnant
+contrive (+/-)(v) invent or plan
+devise (+)(v) invent
+conspire (-)(v) plan
+
+bribe (v)(n)
+
+briefs (n) = underpants
+
+brisk (adj) quick/energetic (tone/pace)
+dynamic 1 (adj) = energetic = exuberant 1
+dynamic 2 (adj) changing
+exuberant 2 (adj) (plants) strong and growing quickly
+
+brittle = fragile (adj)
+crisp (adj) (for food)
+crispy (adj)
+
+[pro] brochure = booklet = pamphlet
+prospectus, leaflet, handout
+[pro] bronchus (n) 支氣管
+windpipe (n) 氣管
+
+brutal = cruel = savage = ruthless = inhuman (adj) = tyrannical (strong to weak)
+barbarian = savage (n) less social and more violent 
+barber (shop) (n) people cut hair (shop)

@@ -481,11 +481,12 @@ fling = hurl (v) throw with a lot force
 heave = pitch = throw = toss (v)
 haul (v) pull something heavy
 
-bishop (n) prime priest
-[pro] priest (n) person perform religious duties for other religions
-pastor = minister (n) person perform religious duties for [pro] Christianity
+[pro bee shop] bishop (n) prime priest
+[pro prist] priest (n) person perform religious duties for other religions
+pastor = minister (n) person perform religious duties for Christianity
 
-blame (v) = criticize = condemn = denounce = deplore = rebuke sb for sth = reproach sb for sth = slam = scold sb for sth
+blame (v) = rebuke = reproach = scold
+criticize = condemn = denounce = deplore = slam
 
 blast = explode (v)
 blaze (n)(v) = flare (up) (n)(v)
@@ -497,20 +498,24 @@ fade away (v)
 fade in/out (v)
 prospectus (n) document giving details of a school or business
 
+bland (adj) <-> has a strong flavor
+
 blend (n)(v) = composite = mix / mixture > compound > molecule > atom
-syn|the|size (v) produce sth by a chemical reaction; (adj) syn|the|tic
+synthesize (v) produce sth by a chemical reaction
+synthetic (adj)
 concoct (v) make food by adding different things together; invent excuse/story to deceive sb
 
 blink (v) close and open eyes; flash on and off = twinkle
-brink = cliff = [pro] pre|ci|pi|ce; cape 海角
-Pre|ci|pi|tate (v) make sth happen faster = facilitate = [pro Xp代特] expedite
-Pre|ci|pi|tate (adj) = careless = hasty = indiscreet = impetuous  = reckless = sloppy
+brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
+[pro Pre|ci|pi|tate]
+	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
+	Precipitate (adj) = careless = hasty = indiscreet = impetuous = reckless = sloppy
+	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
 on the fly (adv) do something quickly without preparation
 bustling = busy = hectic (adj)
 swamp with (n) busy for, swamp (n) 沼澤
-Pre|ci|pi|tate (v)(n) = sediment (n) solid separated from a liquid and sink often
 
-(v) bloom = burgeon = develop = grow = flourish = prosper =  thrive
+(v) bloom = burgeon = develop fast = grow fast = flourish = prosper = thrive
 (adj) blooming = flourishing = prosperous = thriving
 
 beforehand = in advance = previously 
@@ -524,7 +529,7 @@ blunder (v) = make a serious mistake = make a blunder
 blunt <-> sharp (adj)
 
 adventurous 1 (adj), bold = daring (+/-) (adj), courageous = brave (+) (adj)
-<-> timid = cowardly (adj); coward (n) timid people
+<-> timid = cowardly (adj); [pro cow-ard] coward (n) timid people
 adventurous 2 (adj) exciting and often dangerous
 bald (n) no hair
 courage (n) = fortitude (n) = bravery (n)
@@ -533,7 +538,7 @@ blush (v)(n) = embarrass
 defile (v) = humiliate = insult = offend = put sb to shame
 show one’s contempt / disdain / defiance / despise
 
-bolt (n) bar to lock a door; lightning (v) lock a door by a bolt
+bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
 bond (n) relationship; 公債; 保釋金
 bail sb out of jail 保釋
 hail 冰雹, freeze <-> melt
@@ -547,15 +552,17 @@ phone booth (n) small space that a person can go into
 
 boring (adj) = dreary = dull = humdrum = insipid = monotonous = tedious
 mundane 世俗的 = very ordinary
-[cp] dreadful (adj), dread (v), dreary (adj)
+[cp] dreadful (adj), dread to v (v), dreary (adj)
 
-boundary = border; frontier (n) border of a country
+boundary = border
+frontier (n) border of a country
 
 bounty (n) = reward
 
 [pro] bouquet (n) a bunch/bundle of flowers
 
 breach (v) break the law 
+bleach (n) 漂白水 (v) 漂白
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
 
@@ -567,7 +574,6 @@ breeze (n) things easy to do; small wind
 brew (v) make beer, coffee or tea; (n) beer
 sth is brewing (v) unpleasant thing is gonna happen
 conceive (+) (v) imagine; plan; be pregnant
-conceive the notion of (v) think to do <-> cast aside/away/off (v) think not to do
 contrive (+/-)(v) invent or plan
 devise (+)(v) invent
 conspire (-)(v) plan
@@ -581,7 +587,9 @@ dynamic 1 (adj) = energetic = exuberant 1
 dynamic 2 (adj) changing
 exuberant 2 (adj) (plants) strong and growing quickly
 
-brittle = fragile (adj); crisp (adj) (for food)
+brittle = fragile (adj)
+crisp (adj) (for food)
+crispy (adj)
 
 [pro] brochure = booklet = pamphlet
 prospectus, leaflet, handout
@@ -1612,6 +1620,9 @@ outright (adv) completely
 over the period of = during
 
 [PPP]
+
+patcher (n) mixture of different things
+
 pattern (n) 格局
 
 pay off (v) succeed
