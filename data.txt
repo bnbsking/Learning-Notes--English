@@ -25,6 +25,8 @@ mug (n) a cup with straight sides and a handle; fool = moron
 cheat on (v) (exam / people / money)
 = deceive (v) = scam on (v)
 scam (n) = fraud (n)
+勒索
+extort (v)
 
 be accountable/responsible for
 
@@ -452,6 +454,8 @@ Bearing 軸承
 
 beat around the bush (v) 拐彎抹角
 give sb the runaround (v) 敷衍
+going in circles 鬼打牆
+(trapped in / leads to <-> break) a vicious circle
 perfunctory (adj) 敷衍的
 
 On sb’s behalf = for sb
@@ -504,6 +508,7 @@ blend (n)(v) = composite = mix / mixture > compound > molecule > atom
 synthesize (v) produce sth by a chemical reaction
 synthetic (adj)
 concoct (v) make food by adding different things together; invent excuse/story to deceive sb
+coalesce into (v) = unite = combine = merge = fuse; mix = blend
 
 blink (v) close and open eyes; flash on and off = twinkle
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
@@ -536,7 +541,7 @@ courage (n) = fortitude (n) = bravery (n)
 
 blush (v)(n) = embarrass
 defile (v) = humiliate = insult = offend = put sb to shame
-show one’s contempt / disdain / defiance / despise
+show one’s contempt / disdain / despise
 
 bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
 bond (n) relationship; 公債; 保釋金
@@ -574,22 +579,22 @@ breeze (n) things easy to do; small wind
 brew (v) make beer, coffee or tea; (n) beer
 sth is brewing (v) unpleasant thing is gonna happen
 conceive (+) (v) imagine; plan; be pregnant
-contrive (+/-)(v) invent or plan
-devise (+)(v) invent
+contrive (+/-)(v) plan
+devise (+)(v) design
 conspire (-)(v) plan
 
 bribe (v)(n)
 
 briefs (n) = underpants
 
-brisk (adj) quick/energetic (tone/pace)
-dynamic 1 (adj) = energetic = exuberant 1
+brisk (adj) quick/energetic (tone/pace/start)
+dynamic 1 (adj) = energetic = exuberant 1 = vibrant
 dynamic 2 (adj) changing
 exuberant 2 (adj) (plants) strong and growing quickly
+vibrate (v) oscillate = jolt
 
-brittle = fragile (adj)
-crisp (adj) (for food)
-crispy (adj)
+brittle = fragile = crisp = crispy (adj)
+crisp (adj) cold and dry
 
 [pro] brochure = booklet = pamphlet
 prospectus, leaflet, handout
@@ -603,19 +608,19 @@ barber (shop) (n) people cut hair (shop)
 bud 花苞
 petal 花瓣
 
-bulge (v)(n) = distend = swell (v) = bump (n) larger and rounder than usual
+bulge (v)(n) = distend (for body) = swell (v) become larger and rounder than usual
+bump (n)
 bump/run into (v) = encounter (v) = come across (v)
 collide with (v) = crash
 
-Butcher (n)(v) = massacre (n)(v) = slaughter (n)(v) = holocaust (n)
+Butcher (n)(v) = massacre (n)(v) = slaughter (n)(v)
+holocaust (n)
 
 bypass (v) 繞過 (n) branch
 pass by (v) 經過
 miss the stop
 underpass (n) road underground
 underway = ongoing (adj)
-going in circles 鬼打牆
-(trapped in / leads to <-> break) a vicious circle
 
 bungalow, cabin
 
@@ -623,12 +628,12 @@ by = by means of = via
 
 [CCC]
 
-cadets (n) student in army or police
+[pro k-det] cadets (n) student in army or police
 
 call for sth = appeal for sth
 call off = cancel
 campaign (n)(v) political/business/military activities
-tournament -> quarterfinal -> semifinal -> final (n)
+tournament -> quarterfinal -> semifinal / final (n)
 
 cannibal (n) people who eats human
 
@@ -641,7 +646,8 @@ capital punishment (n) death punishment
 
 cardinal = chief = critical = crucial = essential = important = indispensable = significant = vital
 chief (n) leader
-[pro] chef (n) primary people that cooks food; [pro] sous-chef (n) secondary chef
+[pro] chef (n) primary people that cooks food
+[pro su-chef] sous-chef (n) secondary chef
 
 cascade (n) waterfall
 
@@ -653,22 +659,23 @@ leash (n) 牽繩
 
 carpenter 木匠, electrician, plumber
 
-carry away = very exciting
+be carried away (adj) very exciting
 carry on sth (v) resume = continue 
-carry out sth (v) execute
-carry through (v) complete successfully
+carry out sth (v) to do or complete
+carry through (v) help sb to deal with difficult situation
 
 carton 紙箱
 
-cast away/off (v) = get rid of (v) = discard = dispose = do away with = dump (carelessly)
-break away (v) escape from sb holding you; stop being a part of a group
+cast (v) send light; throw
+break away = cast away/off (v) = get rid of (v) = discard = dispose = do away with
+dump (v) (real thing or people)
 dump sb <-> get dumped by sb (v) break up with sb actively or passively
 
 castrate (v) remove the testicles
 neuter (v) remove genitals from an animal
-ligation (n) tying a tube in body
+ligation (n) tying a tube in body (not usually in sex)
 
-catalogue=catalog (n) menu of goods; contents 目錄; outline 大綱; index
+catalogue = catalog (n) menu of goods; contents 目錄; outline 大綱; index
 a catalog of disaster
 a succession of scandals
 in succession = continuously
@@ -696,11 +703,10 @@ cellar (n) basement stores food
 [pro] cement = concrete
 [pro] cemetery = graveyard (n) place buried dead people
 grave = tomb (important people) (n) the stone of a dead person in a graveyard
-have one’s foot in the grave
+have one’s foot in the grave (n) near death
 gravel (n) small round stones mixed with sands
 
 ceasefire
-A defiance against (n); fight against (v)
 rebel (v) = revolt
 rebel troop (n), overthrow the regime (v), start a crackdown on the protesters (v)
 crack down on (v) dealing with illegal behavior severely
@@ -757,9 +763,12 @@ city center
 
 clan (n) large family with same name
 
-clash (n) = collision = conflict,  confrontation (n) defiance
+clash (n) = collision = conflict = antagonism
+confrontation (n) = defiance
+A defiance against (n); fight against (v)
 confront (v) face
 an countervailing force against (n) having equal force but an opposite effect
+counterbalance (v)
 
 climate (n) 1. 氣候 2. atmosphere
 
@@ -768,21 +777,21 @@ climax (n) = peak = pinnacle = summit
 culminate in = end up with (v)
 
 Cloak = disguise = mask (n)(v)
+cloak and dagger (adj) 遮遮掩掩的, dagger 匕首
 
-coerce (v) = compel = force = mandate  = [pro] oblige = obligate
+coerce (v) = compel = force = mandate = [pro] oblige = obligate
 duty (n) = obligation (n)
 intimidate (v) = menace = threaten
-	extort (v) get sth by threatening sb
+	
 compulsory (adj) = [pro] mandatory = obligatory
-enforce = outlaw (v) make people obey the law; enforcement (n)
-
-coalesce into (v) = unite = combine = merge = fuse; mix = blend
+enforce (v) make people obey the law
+outlaw (v) treat something as illegal
 
 collaboration = cooperation (n)
 
 collocation (n) usually combined words
 colloquial (adj) words informal and used in speech only
-colloquium (n) a formal meeting for discussing something
+colloquium (n) a formal meeting for discussing something (like seminar)
 
 colossal (adj) = enormous = giant = gigantic = huge = immense = vast
 considerable (adj) = countless = massive = numerous = tremendous = a plenty of
@@ -1011,10 +1020,6 @@ redeem 2 (v) = compensate (v) make sth less bad; redeeming (adj) not really bad
 ransom (v)(n) pay that exchange sb/sth free
 
 defer = postpone = put off (v) delay sth
-
-defiance 1 (n) = confrontation = antagonism
-defiance against 2 (n) = fight against
-(show) defiance 3 (n) = contempt = disdain
 
 deficiency (n) = inadequacy = insufficiency = lack = scarcity = shortage
 <-> adequacy (n) = sufficiency
@@ -1515,6 +1520,8 @@ hit the nail on the head (v) 一針見血
 
 hitch (v) 拴住
 
+hunchback (n) 駝背
+
 hygienic (adj)
 sanitization (n)
 hand sanitizer (n)
@@ -1566,6 +1573,8 @@ radical (adj); extremist (n); intellectual (n)
 lesion (n)
 
 Lethargic = lazy
+
+lucrative (adj) profitable
 
 [MMM]
 manage to eke out sth (v) sth is inadequate so use slowly
@@ -1705,6 +1714,7 @@ seek a second term 尋求連任
 serenity (n) peaceful and calm
 tranquil (adj)
 tranquilizer (n) 鎮定劑
+tranquility (n) peace. e.g. the tranquility will not last.
 haven (n) 避風港
 
 shallow person (n) superficial / lack of depth people
@@ -1758,6 +1768,8 @@ motion sickness pill (n)
 
 [TTT]
 tabloid (n)(adj) 八卦(的)小報 <-> broadsheet 大報 (n)
+
+tariff (n) 關稅
 
 temptress (n) 狐狸精
 

@@ -1,113 +1,3 @@
-[pro bee shop] bishop (n) prime priest
-[pro prist] priest (n) person perform religious duties for other religions
-pastor = minister (n) person perform religious duties for Christianity
-
-blame (v) = rebuke = reproach = scold
-criticize = condemn = denounce = deplore = slam
-
-blast = explode (v)
-blaze (n)(v) = flare (up) (n)(v)
-
-outlook/prospect is (bleak <-> promising)
-overshadow (v) make sb/sth’s outlook not promising
-(in) eclipse (n) situation becomes less important; 日食 or 月食
-fade away (v)
-fade in/out (v)
-prospectus (n) document giving details of a school or business
-
-bland (adj) <-> has a strong flavor
-
-blend (n)(v) = composite = mix / mixture > compound > molecule > atom
-synthesize (v) produce sth by a chemical reaction
-synthetic (adj)
-concoct (v) make food by adding different things together; invent excuse/story to deceive sb
-
-blink (v) close and open eyes; flash on and off = twinkle
-brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
-[pro Pre|ci|pi|tate]
-	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
-	Precipitate (adj) = careless = hasty = indiscreet = impetuous = reckless = sloppy
-	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
-on the fly (adv) do something quickly without preparation
-bustling = busy = hectic (adj)
-swamp with (n) busy for, swamp (n) 沼澤
-
-(v) bloom = burgeon = develop fast = grow fast = flourish = prosper = thrive
-(adj) blooming = flourishing = prosperous = thriving
-
-beforehand = in advance = previously 
-
-blaring (adj) loud
-
-an ink blot (n) a small area of ink
-
-blunder (v) = make a serious mistake = make a blunder  
-
-blunt <-> sharp (adj)
-
-adventurous 1 (adj), bold = daring (+/-) (adj), courageous = brave (+) (adj)
-<-> timid = cowardly (adj); [pro cow-ard] coward (n) timid people
-adventurous 2 (adj) exciting and often dangerous
-bald (n) no hair
-courage (n) = fortitude (n) = bravery (n)
-
-blush (v)(n) = embarrass
-defile (v) = humiliate = insult = offend = put sb to shame
-show one’s contempt / disdain / defiance / despise
-
-bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
-bond (n) relationship; 公債; 保釋金
-bail sb out of jail 保釋
-hail 冰雹, freeze <-> melt
-
-bonus
-year-end bonus
-performance bonus
-profit bonus
-
-phone booth (n) small space that a person can go into
-
-boring (adj) = dreary = dull = humdrum = insipid = monotonous = tedious
-mundane 世俗的 = very ordinary
-[cp] dreadful (adj), dread to v (v), dreary (adj)
-
-boundary = border
-frontier (n) border of a country
-
-bounty (n) = reward
-
-[pro] bouquet (n) a bunch/bundle of flowers
-
-breach (v) break the law 
-bleach (n) 漂白水 (v) 漂白
-
-break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
-
-breathtaking = magnificent = spectacular (adj) = very beautiful (scene)
-spectator = audience (n)
-
-breeze (n) things easy to do; small wind
-
-brew (v) make beer, coffee or tea; (n) beer
-sth is brewing (v) unpleasant thing is gonna happen
-conceive (+) (v) imagine; plan; be pregnant
-contrive (+/-)(v) invent or plan
-devise (+)(v) invent
-conspire (-)(v) plan
-
-bribe (v)(n)
-
-briefs (n) = underpants
-
-brisk (adj) quick/energetic (tone/pace)
-dynamic 1 (adj) = energetic = exuberant 1
-dynamic 2 (adj) changing
-exuberant 2 (adj) (plants) strong and growing quickly
-
-brittle = fragile (adj)
-crisp (adj) (for food)
-crispy (adj)
-
 [pro] brochure = booklet = pamphlet
 prospectus, leaflet, handout
 [pro] bronchus (n) 支氣管
@@ -116,3 +6,197 @@ windpipe (n) 氣管
 brutal = cruel = savage = ruthless = inhuman (adj) = tyrannical (strong to weak)
 barbarian = savage (n) less social and more violent 
 barber (shop) (n) people cut hair (shop)
+
+bud 花苞
+petal 花瓣
+
+bulge (v)(n) = distend (for body) = swell (v) become larger and rounder than usual
+bump (n)
+bump/run into (v) = encounter (v) = come across (v)
+collide with (v) = crash
+
+Butcher (n)(v) = massacre (n)(v) = slaughter (n)(v)
+holocaust (n)
+
+bypass (v) 繞過 (n) branch
+pass by (v) 經過
+miss the stop
+underpass (n) road underground
+underway = ongoing (adj)
+
+bungalow, cabin
+
+by = by means of = via
+
+[CCC]
+
+[pro k-det] cadets (n) student in army or police
+
+call for sth = appeal for sth
+call off = cancel
+campaign (n)(v) political/business/military activities
+tournament -> quarterfinal -> semifinal / final (n)
+
+cannibal (n) people who eats human
+
+canny = shrewd = intelligent (adj)
+intellectual (adj) relate to intelligence (n) very educated person
+
+cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
+
+capital punishment (n) death punishment
+
+cardinal = chief = critical = crucial = essential = important = indispensable = significant = vital
+chief (n) leader
+[pro] chef (n) primary people that cooks food
+[pro su-chef] sous-chef (n) secondary chef
+
+cascade (n) waterfall
+
+cause (v) = give rise to = bring about = lead to = result in
+cause public outrage (v) 引起公憤
+
+collar (n) 領子 項圈
+leash (n) 牽繩
+
+carpenter 木匠, electrician, plumber
+
+be carried away (adj) very exciting
+carry on sth (v) resume = continue 
+carry out sth (v) to do or complete
+carry through (v) help sb to deal with difficult situation
+
+carton 紙箱
+
+cast (v) send light; throw
+break away = cast away/off (v) = get rid of (v) = discard = dispose = do away with
+dump (v) (real thing or people)
+dump sb <-> get dumped by sb (v) break up with sb actively or passively
+
+castrate (v) remove the testicles
+neuter (v) remove genitals from an animal
+ligation (n) tying a tube in body (not usually in sex)
+
+catalogue = catalog (n) menu of goods; contents 目錄; outline 大綱; index
+a catalog of disaster
+a succession of scandals
+in succession = continuously
+successive = consecutive = continuous (adj)
+contiguous with/to = next to
+cater to (v) provide wanted to sb that is unusual or unacceptable
+	flatter (v) praise sb to make them feel attractive in a way that is not sincere
+	ass-kisser (n) 馬屁精
+satisfy sb (v); be content with
+Contend with = compete with = vie with (v)
+contest (n) = competition
+directory (n) give information of travel or address or phones 
+guidebook (n) give information of travel
+
+catalyst 催化劑 e.g. enzyme 酶
+caustic (adj) 腐蝕性的, speaking critical
+[pro] corrode (adj) (metal) slowly damaged by water or air; corrosion (n)
+erode (v) (cliff/statue/confidence) to be rubbed away gradually; erosion (n)
+
+caution (n) = caveat = warning
+
+cellar (n) basement stores food
+<-> attic (n) space under the roof and on top of a building
+
+[pro] cement = concrete
+[pro] cemetery = graveyard (n) place buried dead people
+grave = tomb (important people) (n) the stone of a dead person in a graveyard
+have one’s foot in the grave (n) near death
+gravel (n) small round stones mixed with sands
+
+ceasefire
+rebel (v) = revolt
+rebel troop (n), overthrow the regime (v), start a crackdown on the protesters (v)
+crack down on (v) dealing with illegal behavior severely
+
+censor (n) examiner for news, books, films
+
+ceramics = pottery 陶器; porcelain 瓷器
+
+be certain (to) (adj) = sure
+certain (adj) 某個
+certainly = definitely
+
+certify = prove = substantiate
+
+cathedral (n) huge church; chapel (n) small church
+
+characteristic 1 (n) = feature = attribute = property, trait (for people)
+characteristic 2 (adj) = typical = usual = normal
+portrait (n) a painting of a people
+
+charity (n) a system of helping ill, no home, poor
+philanthropist (n) people support charity
+patron 1 (n) = donor = sponsor = supporter = contributor
+patron 2 (n) regularly visiting customer
+donate (v) ~ endow (v) (for hospital or school)
+
+chasm 1 (n) deep crevice
+chasm 2 (n) opinion gap between two groups
+
+chaste (adj) have sex only to the person married to
+chastity (n)
+
+[pro] male chauvinism <-> feminism
+
+chic = stylish = fashionable (adj)
+
+chisel (n)(v) 鑿 = dig (v) = excavate (v)
+
+[pro, kwㄞr] choir (n) a group of people sing together
+[pro] chore (n) work is often boring but needs to be done regularly
+drudgery (n) work is boring (and hard maybe)
+get some errand (v) 辦事
+[pro, h->x] chord 和弦
+
+civil 1 (adj) = civic (adj) not military or religious, just ordinary people; civilian (n)
+civil 2 (adj) 民事的 <-> criminal (adj) 刑事的 <-> administrative (adj) 行政的
+criminal record (n)
+civil 3 (adj) = cordial = courteous = polite (adj) 有禮貌的, 客氣的
+courtesy (n), etiquette (n) more rules for courtesy
+demeanour (n) 風度
+decent (adj) socially acceptable (style/person/wearing)
+
+city center
+
+clan (n) large family with same name
+
+clash (n) = collision = conflict = antagonism
+confrontation (n) = defiance
+A defiance against (n); fight against (v)
+confront (v) face
+an countervailing force against (n) having equal force but an opposite effect
+counterbalance (v)
+
+climate (n) 1. 氣候 2. atmosphere
+
+climax (v) the most important/exciting point in a story or situation, especially close to the end
+climax (n) = peak = pinnacle = summit
+culminate in = end up with (v)
+
+Cloak = disguise = mask (n)(v)
+cloak and dagger (adj) 遮遮掩掩的, dagger 匕首
+
+coerce (v) = compel = force = mandate = [pro] oblige = obligate
+duty (n) = obligation (n)
+intimidate (v) = menace = threaten
+	
+compulsory (adj) = [pro] mandatory = obligatory
+enforce (v) make people obey the law
+outlaw (v) treat something as illegal
+
+collaboration = cooperation (n)
+
+collocation (n) usually combined words
+colloquial (adj) words informal and used in speech only
+colloquium (n) a formal meeting for discussing something (like seminar)
+
+colossal (adj) = enormous = giant = gigantic = huge = immense = vast
+considerable (adj) = countless = massive = numerous = tremendous = a plenty of
+a great deal of (adj) for uncountable
+
+combustible (adj) easy to be burned
