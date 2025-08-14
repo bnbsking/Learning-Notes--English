@@ -380,7 +380,6 @@ badge 徽章
 
 [pro] ascertain (v) make sth clear
 Baffle = bewilder = confuse = perplex (v)
-defer = postpone = put off << procastinate 
 
 balcony, colony
 colonel 上校
@@ -571,6 +570,7 @@ bounty (n) = reward
 
 breach (v) break the law 
 bleach (n) 漂白水 (v) 漂白
+detergent (n) 清潔劑; 洗衣精; 洗碗精
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
 
@@ -798,6 +798,8 @@ outlaw (v) treat something as illegal
 
 collaboration = cooperation (n)
 
+collect onesself (v) 沉澱心情
+
 collocation (n) usually combined words
 colloquial (adj) words informal and used in speech only
 colloquium (n) a formal meeting for discussing something (like seminar)
@@ -998,11 +1000,12 @@ Dart (n) 飛鏢
 
 Daunt (v) discourage
 
-debate (v) = dispute (v) = disagree with = argue about/over = quarrel about/over
-debate (n) = dispute (n) = disagreement = argument = quarrel
+debate (v) = disagree with = argue about/over = quarrel about/over
+debate (n) = disagreement = argument = quarrel
+dispute (v)(n) usaully for salary or two countries 
 
 decide (v) = determine 
-decisive (adj) make decision quickly and confidently <-> indecisive
+[pro de-sai-sive] decisive (adj) make decision quickly and confidently <-> indecisive
 determinate (adj) fixed and definite e.g. a contract with determinate period
 determinant (n) 行列式
 determination (n) ability to continue trying to do sth although it is very difficult
@@ -1014,27 +1017,28 @@ decorate with (v) = ornament with = adorn with
 decoration (n) = ornament
 garnish with (v)(n) for food only
 
-decree (n) = edict (n) official order that sth must happen
+decree (n) = edict (n) official order
 
-[pro 底Cr衣] decrepit (adj) very old and bad sth or sb
-[pro 底勒] dilapidated (adj) very old and bad sth
+[pro 底-cre-pit] decrepit (adj) very old and bad (sth or sb)
+[pro 底-lapi-dated] dilapidated (adj) very old and bad (sth)
 
-dedicate sb to sth (v) = devote sb to sth (v)
+dedicate sb to sth (v) = commit sb to sth = devote sb to sth (v)
 
-deduce (v) <-> conclude (v)
-derive (v)
+deduce (v) = derive = infer (v) <-> conclude (v)
 
 deduct (v) = substract (v) = minus (v)
 
 deem (v) = consider (v) = regard as (v) 考慮; 視為
 redeem 1 (v) a coupon / voucher
-redeem 2 (v) = compensate (v) make sth less bad; redeeming (adj) not really bad
+redeem 2 (v) = compensate (v) make sth less bad
+redeeming (adj) not really bad
 ransom (v)(n) pay that exchange sb/sth free
 
 defer = postpone = put off (v) delay sth
+procastinate (v) more serious delay
 
-deficiency (n) = inadequacy = insufficiency = lack = scarcity = shortage
-<-> adequacy (n) = sufficiency
+deficiency (n) = inadequacy = insufficiency = lack = scarcity = shortage = shortfall
+<-> abundance (n) adequacy (n) = sufficiency
 
 deficit (n) spent > received
 deposit (n) money saved in bank; first part pay for buying sth; pay when rent sth and return finally
@@ -1045,25 +1049,26 @@ definitive (adj) final & best & unchangeable = ultimate
 deform (v) (for real)
 distort (v) (for virtual)
 
-defraud (v) fraud 1 (n) = [pro] deceit (n)
+defraud (v) fraud 1 (n) = [pro 底-sit] deceit (n)
 fraud 2 (n) = deceiver
 
-degenerate (adj) = corrupt = decadent
+degenerate (adj) = corrupt = [pro dec-dent] decadent
 degrade (v)
 
 Degressive tax = Regressive tax
-<->Progressive tax
+<-> Progressive tax
 tax bracket (n) level of tax
 wealth inequality (n)
 economic circumstance (n)
 declare taxes (v) to report how much tax one should pay
 tax evasion (n)
 
-delinquency (n) crime of teenager=adolescent=juvenile
+delinquency (n) crime of teenager = adolescent = juvenile
 
-succumb to delirium (v) become a state of being unable to think
+[pro d-li-rium] succumb to delirium (v) become a state of being unable to think
 fantasy (n)
-pipe dream (n) = pie in the sky (n) = wishful thinking (n); chase rainbows (v)
+pipe dream (n) = pie in the sky (n) = wishful thinking (n)
+chase rainbows (v)
 
 Demography (n) the study of population
 
@@ -1075,14 +1080,14 @@ fraction (n) ½, ⅔ … = fractional number = rational number
 denote (v) = imply = indicate = mean = represent = signify = suggest 1 = show
 depict (v) can also work for arts = portray (v)
 
-[pro] deputy (n) a person whose rank is below its leader
+[pro de-pu-ty] deputy (n) a person whose rank is just below its leader
 
 dermatology (n) the study of skin and its disease
 
-desert (n)
-desert (v) leave the army without permission
-deserted (adj) = desolate (adj) (people or place) which is left alone
-dessert (n) sweet food (pronounciation is similar to the above)
+[pro de ...] desert (n)
+[pro di ...] desert (v) leave the army without permission
+[pro di ...] deserted (adj) = [pro de ...] desolate (adj) (people or place) which is left alone
+[pro di ...] dessert (n) sweet food (pronounciation is similar to the above)
 
 despair (n)
 desparate (adj)
@@ -1098,9 +1103,7 @@ have serious repercussion for (v) has bad effect for
 detach = disengage = separate (v) (sth)
 separate = segregate = freeze out (v) (sb)
 
-detergent (n)
-
-detest (v) = loathe
+detest (v) = loathe (v) very hate
 
 [pro] deviate (v) do sth is unusual; go in a different direction = drift 1 (v)
 divert to (v) change the way/purpose/attention
@@ -1112,9 +1115,12 @@ diagonal (n)
 
 diagram = figure
 
-dialect (n) language for particular area only, idiom (n), slang (n), pun (n)
+dialect (n) language for particular area only
+idiom (n); collocation
+slang (n)
+pun (n)
 
-The rules dictate that
+The rules dictate that ...
 dictate 1 (v) order with authority
 be dictated 2 (v) = be at the mercy of (v) to be controlled or influenced
 dictate 3 (v) speak to sb and let sb write it down
@@ -1146,32 +1152,36 @@ discharge (v) officially allow to leave somewhere e.g. hospital, law court; rele
 discipline (n) rules; area of study
 discipline 1 (v) punish
 discipline 2 (v) = drill 1 (v) = train (v)
-drill 2 (n) = exercise (n) = maneuver (n)
-drill 34 (n)(v) make a hole of sth 
+drill 2 (n) = exercise (n)
+maneuver (n) 軍事演習
+drill 3 (n)(v) make a hole of sth 
 
-I find him disagreeable. <-> easy-going
+I find him disagreeable / diffult. <-> easy-going
 難搞 不順眼
 
 dismiss (v) remove; remove sb from their job; (the class); (the band)
 
-in disorder
+disorder (n)
+Autonomic Dysfunction
 
 disperse (v) = scatter = spread = diffuse
 dissolve (v)
 
-displace (v) = replaced = supersede = substitute for
+displace (v) forced to leave from true position
+replace (v) = supersede = substitute for
 
 Disregard = ignore (v)
 
 disseminate (v) spread (news or idea)
 
-distil (v) 蒸餾; 凝結 = condense <-> vaporize (v) ~ evaporate (v)
+distil (v) 蒸餾
+condense (v) 凝結 <-> vaporize (v) 汽化 ~ evaporate (v) 蒸發
 freeze (v) 凝固 <-> melt (v)
 refine (v) 提煉
 extract 1 (v) 萃取 e.g. essential oil (n) 精油
 extract 2 (v) = excerpt (v) a short part taken from a speech, book, film, etc.
 extract 3 (v) = elicit (v) to get (information / support / reaction) (from sb/sth)
-well-wrought (adj) 精心製作的 = elaborate 1 (adj)
+well-wrought (adj) 精心製作的 = elaborate 1 (adj) = orchestrate
 elaborate 2 (v) = explain = elucidate = interpret
 
 (adj) distinct (to) = different (from) = dissimilar (to) = diverse 2 (adj) = unlike (adj)
@@ -1188,13 +1198,13 @@ dizzy (adj) = faint
 
 do a favor (v)
 
-dock (n) = harbor
+dock (n) = harbor = pier = port
 
 doctrine (n) = dogma (n) religious belief people should accept
 
 dome (n) round roof
 doom (n) very bad situation
-doom to (v) bad things certainly happens
+doom to (v) bad things will and must happens
 
 domestic (adj) country’s or family’s
 
@@ -1217,7 +1227,7 @@ drain off 2 (v) to consume completely
 
 downtown (n) = urban area = metropolitan area
 > suburb (n) = suburban area
->  rural area (n) = countryside (n)
+> rural area (n) = countryside (n)
 national (adj) > municipal
 
 draft 1 (n)
@@ -1617,6 +1627,8 @@ moron (n) fool
 [NNN]
 
 narrate (v) to tell a story
+narrative (n) story
+tale (n) incredulous story
 
 never been a fan of
 
@@ -1822,6 +1834,8 @@ in turmoil (adj) 動盪的
 uncooperative (adj) not willing to cooperate
 
 under torment = under torture
+
+undertake (v) to prompise; to do (sth difficult)
 
 unleash tear gas
 
