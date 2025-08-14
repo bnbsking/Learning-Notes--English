@@ -1,196 +1,3 @@
-[pro] brochure = booklet = pamphlet
-prospectus, leaflet, handout
-[pro] bronchus (n) 支氣管
-windpipe (n) 氣管
-
-brutal = cruel = savage = ruthless = inhuman (adj) = tyrannical (strong to weak)
-barbarian = savage (n) less social and more violent 
-barber (shop) (n) people cut hair (shop)
-
-bud 花苞
-petal 花瓣
-
-bulge (v)(n) = distend (for body) = swell (v) become larger and rounder than usual
-bump (n)
-bump/run into (v) = encounter (v) = come across (v)
-collide with (v) = crash
-
-Butcher (n)(v) = massacre (n)(v) = slaughter (n)(v)
-holocaust (n)
-
-bypass (v) 繞過 (n) branch
-pass by (v) 經過
-miss the stop
-underpass (n) road underground
-underway = ongoing (adj)
-
-bungalow, cabin
-
-by = by means of = via
-
-[CCC]
-
-[pro k-det] cadets (n) student in army or police
-
-call for sth = appeal for sth
-call off = cancel
-campaign (n)(v) political/business/military activities
-tournament -> quarterfinal -> semifinal / final (n)
-
-cannibal (n) people who eats human
-
-canny = shrewd = intelligent (adj)
-intellectual (adj) relate to intelligence (n) very educated person
-
-cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
-
-capital punishment (n) death punishment
-
-cardinal = chief = critical = crucial = essential = important = indispensable = significant = vital
-chief (n) leader
-[pro] chef (n) primary people that cooks food
-[pro su-chef] sous-chef (n) secondary chef
-
-cascade (n) waterfall
-
-cause (v) = give rise to = bring about = lead to = result in
-cause public outrage (v) 引起公憤
-
-collar (n) 領子 項圈
-leash (n) 牽繩
-
-carpenter 木匠, electrician, plumber
-
-be carried away (adj) very exciting
-carry on sth (v) resume = continue 
-carry out sth (v) to do or complete
-carry through (v) help sb to deal with difficult situation
-
-carton 紙箱
-
-cast (v) send light; throw
-break away = cast away/off (v) = get rid of (v) = discard = dispose = do away with
-dump (v) (real thing or people)
-dump sb <-> get dumped by sb (v) break up with sb actively or passively
-
-castrate (v) remove the testicles
-neuter (v) remove genitals from an animal
-ligation (n) tying a tube in body (not usually in sex)
-
-catalogue = catalog (n) menu of goods; contents 目錄; outline 大綱; index
-a catalog of disaster
-a succession of scandals
-in succession = continuously
-successive = consecutive = continuous (adj)
-contiguous with/to = next to
-cater to (v) provide wanted to sb that is unusual or unacceptable
-	flatter (v) praise sb to make them feel attractive in a way that is not sincere
-	ass-kisser (n) 馬屁精
-satisfy sb (v); be content with
-Contend with = compete with = vie with (v)
-contest (n) = competition
-directory (n) give information of travel or address or phones 
-guidebook (n) give information of travel
-
-catalyst 催化劑 e.g. enzyme 酶
-caustic (adj) 腐蝕性的, speaking critical
-[pro] corrode (adj) (metal) slowly damaged by water or air; corrosion (n)
-erode (v) (cliff/statue/confidence) to be rubbed away gradually; erosion (n)
-
-caution (n) = caveat = warning
-
-cellar (n) basement stores food
-<-> attic (n) space under the roof and on top of a building
-
-[pro] cement = concrete
-[pro] cemetery = graveyard (n) place buried dead people
-grave = tomb (important people) (n) the stone of a dead person in a graveyard
-have one’s foot in the grave (n) near death
-gravel (n) small round stones mixed with sands
-
-ceasefire
-rebel (v) = revolt
-rebel troop (n), overthrow the regime (v), start a crackdown on the protesters (v)
-crack down on (v) dealing with illegal behavior severely
-
-censor (n) examiner for news, books, films
-
-ceramics = pottery 陶器; porcelain 瓷器
-
-be certain (to) (adj) = sure
-certain (adj) 某個
-certainly = definitely
-
-certify = prove = substantiate
-
-cathedral (n) huge church; chapel (n) small church
-
-characteristic 1 (n) = feature = attribute = property, trait (for people)
-characteristic 2 (adj) = typical = usual = normal
-portrait (n) a painting of a people
-
-charity (n) a system of helping ill, no home, poor
-philanthropist (n) people support charity
-patron 1 (n) = donor = sponsor = supporter = contributor
-patron 2 (n) regularly visiting customer
-donate (v) ~ endow (v) (for hospital or school)
-
-chasm 1 (n) deep crevice
-chasm 2 (n) opinion gap between two groups
-
-chaste (adj) have sex only to the person married to
-chastity (n)
-
-[pro] male chauvinism <-> feminism
-
-chic = stylish = fashionable (adj)
-
-chisel (n)(v) 鑿 = dig (v) = excavate (v)
-
-[pro, kwㄞr] choir (n) a group of people sing together
-[pro] chore (n) work is often boring but needs to be done regularly
-drudgery (n) work is boring (and hard maybe)
-get some errand (v) 辦事
-[pro, h->x] chord 和弦
-
-civil 1 (adj) = civic (adj) not military or religious, just ordinary people; civilian (n)
-civil 2 (adj) 民事的 <-> criminal (adj) 刑事的 <-> administrative (adj) 行政的
-criminal record (n)
-civil 3 (adj) = cordial = courteous = polite (adj) 有禮貌的, 客氣的
-courtesy (n), etiquette (n) more rules for courtesy
-demeanour (n) 風度
-decent (adj) socially acceptable (style/person/wearing)
-
-city center
-
-clan (n) large family with same name
-
-clash (n) = collision = conflict = antagonism
-confrontation (n) = defiance
-A defiance against (n); fight against (v)
-confront (v) face
-an countervailing force against (n) having equal force but an opposite effect
-counterbalance (v)
-
-climate (n) 1. 氣候 2. atmosphere
-
-climax (v) the most important/exciting point in a story or situation, especially close to the end
-climax (n) = peak = pinnacle = summit
-culminate in = end up with (v)
-
-Cloak = disguise = mask (n)(v)
-cloak and dagger (adj) 遮遮掩掩的, dagger 匕首
-
-coerce (v) = compel = force = mandate = [pro] oblige = obligate
-duty (n) = obligation (n)
-intimidate (v) = menace = threaten
-	
-compulsory (adj) = [pro] mandatory = obligatory
-enforce (v) make people obey the law
-outlaw (v) treat something as illegal
-
-collaboration = cooperation (n)
-
 collocation (n) usually combined words
 colloquial (adj) words informal and used in speech only
 colloquium (n) a formal meeting for discussing something (like seminar)
@@ -200,3 +7,193 @@ considerable (adj) = countless = massive = numerous = tremendous = a plenty of
 a great deal of (adj) for uncountable
 
 combustible (adj) easy to be burned
+
+comeback (n)
+
+commemorate (v) to remember celebrities or great events
+
+commensurate with (adj) in a suitable amount compared to sth e.g. the salary is commensurate with the skill
+
+commitment (n) = contribution
+
+commodity = merchandise (n)
+merchant (v) seller
+
+compact 1 (adj) position together closely
+	c.p. compact camera; rich cake; well-done muscles
+compact 2 (n) box for makeup
+compact 3 (n) agreement / contract
+compact 4 (v) = compress = condense
+
+compartment (n) an separated area in a space
+
+compatible to (adj)
+
+concede = confess (v)
+
+concert (n)
+concerted (adj) = unanimous (adj) have same opinion <-> discrepancy (n) 不一致
+coincide (v) happen at the same time
+synchronize (v) let sth happen at the same time 
+
+confer with 1 (v) discuss with
+confer sb (v) give honor, title or degree to sb
+dub 1 (v) give sb a particular name
+dub 2 (v) change the speech for a film or a program especially in a different language
+[cp] dub (v), bud (n)
+entitle (v) give sb the right of sb to do or have sth; name sth
+entitled to (v) = eligible to (adj) = qualified to (adj)
+
+confiscate = forfeit = expropriate 1 (v);  expropriate 2 (v) take away illegally 
+
+senate, senator
+[British] parliament, speaker/member of parliament
+[US] congress = house of representative, congressman = speaker/member of …
+
+conquer = overcome = surmount (v)
+
+由...組成 consist of = be comprise of = be made up of = be composed of
+組成/占...比例 account for = compose = constitute 
+
+consult (v)
+contaminate (v), poison (v)
+contamination (n), poison (n)
+contaminated (adj)
+poisonous (adj) = noxious = toxic = venomous
+
+contemplate (v) = deliberate 1 (v) = ponder (v) think carefully of (next move)
+deliberate 2 (adj) = intentional = on purpose (adv)
+
+contemporary = modern (adj)
+
+context (n) before and after of text or a event
+
+On the contrary, = On the other hand, = In contrast to …, = conversely,
+
+be convicted of (v) has crime of
+<-> be acquitted of (v) has not crime of
+verdict (n)
+
+cope with = address = deal with (v)
+
+cork 軟木塞
+
+[pro core] corps (n) special army
+corpse (n) dead body
+
+council (n) group of people make decision on particular subject = committee
+commission 1 (n) group of people to discover truth
+commission 2 (n) payment after completing a task
+commission to 3 (v) = consign to = delegate to || 給
+delicate (adj) 精緻的 = exquisite (adj) || cake
+delectable = delicious = palatable = scrumptious = tasty || 得雷克table 好吃
+<-> inedible (adj) = unpalatable (adj)
+strong (adj) = concentrated = rich <-> bland (adj) = tasteless (adj)
+savory (adj) salty or spicy
+edible (adj) can be eaten
+
+counsel (v)(n) = advice / advise = exhort (v)
+
+counterfeit (adj) = fake (adj) = forged (adj)
+pirate (v) illegal copy of a program, music, form, etc.
+fabricate (v) change truth to deceive others
+falsify (v) change document to deceive others
+feign (v) pretent feeling
+forge (v)
+fabric (n) material of making clothes
+
+counterpart (n) corresponding substance
+
+courier (n) message or mail carrier or postman; tourist
+
+coverage (n) news report, include part, insurance
+
+cradle (n) a small bed for baby
+cuddly (adj) = adorable
+
+crater (n) round hole at the top of a volcano
+
+credentials (n) document to prove one’s ability
+
+creep (v) move slowly quietly to avoid being noticed
+[pro] crawl (v) 爬行
+
+cricket (n) 板球 蟋蟀
+praying mantis (n) 螳螂
+
+be maimed (v) 被殘廢 = be disabled
+be paralyse (v) 被癱瘓;麻痺 可用於非人; paralysis (n) 癱瘓;麻痺
+be crippled (v) 被跛腳 可用於非人; cripple (n) people cannot walk
+[pro] be anesthetize (v) 被麻醉; anesthesia (n) 麻醉
+
+Crook (n) dishonest person (v) = bend = curl
+hook (n) 掛勾 (v) 勾住
+crouch (v) 蹲下 = squat down
+crouch (v) 蜷曲 = curl up = huddle
+
+Crude (adj) 簡陋的(物) = coarse = rough 粗糙的
+Crude (adj) 無理的(人) = coarse = rude, vulgar 庸俗的
+
+crumbs (n) small piece of bread/cake/biscuit; debris=fragment (n); dandruff 頭皮屑
+Crumble (v) = fragment = smash
+Crumple (v) 起皺; crease (n) 皺摺; wrinkle (n) 皺紋
+crack 裂縫 (n) = [pro cre-vi-ce] crevice
+loophole (n) a law or program flaw = vulnerability 
+crack (v) break or hack in sth
+
+Crust (n) hard shell
+
+cultivation (n) the act of growing crops
+reclamation 1 (n) 開墾; 營造
+reclamation 2 (n) recycling
+reclaim (v) take sth back; 開墾; 營造
+
+cyclone 氣旋 depression 低氣壓
+hurricane = typhoon, tornado, tsunami, landslide=mudslide, bushfire = wildfire, avalanche
+earthquake (n) seismic (adj)
+deluge = flood (n) <-> drought (n)
+[pro di-vore] devour 1 (v) = inundate = engulf = submerge = drown 1
+[pro di-vour] devour 2 (v) eat eagerly
+drown 2 (v) to die by being unable to breath underwater
+bask in (the sun / limelight / spotlight) (v)
+immerse sb in sth 1 (v)
+immerse 2 (v) = dip = submerge = sink = soak 1 (v) put sth into liquid
+soak 2 (v) get wet << drench (v) get very wet
+limelight (n) public attention; spotlight
+flashlight (n) held small light with battery
+El Nino 聖嬰現象 <-> La Nina 反聖嬰現象 (狂下雨)
+win the election with a landslide majority
+endeavor (to) (v)(n) try hard to do sth
+
+cumbersome (heavy or huge) = clumsy (heavy or huge or awkward people) = bulky (huge)
+
+cunning = crafty (adj) clever in a dishonest way
+
+currency (n) money for particular country & time; a state of being commonly accepted [U]
+exchange rate (n)
+
+curriculum (n) all subject/courses
+	compulsory subject
+	elective subject
+
+curtail the expense
+
+cushion (n)
+cuisine (n) 
+
+cynical (adj)
+
+[DDD]
+Dairy (n)(adj) milk, cheese shop
+Dairy product (n)
+
+Damp 1 (n)(adj) slightly moist
+Damp 2 (n) poisonous gas
+Dampen (v) let sth moist; make feeling less strong
+e.g. dampen one’s enthusiasm = rain on parade
+
+dangerous (adj) = hazardous = risky = unsafe << [pro pe-ro-lous] perilous
+
+Dart (n) 飛鏢
+
+Daunt (v) discourage
