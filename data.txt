@@ -174,7 +174,7 @@ scholarship (n) money for students
 dole (n) money for unemployed=jobless people
 stipend = salary
 incentive bonus
-subside <-> rebound
+subside = recede <-> rebound
 subsidiary <-> parent comapny <-> headquarter
 subordinate <-> supervisor
 franchise store <-> direct store
@@ -610,7 +610,7 @@ brutal = cruel = savage = ruthless = inhuman (adj) = tyrannical (strong to weak)
 barbarian = savage (n) less social and more violent 
 barber (shop) (n) people cut hair (shop)
 
-bud 花苞
+bud (n) 花苞 (v) ...萌芽
 petal 花瓣
 
 bulge (v)(n) = distend (for body) = swell (v) become larger and rounder than usual
@@ -999,6 +999,7 @@ dangerous (adj) = hazardous = risky = unsafe << [pro pe-ro-lous] perilous
 Dart (n) 飛鏢
 
 Daunt (v) discourage
+disheartening (adj) = heart-wrenching
 
 debate (v) = disagree with = argue about/over = quarrel about/over
 debate (n) = disagreement = argument = quarrel
@@ -1264,7 +1265,6 @@ ease (n) e.g. win the race with ease
 ease (v) = relieve = alleviate = mitigate = soothe
 
 eddy (n) = whirlpool (n); be caught in an eddy
-eddy around a whirlpool (v) (for wind / water / smoke) 
 swirl (v) moving circularly with twisting
 
 edible (adj); barely edible (adj)
@@ -1274,7 +1274,7 @@ ego (n), egoism (n), egocentric (adj)
 elapse (v) time pass
 
 elastic (n) a round rubber that can be stretched
-elastic (adj) = flexible = adaptable = adjustable
+elastic (adj) = flexible = adaptable = adjustable = resilient
 
 elated (adj) = excited = exhilarated = delighted = thrilled (adj) extremely happy
 
@@ -1297,14 +1297,14 @@ board (v) <-> alight (v)
 
 embassy (n) the building or staff of ambassador
 Ministry of foreign affairs (n)
-ambassador (n) > Envoy (n) 
+ambassador (n) > Envoy (n)
 
 embed (v) = implant
 
 embody sportsmanship on the playing field 
 
 embrace (v) hug; accept the opinion
-brace sb-self (v) prepare yourself mentally or physically for upcoming bad things
+brace one'sself (v) prepare yourself mentally or physically for upcoming bad things
 brace (n) 支架 (v) 支撐
 
 emigrate (v) = immigrate; migrate (v) for animal
@@ -1328,7 +1328,7 @@ encyclopedia (n)
 
 endorse (v) support or advertise
 
-engrave (v) carve; carve words on wood / metal
+engrave (v) carve; carve words on woods or metal
 
 enhance (v) = intensify
 
@@ -1360,9 +1360,9 @@ epoch (n) = era
 
 equitable (adj) = fair
 
-equivocalfor meaning (adj) = ambiguous (adj) for meaning
-vague (adj) for meaning / person / shape
-vocal (adj) related to voice e.g. vocal range
+equivocal (adj) = ambiguous (adj) describe meaning
+vague (adj) describe meaning / person / shape
+vocal (adj) descrive voice
 
 erect (v) build; raise sth vertically; 勃起的 (adj)
 establish (v) = set up
@@ -1416,15 +1416,17 @@ executioner (n) 劊子手
 
 exemplify (v) gives a typical example of sth
 
-exempt (v) to free from (duty, payment)
+exempt (v) to free from (duty, payment, punishment)
+= be immunity from (disease)
 
-exert (influence / pressure) on (v)
+exert (influence / pressure) on sb/sth (v)
 
 exorbitant (adj) too high (prices or demands)
 hurdle (n) a fence for jumping over in a race
 
 exotic (adj) the other country
 experience exotic ambience/food
+ambience (n) = atmosphere = vibe; aura (n) 氣場
 
 expire (v) come to an end of a fixed time period
 
@@ -1827,6 +1829,8 @@ slope (n) can be used for real only = bank (n)
 oblique (adj) inclined
 
 toasted = overcooked
+
+trauma (n) 創傷
 
 in turmoil (adj) 動盪的
 
