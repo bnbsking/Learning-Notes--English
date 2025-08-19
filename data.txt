@@ -5,6 +5,7 @@ indigenous (adj)
 
 abrasion (n) (skin, wheel, surface, ...) rubbed away
 bruise (n)(v)
+fester (n)(v) 潰爛
 
 (v) abuse = misuse
 (n) drug abuse
@@ -72,7 +73,7 @@ a master/genius/expert of
 
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
-very bad   = abysmal = atrocious = awful = dreadful = horrible = horrendous = terrible
+very bad   = abysmal = atrocious = awful = dreadful = foul = horrible = terrible < = horrendous
 very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
@@ -124,6 +125,12 @@ spark new problems (v) make new problems
 Aggregate (v)
 Exaggerated (adj) <-> mediocre (adj)(-) = moderate (adj)(+)
 exaggerate (v) = overstate (v) describe sth more important or serious than it really is
+boast (v) = flaunt (v)
+arrogant = pompous = brash (adj) > proud
+ostentatious (adj) obviously show money/power/possession to make others admire you
+ostensible (adj) claiming sth but its something else
+window dressing (n) = ostentation (n)
+
 commonplace (adj)(+/-) = common
 take things too far (v) = go overboard (v) 做太過火; out of line (adj)
 go off the rail (v) behaves inappropriately
@@ -156,11 +163,6 @@ in compliance with (n)
 [pro] alliance = association = bloc = coalition = confederation = league = union
 staunch ally (n) A loyal friend of a country
 alley (n) Narrow roads between buildings
-arrogant = pompous = brash (adj) > proud
-boast (v)
-ostentatious (adj) obviously show money/power/possession to make others admire you
-ostensible (adj) claiming sth but its something else
-window dressing (n) = ostentation (n)
 
 audit 1 (v) go to a class without getting grades
 audit 2 (v)(n) account
@@ -512,7 +514,7 @@ synthetic (adj)
 concoct (v) make food by adding different things together; invent excuse/story to deceive sb
 coalesce into (v) = unite = combine = merge = fuse; mix = blend
 
-blink (v) close and open eyes; flash on and off = twinkle
+blink (v) close and open eyes; flash on and off = twinkle = flicker
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
 [pro Pre|ci|pi|tate]
 	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
@@ -598,7 +600,7 @@ dynamic 2 (adj) changing
 exuberant 2 (adj) (plants) strong and growing quickly
 vibrate (v) oscillate = jolt
 
-brittle = fragile = crisp = crispy (adj)
+brittle = frail = fragile = crisp = crispy (adj)
 crisp (adj) cold and dry
 
 [pro] brochure = booklet = pamphlet
@@ -628,6 +630,7 @@ underpass (n) road underground
 underway = ongoing (adj)
 
 bungalow, cabin
+cabinet (n) 櫃子
 
 by = by means of = via
 
@@ -802,7 +805,7 @@ collect onesself (v) 沉澱心情
 
 collocation (n) usually combined words
 colloquial (adj) words informal and used in speech only
-colloquium (n) a formal meeting for discussing something (like seminar)
+colloquium (n) a formal meeting for discussing something = seminar = forum
 
 colossal (adj) = enormous = giant = gigantic = huge = immense = vast
 considerable (adj) = countless = massive = numerous = tremendous = a plenty of
@@ -822,7 +825,7 @@ commodity = merchandise (n)
 merchant (v) seller
 
 compact 1 (adj) position together closely
-	c.p. compact camera; rich cake; well-done muscles
+	c.p. compact camera; rich cake; well-done muscles <-> flappy muscles
 compact 2 (n) box for makeup
 compact 3 (n) agreement / contract
 compact 4 (v) = compress = condense
@@ -927,6 +930,7 @@ be maimed (v) 被殘廢 = be disabled
 be paralyse (v) 被癱瘓;麻痺 可用於非人; paralysis (n) 癱瘓;麻痺
 be crippled (v) 被跛腳 可用於非人; cripple (n) people cannot walk
 [pro] be anesthetize (v) 被麻醉; anesthesia (n) 麻醉
+fracture (n) 骨折
 
 Crook (n) dishonest person (v) = bend = curl
 hook (n) 掛勾 (v) 勾住
@@ -940,7 +944,7 @@ crumbs (n) small piece of bread/cake/biscuit; debris=fragment (n); dandruff 頭�
 Crumble (v) = fragment = smash
 Crumple (v) 起皺; crease (n) 皺摺; wrinkle (n) 皺紋
 crack 裂縫 (n) = [pro cre-vi-ce] crevice
-loophole (n) a law or program flaw = vulnerability 
+loophole (n) a law or program flaw = vulnerability = flaw
 crack (v) break or hack in sth
 
 Crust (n) hard shell
@@ -1231,8 +1235,8 @@ downtown (n) = urban area = metropolitan area
 > rural area (n) = countryside (n)
 national (adj) > municipal
 
-draft 1 (n)
-be drafted 2 (v) = be conscripted (v) <-> enlist (v) join the army passively or actively
+draft (n) 草稿; 徵兵
+be drafted (v) = be conscripted (v) <-> enlist (v) join the army passively or actively
 enroll (v) = recruit (v)
 call-up (papers) (n)
 
@@ -1275,6 +1279,7 @@ elapse (v) time pass
 
 elastic (n) a round rubber that can be stretched
 elastic (adj) = flexible = adaptable = adjustable = resilient
+flexibility = resilience (n)
 
 elated (adj) = excited = exhilarated = delighted = thrilled (adj) extremely happy
 
@@ -1293,6 +1298,8 @@ embargo (v) to prohibit the trading of other country
 embargo (n) the decree of prohibition of trading of other country
 
 embark (v) go onto a ship
+undertake (v) to prompise; to do (sth difficult)
+embark on = commence = undertake = start on = begin = initiate
 board (v) <-> alight (v)
 
 embassy (n) the building or staff of ambassador
@@ -1440,17 +1447,17 @@ spoiled boss (n)
 exterior (adj) = external <-> interior = internal
 
 extravagant (adj)(-)
-lavish (adj)(+) ~ luxurious (adj)(+/-)
+lavish (adj)(+) ~ luxurious (adj)(+/-) <-> frugal (adj)
 
 [FFF]
 
 facet (n) = aspect
 
+facilitate (v) make sth easier
 facility (n) building; equipment
 amenity (n)
 
 faculty 1 (n) natural ability to hear, see, feel, think, move, etc.
-in possession of one’s faculty
 faculty 2 (n) special ability
 faculty 3 (n) all the teachers in a college
 
@@ -1464,6 +1471,8 @@ myth 2 (n) story of gods
 mystery (n) sth not yet been explained or understood; 推理劇
 inference (n)
 [pro 阿里掰] alibi (n) 不在場證明
+
+fallacy (n) = paradox = myth
 
 falter 1 (v) lose strength and stop or almost stop
 shrink back (v) <-> stick out (v)
@@ -1485,25 +1494,87 @@ fatigue (n)
 fatigued (adj) = tired (adj) = exhausted (adj) = depleted (adj) = drained (adj) = listless(adj) = weary (adj)
 
 fatuous (adj) = foolish = stupid = silly = idiotic = brainless
+fool (n) = moron (n) = idiot (n)
+
+feeble (adj) = weak
+
+fend (v) = defend
+
+ferocious = fierce (adj) e.g. describe battle, fighting, criticism, dog, people, ...
 
 felony (n) serious crime
 
-flexibility = resilience (n)
+fickle (adj) = capricious (adj) easy to change mind
+
+filth (n) dirty thing; sexually offensive
+
+fixture (n) 1 fixed furniture 2 constantly held sport events
 
 [gra] flee fled fled
+
+flesh (n) = pulp (n) 果肉 <-> peel (n) 果皮; peel (v) 削皮
+
+flock (n) crowd people (v) gather
+
+fluffy (adj) many fur (doll)
+furry (adj) many fur (animal)
+
+tin foil (n) 錫箔紙
+plastic wrapper (n) 保鮮膜
+foodstorage container / bag (n)
+
+forerunner (n) = pioneer
+
+foresee the furniture
+
 forensics (adj) scientific methods of solving crime by examining objects
 autopsy (n) examination of a dead body to discover the reason of death
 coroner (n) people (carry out)/perform autopsy
 
-fortify = intensify = reinforce
+formidable (adj) 難以對付的(人/物)
+
+fort (n) 要塞
+forte (n) 專長
+fortnight (n) two weeks
+
+fortify = intensify = reinforce (v)
+
+fossil (n)(adj) 化石; 食古不化
+
+fragrance (n) = aroma (n) = scent (n) pleased smell
+give off (v)
+
+frantic (adj) make sb crazy
+
+freight (n) 貨運 (v) 運送
+
+fret (n) 煩惱
+fretful (adj)
 
 be stuck in the friendzone (v) 被發好人卡
 = suffered from one-sided love (v)
 
-From now on = henceforth 
+from the outset (adj) = in the beginning
+
+from now on = henceforth 
 Since then = after that = from then on = ever since = thereafter
 
+frost (n) 霜
+
+frown at (v) 對誰...皺眉
+
+[pro fru-i-tion] fruition (n) 成果
+
+furious (adj) = raged (adj) = boiled (adj) = very angry
+wrath = rage (n)
+make a fuss (over) (v)
+
+furnace (n) heater 火爐
+
+decorate (v) < furnish (v) < renovate (v)
+
 futile (adj) = vain = useless = meaningless = pointless
+
 futuristic (adj)
 
 [GGG]
@@ -1623,8 +1694,6 @@ migraine (n) headache
 mild (adj) 溫馴的 和煦的 輕微的
 
 monetary policy tightening <-> quantitative easing (QE)
-
-moron (n) fool
 
 [NNN]
 
@@ -1839,8 +1908,6 @@ uncooperative (adj) not willing to cooperate
 
 under torment = under torture
 
-undertake (v) to prompise; to do (sth difficult)
-
 unleash tear gas
 
 unwind (v) relax
@@ -1865,8 +1932,6 @@ voyage (n)
 whimperling = sobbing
 
 Withdrawn (adj) 孤僻的
-
-wrath = rage (n)
 
 [XXX]
 
