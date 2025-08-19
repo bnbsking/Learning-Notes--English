@@ -73,7 +73,7 @@ a master/genius/expert of
 
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
-very bad   = abysmal = atrocious = awful = dreadful = foul = horrible = terrible < = horrendous
+very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = horrible = terrible < = horrendous
 very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
@@ -206,7 +206,8 @@ vessel (n) 1 blood tube 2 large ship
 
 [pro] annihilate = eliminate = eradicate = wipe out = exterminate = obliterate
 erase / destroy = annihilate = spoil
-undermine the confidence
+demise (n) 消亡
+undermine the confidence 削弱信心
 submerge the evidence
 conceal the evidence
 
@@ -454,6 +455,7 @@ bacon (n) 培根
 bagel (n) 貝果
 beacon (n) 燈塔; 指引光明的人或物
 
+bear (v) 忍耐; 承受 (n) 熊; 看空者
 Bearing 軸承
 
 beat around the bush (v) 拐彎抹角
@@ -1399,7 +1401,7 @@ evoke (v) get remember sth
 evolution (n) evolve (v)
 revolution (n) revolt (v)
 
-exceed (v) = surpass (v) = outperform (v)
+exceed (v) = surpass (v) = outperform (v) = prevail (v)
 
 excess (n) more than acceptable or reasonable
 surplus (n) more than is need
@@ -1542,6 +1544,7 @@ fortify = intensify = reinforce (v)
 fossil (n)(adj) 化石; 食古不化
 
 fragrance (n) = aroma (n) = scent (n) pleased smell
+<-> odor (n)
 give off (v)
 
 frantic (adj) make sb crazy
@@ -1783,7 +1786,12 @@ ravel (v) to separate a knot
 unravel (v) 1. ravel 2. solve (mysterious subject) 3. destroy 
 revel in (v) enjoy in
 
-rejuvenate (v) refresh
+refuge (n) = asylum (n) = shelter
+refugee (n) people in refuge
+
+revive (v) 復興; 重燃
+refresh (v) = renew (v)
+rejuvenate (v) 回春
 
 remittance vs transfer
 
@@ -1830,6 +1838,7 @@ simmering (adj) 醞釀中的
 smoulder fire (n) 悶燒的火
 
 slump = plummet = plunge (v) decrease rapidly
+diminish = decrease (v)
 
 smuggle (v)
 stowaway (n) a person who hides in shift/aircraft/vehicle
