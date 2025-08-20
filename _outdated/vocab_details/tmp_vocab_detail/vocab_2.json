@@ -1,0 +1,154 @@
+[
+    {
+        "vocabulary": "thriving",
+        "definition": "growing or developing successfully; flourishing",
+        "part_of_speech": "adjective",
+        "example_sentence": "The thriving business expanded rapidly.",
+        "synonyms": [
+            "prospering",
+            "flourishing",
+            "successful"
+        ],
+        "antonyms": [
+            "failing",
+            "struggling",
+            "declining"
+        ]
+    },
+    {
+        "vocabulary": "beforehand",
+        "definition": "in advance; before something else happens or is done",
+        "part_of_speech": "adverb",
+        "example_sentence": "They decided to book the tickets beforehand to secure their seats.",
+        "synonyms": [
+            "in advance",
+            "ahead of time",
+            "earlier"
+        ],
+        "antonyms": [
+            "afterward",
+            "later",
+            "subsequently"
+        ]
+    },
+    {
+        "vocabulary": "in advance",
+        "definition": "before the time that something is expected to happen",
+        "part_of_speech": "adverb",
+        "example_sentence": "You need to pay in advance to reserve your spot.",
+        "synonyms": [
+            "beforehand",
+            "ahead of time",
+            "early"
+        ],
+        "antonyms": [
+            "after",
+            "later",
+            "afterwards"
+        ]
+    },
+    {
+        "vocabulary": "previously",
+        "definition": "at a previous time; before the present",
+        "part_of_speech": "adverb",
+        "example_sentence": "He had previously worked as a software engineer.",
+        "synonyms": [
+            "formerly",
+            "earlier",
+            "before"
+        ],
+        "antonyms": [
+            "currently",
+            "now",
+            "later"
+        ]
+    },
+    {
+        "vocabulary": "blaring",
+        "definition": "(of a sound) loud and harsh",
+        "part_of_speech": "adjective",
+        "example_sentence": "The blaring music made it impossible to concentrate.",
+        "synonyms": [
+            "loud",
+            "deafening",
+            "raucous"
+        ],
+        "antonyms": [
+            "quiet",
+            "soft",
+            "muffled"
+        ]
+    },
+    {
+        "vocabulary": "blaring",
+        "definition": "(of a sound) loud and harsh",
+        "part_of_speech": "adjective",
+        "example_sentence": "The blaring music was coming from the next apartment.",
+        "synonyms": [
+            "loud",
+            "deafening",
+            "raucous"
+        ],
+        "antonyms": [
+            "quiet",
+            "soft",
+            "muffled"
+        ]
+    },
+    {
+        "vocabulary": "blunder",
+        "definition": "a stupid or careless mistake",
+        "part_of_speech": "noun",
+        "example_sentence": "The politician made a major blunder during the interview.",
+        "synonyms": [
+            "mistake",
+            "error",
+            "gaffe"
+        ],
+        "antonyms": [
+            "success",
+            "achievement",
+            "accomplishment"
+        ]
+    },
+    {
+        "vocabulary": "make a serious mistake",
+        "definition": "to do something wrong or make an error that has important or negative consequences",
+        "part_of_speech": "verb phrase",
+        "example_sentence": "The accountant made a serious mistake when preparing the company's financial statements.",
+        "synonyms": [
+            "err",
+            "slip up",
+            "botch"
+        ],
+        "antonyms": []
+    },
+    {
+        "vocabulary": "make a blunder",
+        "definition": "to make a stupid or careless mistake",
+        "part_of_speech": "verb phrase",
+        "example_sentence": "He made a blunder by revealing the secret during the meeting.",
+        "synonyms": [
+            "err",
+            "make a mistake",
+            "gaffe"
+        ],
+        "antonyms": []
+    },
+    {
+        "vocabulary": "blunt",
+        "definition": " (of a person or remark) candid and straightforward; not trying to be polite",
+        "part_of_speech": "adjective",
+        "example_sentence": "She was blunt with her criticism of the project.",
+        "synonyms": [
+            "frank",
+            "candid",
+            "direct"
+        ],
+        "antonyms": [
+            "tactful",
+            "polite",
+            "diplomatic"
+        ]
+    }
+]

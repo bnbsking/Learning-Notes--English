@@ -5,7 +5,7 @@ import random
 import re
 import time
 
-from ..utils.prompt import generate_article
+from ..utils.prompts_en import generate_article
 from ..utils.api import Gemini
 
 

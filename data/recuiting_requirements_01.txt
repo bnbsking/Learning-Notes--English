@@ -1,0 +1,64 @@
+Salary & Location
+
+
+Salary negotiable
+(Regular monthly salary of NT$40,000 or above)
+
+台北市內湖區
+
+Required
+
+
+Language Requirements
+
+English
+Listening
+Speaking
+Reading
+Writing
+
+Work Experience
+6年以上
+Job Description
+
+As a senior member of the AI Team, you will work with fellow AI engineers, as well as other creative engineers.
+The AI Team's goal is to continuously optimize our leading AI/ML product, Circle Light, for performance, accuracy, and sustainability, as well as adopt cutting-edge technologies to improve and expand its services!
+We rigorously strive to make our systems as robust and performable as possible. Our systems have already processed many billions of frames to date, and we’re eager to have you join us in scaling that to new heights.
+[What You'll Do]
+Learn cutting-edge computer vision and machine learning algorithms.
+We're super excited whenever new deep learning techniques are out, and serious about applying the best to improve one of our core technologies – autonomous video security.
+You will join in on our regular discussions covering new research papers and tech, open to all in the company. And of course, we happily encourage you to share your discoveries as well!
+Design, implement and optimize our CV/ML systems such as data collection, model training, evaluation, and serving.
+You will learn and apply many backend technologies, working with our other talented engineers to come up with creative ways to improve our data processing pipelines.
+Operate large-scale CV systems with our infrastructure engineers.
+You will design and implement effective performance metrics monitoring rules and alerts to gain insight into how our systems and models are doing.
+You will learn many modern techniques for building and maintaining distributed ML systems in public clouds, and apply them towards our many challenges in operating production systems that process ever-growing amounts of video streams!
+Requirements
+[What We're Looking For]
+Proficiency in programming Python, Go, C or C++.
+Experience with implementing computer vision or machine learning algorithms in practice at scale.
+Ability to write clean and maintainable code with design documents and unit tests.
+Good communication skills and a positive attitude to work with colleagues in · Taipei and San Francisco.
+Proficient English speaking, reading, and writing ability.
+Minimum 7 years experience in an AI-related role.
+[Nice To Haves]
+Experience with designing data-intensive applications
+Experience in container technologies like Docker and Kubernetes
+Prior security industry experience
+Contributions to open-source projects
+Records of active contribution to technical communities, such as contributed or invited talks in relevant conferences
+Practical Agile enthusiast
+Number of Openings
+1~1人
+Educational Requirements
+大學(學院)以上
+Work Schedule
+日班
+Leave Policy
+週休二日
+Job Skills
+
+System Architecture PlanningSoftware ProgrammingMachine Learning
+系統架構規劃 軟體程式設計 Machine Learning
+Job Category
+Software EngineerAlgorithm Engineer

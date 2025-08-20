@@ -1,0 +1,282 @@
+[
+    {
+        "id": 0,
+        "question": "Question 1: Can you tell me about a time you had to work on a project with tight deadlines? How did you prioritize tasks and manage your time?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 1,
+        "question": "Question 2: Describe a situation where you had to explain a complex technical concept to a non-technical audience. How did you ensure they understood?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 2,
+        "question": "Question 3: This role requires collaboration with teams in Taipei and San Francisco. How do you typically approach cross-cultural communication and collaboration in a professional setting?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 3,
+        "question": "Question 4: This role emphasizes continuous learning. Can you describe a time when you proactively learned a new technology or skill to improve your work?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 4,
+        "question": "Question 5: Tell me about a project where you had to overcome a significant technical challenge. What was the challenge, and how did you approach solving it?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 5,
+        "question": "Question 6: How would you describe your experience with implementing computer vision or machine learning algorithms in a production environment?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 6,
+        "question": "Question 7: The job description mentions optimizing AI/ML products for performance, accuracy, and sustainability. Can you provide an example of a project where you focused on these aspects and what results you achieved?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 7,
+        "question": "Question 8: This role involves designing, implementing, and optimizing CV/ML systems. Walk me through your process when designing and building a new system, including data collection, model training, evaluation, and deployment.",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 8,
+        "question": "Question 9:  Describe your experience with backend technologies and data processing pipelines, including the tools or technologies you've used. (e.g., cloud technologies)",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 9,
+        "question": "Question 10: How do you approach writing clean, maintainable code, including the use of design documents and unit tests? Can you provide an example?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 10,
+        "question": "Question 11: What is your experience with operating large-scale CV systems? What metrics do you track, and what tools or techniques do you use for monitoring and alerting?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 11,
+        "question": "Question 12: The job description highlights the use of cloud technologies for distributed ML systems. What's your experience with public cloud platforms, and what specific technologies or tools are you familiar with in that context?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 12,
+        "question": "Question 13:  What are your preferred programming languages, and why?  Can you provide examples of projects where you used Python, Go, or C++?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 13,
+        "question": "Question 14:  What are your thoughts on the latest advancements in deep learning and how they can be applied to improve our core technology of autonomous video security?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 14,
+        "question": "Question 15:  Are you familiar with container technologies like Docker and Kubernetes? If so, how have you used them in your previous projects?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 15,
+        "question": "Question 16: Can you discuss any contributions you've made to open-source projects or technical communities, such as conference talks or publications?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 16,
+        "question": "Question 17: How familiar are you with agile methodologies? Have you worked in an Agile environment, and if so, what was your role, and what practices did you find most effective?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 17,
+        "question": "Question 18: What is your approach to designing data-intensive applications? What are the key considerations in terms of data storage, processing, and retrieval?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 18,
+        "question": "Question 19: Given your experience, how would you approach scaling our AI/ML product, Circle Light, to handle the ever-growing amounts of video streams, taking into consideration performance, accuracy, and sustainability?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 19,
+        "question": "Question 20: Can you tell us about a time you failed and what did you learn from it?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 20,
+        "question": "Question 1: This role involves designing, implementing, and optimizing CV/ML systems. Can you describe a specific CV or ML system you've designed and implemented, detailing the challenges you faced and the solutions you implemented?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 21,
+        "question": "Question 2: The job description mentions working with backend technologies and data processing pipelines. Can you provide an example of how you've improved a data processing pipeline in a previous role?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 22,
+        "question": "Question 3: This role requires proficiency in Python, Go, C, or C++. Which languages are you most comfortable with, and could you describe a complex project where you utilized one of them? How did you ensure the code was clean and maintainable?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 23,
+        "question": "Question 4:  The position involves operating large-scale CV systems. Based on your experience, how would you approach monitoring the performance of a large-scale CV system, and what metrics would you prioritize? What alerting mechanisms would you put in place?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 24,
+        "question": "Question 5: The team works with cutting-edge computer vision and machine learning algorithms, and the company is open to new research. In your view, what are some of the most promising recent advancements in CV or ML, and how might they apply to autonomous video security?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 25,
+        "question": "Question 6: The job requires working with colleagues in Taipei and San Francisco. Describe your experience working in a collaborative environment, especially with team members in different locations or time zones. How do you handle communication challenges?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 26,
+        "question": "Question 7: The role requires a minimum of 7 years of experience in an AI-related role. Given your work experience and the responsibilities of this position, how do you see your experience aligning with the challenges and opportunities of this role?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 27,
+        "question": "Question 8: The company is looking for candidates with experience in designing data-intensive applications and container technologies like Docker and Kubernetes. Could you discuss a time you designed a data-intensive application and/or used container technologies? What were the benefits of these technologies in that scenario?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 28,
+        "question": "Question 9: The description mentions 'design documents and unit tests.' Could you describe your approach to creating design documents and writing unit tests for your projects?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 29,
+        "question": "Question 10: This role is in Neihu, Taipei. Are you currently located in Taipei or willing to relocate? The salary is negotiable, but a regular monthly salary of NT$40,000 or above is required. Are your salary expectations within this range?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 30,
+        "question": "Question 11: Your resume highlights experience with LLMs, VLMs, and time-series data. Can you describe a project where you integrated different types of AI models (e.g., CV and LLM) to solve a specific problem?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 31,
+        "question": "Question 12: Your thesis was on Quantum Machine Learning. Although the role doesn't explicitly require this, could you briefly explain your understanding of the potential of quantum machine learning, and how its principles might inform your approach to AI problem-solving?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 32,
+        "question": "Question 13: Your resume shows publications and a patent. How do you stay current with the latest advancements in the field? How do you balance staying up-to-date with research and also applying technologies in practical applications?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 33,
+        "question": "Question 14: Your resume includes experience with self-supervised learning and domain adaptation. Could you discuss a project where you used one of these techniques? What were the key challenges and your approach to solving them?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 34,
+        "question": "Question 15: You have contributed to an open-source project and a PyPI package. What motivates you to contribute to the open-source community? How does this experience translate to your work in closed-source environments?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    }
+]

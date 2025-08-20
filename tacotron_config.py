@@ -1,1 +1,0 @@
-/Users/james.chao/miniconda3/envs/tts/lib/python3.10/site-packages/TTS/tts/configs/tacotron_config.py

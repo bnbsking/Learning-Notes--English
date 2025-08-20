@@ -4,14 +4,14 @@ import os
 import shutil
 import time
 
-from .utils.prompt import extract_vocabs
+from .utils.prompts_en import extract_vocabs
 from .utils.api import Gemini
 
 
 class ExtractVocab:
     def __init__(
             self,
-            input_path: str = "data_tmp.txt",
+            input_path: str = "data/data_tmp.txt",
             accum_content_capacity: int = 16000,  # max 4096 tokens, gemini 1 token ~ 4 characters -> 16384 character
             output_path: str = "output/vocab_tmp.json",
             gemini_model: str = "gemini-2.0-flash-lite"

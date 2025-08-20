@@ -3,7 +3,7 @@ import os
 import re
 import time
 
-from ..utils.prompt import generate_article_qa
+from ..utils.prompts_en import generate_article_qa
 from ..utils.api import Gemini
 
 

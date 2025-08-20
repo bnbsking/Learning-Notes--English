@@ -1,0 +1,61 @@
+# AI Algorithm Engineer
+
+## Education  
+
+**Master of Science** — National Taiwan University
+- Major: Physics, delved into Computer Science  
+- Thesis: Quantum machine learning
+
+**Bachelor of Science** — National Central University
+- Major: Physics
+
+## Work Experience  
+
+**AI Algorithm Engineer** — Taiwan AILabs 2.5 yrs  
+- LLM / VLM engineering  
+  - Medical LLM service  
+  - Chart LLM system  
+  - Series Video-to-text system  
+- Clinical prediction system based on time-series tabular learning  
+- Federated fraud detection system  
+
+**Computer Vision Algorithm Engineer** — Hon Hai Precision Industry (Foxconn) 2 yrs  
+- Industrial object detection system with efficient self-improvement  
+- Industrial 3D anomaly detection on human actions  
+
+**Data Scientist** — MiTAC Information Tech. Corp. 1.5 yrs  
+- Real-time machine lifespans detection system  
+
+## Objective  
+Working in a globally renowned company is my aspiration.  
+My experience includes not only cutting-edge research, application, and implementation but also system design across various domains.  
+I hope to dedicate myself to your company and contribute to the advancement of robust and dependable products.  
+
+## Skills  
+
+**Computer Vision (CV)**  
+- Object detection, classification, segmentation, anomaly detection, pose estimation (2D/3D/4D)  
+- Active learning, self-supervised learning, domain adaptation  
+
+**Large (and Vision) Language Models (LLM / LVLM)**  
+- Custom data curation, RAGs, prompt engineering, multimodality learning & benchmarking  
+
+**More AI**  
+- Model merging & federated learning  
+- Time-series & tabular learning (clinical domain)  
+
+**Software Development**  
+- Python, PyTorch, MMLabs, LangChain, data processing tools  
+- Bash, Git, Docker, Kubernetes, APIs, design patterns, system design  
+- SQL, simple GUI design  
+- Strong foundation in computer science fundamentals  
+
+## Certifications  
+- **Patent (2021):** Anomaly detection for mechanical equipment  
+- **Paper (2024):** IHCA by Innovative Smart Healthcare System ([AHA Journal](https://www.ahajournals.org/doi/10.1161/circ.150.suppl_1.4136550))  
+
+## More References  
+- Extensive research notes on SOTA models: CV, LLM, VLM  
+- 6 years tutoring experience (Math, Physics, Programming, ML)  
+- [PyPI package: Cosmodules (2024)](https://pypi.org/project/cosmodules/) — A toolbox for common CV tasks  
+- [GitHub Profile](https://github.com/bnbsking)

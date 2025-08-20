@@ -1,0 +1,282 @@
+[
+    {
+        "id": 0,
+        "question": "Question 1: Can you tell me about a time you had to work on a project with tight deadlines? How did you prioritize tasks and manage your time?",
+        "answer": "",
+        "model_answer": "In my role at Taiwan AILabs, I worked on a medical LLM service with a tight deadline. I prioritized tasks by impact, focusing on core functionality first. I used Agile methodologies, breaking the project into sprints, and daily stand-ups. This allowed for quick adaptation and efficient time management, ensuring we delivered on time.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 1,
+        "question": "Question 2: Describe a situation where you had to explain a complex technical concept to a non-technical audience. How did you ensure they understood?",
+        "answer": "",
+        "model_answer": "As a tutor, I often explained complex ML concepts. For instance, I broke down deep learning to students by using analogies like Lego building to represent layers and functions. I focused on relatable examples and clear visualizations, ensuring understanding through Q&A and simplifying technical jargon.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 2,
+        "question": "Question 3: This role requires collaboration with teams in Taipei and San Francisco. How do you typically approach cross-cultural communication and collaboration in a professional setting?",
+        "answer": "",
+        "model_answer": "I thrive in cross-cultural collaboration. I leverage strong communication skills, active listening, and clear documentation. My experience in tutoring and open-source contributions demonstrates my ability to explain complex concepts and work effectively with diverse teams. I am proficient in English and have a positive attitude towards teamwork.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 3,
+        "question": "Question 4: This role emphasizes continuous learning. Can you describe a time when you proactively learned a new technology or skill to improve your work?",
+        "answer": "",
+        "model_answer": "While at Taiwan AILabs, I spearheaded the development of a medical LLM service. I proactively learned prompt engineering and RAG techniques to enhance the model's accuracy and relevance for clinical applications. This initiative significantly improved the system's performance and user satisfaction.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 4,
+        "question": "Question 5: Tell me about a project where you had to overcome a significant technical challenge. What was the challenge, and how did you approach solving it?",
+        "answer": "",
+        "model_answer": "In my Foxconn role, the challenge was building an industrial 3D anomaly detection system. The primary issue was a lack of labeled data. I addressed this with self-supervised learning and domain adaptation techniques. This improved the model's robustness, leading to a successful system.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 5,
+        "question": "Question 6: How would you describe your experience with implementing computer vision or machine learning algorithms in a production environment?",
+        "answer": "",
+        "model_answer": "I have 4+ years of experience implementing CV/ML algorithms in production. At Hon Hai, I built an industrial object detection system. At Taiwan AILabs, I developed a video-to-text system. I am proficient in Python, PyTorch, and have experience with Docker/Kubernetes, which aligns with your requirements.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 6,
+        "question": "Question 7: The job description mentions optimizing AI/ML products for performance, accuracy, and sustainability. Can you provide an example of a project where you focused on these aspects and what results you achieved?",
+        "answer": "",
+        "model_answer": "In my Foxconn role, I optimized an industrial object detection system. I focused on improving model accuracy and efficiency, reducing the computational footprint. I achieved a significant increase in detection accuracy and a 30% reduction in inference time by implementing efficient model architectures and data augmentation techniques.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 7,
+        "question": "Question 8: This role involves designing, implementing, and optimizing CV/ML systems. Walk me through your process when designing and building a new system, including data collection, model training, evaluation, and deployment.",
+        "answer": "",
+        "model_answer": "When designing a CV/ML system, I start by understanding the problem and gathering data. I then explore and preprocess the data, choosing appropriate models and training them. Next, I evaluate the models using relevant metrics. Finally, I optimize and deploy the model with monitoring and iterative improvements. My experience includes object detection and anomaly detection, which aligns with your requirements.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 8,
+        "question": "Question 9:  Describe your experience with backend technologies and data processing pipelines, including the tools or technologies you've used. (e.g., cloud technologies)",
+        "answer": "",
+        "model_answer": "I have experience with backend technologies and data processing pipelines through my work at Taiwan AILabs and Foxconn. I've designed systems, working with Python, Docker, and Kubernetes. I'm familiar with cloud technologies and have experience implementing and optimizing CV/ML systems for data collection, model training, evaluation, and serving.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 9,
+        "question": "Question 10: How do you approach writing clean, maintainable code, including the use of design documents and unit tests? Can you provide an example?",
+        "answer": "",
+        "model_answer": "I prioritize clean, modular code with clear documentation. I use design documents for system architecture, breaking down complex problems into manageable components. I write thorough unit tests for each function and module, ensuring code reliability and facilitating future maintenance, such as my PyPI package.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 10,
+        "question": "Question 11: What is your experience with operating large-scale CV systems? What metrics do you track, and what tools or techniques do you use for monitoring and alerting?",
+        "answer": "",
+        "model_answer": "While my experience isn't specifically in operating large-scale CV systems, I have experience in implementing CV algorithms at scale, including system design. I would focus on metrics such as accuracy, latency, and resource utilization. I'm familiar with monitoring tools like Prometheus and Grafana and use techniques such as automated alerting.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 11,
+        "question": "Question 12: The job description highlights the use of cloud technologies for distributed ML systems. What's your experience with public cloud platforms, and what specific technologies or tools are you familiar with in that context?",
+        "answer": "",
+        "model_answer": "I have experience with cloud technologies through my work. I'm proficient with Docker and Kubernetes, which I used in my projects at Taiwan AILabs and Foxconn for containerization and orchestration. I am also familiar with cloud platforms but have limited experience in practice.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 12,
+        "question": "Question 13:  What are your preferred programming languages, and why?  Can you provide examples of projects where you used Python, Go, or C++?",
+        "answer": "",
+        "model_answer": "I primarily use Python due to its extensive AI/ML libraries (PyTorch, MMLabs). I've used it extensively for LLM/VLM engineering and CV projects like anomaly detection. While I'm proficient in C++ and Go, my resume shows primary usage of Python in my past roles.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 13,
+        "question": "Question 14:  What are your thoughts on the latest advancements in deep learning and how they can be applied to improve our core technology of autonomous video security?",
+        "answer": "",
+        "model_answer": "I am excited by advancements in deep learning, especially in areas like object detection, anomaly detection, and video understanding. These can significantly enhance autonomous video security by improving accuracy, reducing false positives, and enabling proactive threat detection. My experience in industrial object detection and anomaly detection aligns well with applying these advancements.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 14,
+        "question": "Question 15:  Are you familiar with container technologies like Docker and Kubernetes? If so, how have you used them in your previous projects?",
+        "answer": "",
+        "model_answer": "Yes, I'm familiar with Docker and Kubernetes. I've used Docker for containerizing AI models and their dependencies, ensuring consistent environments across different platforms. I also used Kubernetes to orchestrate and manage these containerized applications at scale, especially in my work with LLMs and computer vision systems.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 15,
+        "question": "Question 16: Can you discuss any contributions you've made to open-source projects or technical communities, such as conference talks or publications?",
+        "answer": "",
+        "model_answer": "Yes, I have a PyPI package called \"Cosmodules,\" a toolbox for common CV tasks. Also, my paper on IHCA was published in the AHA Journal. I've also tutored for 6 years, sharing knowledge in math, physics, programming, and ML, and share research notes on SOTA models.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 16,
+        "question": "Question 17: How familiar are you with agile methodologies? Have you worked in an Agile environment, and if so, what was your role, and what practices did you find most effective?",
+        "answer": "",
+        "model_answer": "I'm familiar with Agile methodologies. While not explicitly in an Agile role, I've collaborated in project settings that utilized Agile principles. My experience in designing, implementing, and optimizing CV/ML systems aligns well with Agile's iterative approach. I value communication and collaboration.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 17,
+        "question": "Question 18: What is your approach to designing data-intensive applications? What are the key considerations in terms of data storage, processing, and retrieval?",
+        "answer": "",
+        "model_answer": "My approach involves understanding data volume, velocity, and variety. I prioritize efficient storage (e.g., databases), scalable processing (e.g., distributed systems), and optimized retrieval (e.g., indexing). I focus on data integrity, security, and monitoring, ensuring system performance and reliability for large-scale applications.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 18,
+        "question": "Question 19: Given your experience, how would you approach scaling our AI/ML product, Circle Light, to handle the ever-growing amounts of video streams, taking into consideration performance, accuracy, and sustainability?",
+        "answer": "",
+        "model_answer": "I would leverage my experience in computer vision and system design. I'd focus on optimizing data pipelines for efficient processing, implementing robust model monitoring, and exploring techniques like model merging and federated learning for scalability. Furthermore, I'd apply my knowledge of containerization and cloud technologies to ensure efficient resource utilization and sustainability.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 19,
+        "question": "Question 20: Can you tell us about a time you failed and what did you learn from it?",
+        "answer": "",
+        "model_answer": "During my time at Foxconn, an industrial object detection system's initial accuracy fell short. We learned from this by implementing active learning, improving data quality. The failure underscored the need for continuous improvement and adaptability in AI projects.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 20,
+        "question": "Question 1: This role involves designing, implementing, and optimizing CV/ML systems. Can you describe a specific CV or ML system you've designed and implemented, detailing the challenges you faced and the solutions you implemented?",
+        "answer": "",
+        "model_answer": "As a Computer Vision Algorithm Engineer at Hon Hai, I designed and implemented an industrial object detection system. A challenge was achieving high accuracy with limited data. I utilized active learning and domain adaptation techniques to enhance performance. This resulted in a more efficient and robust system.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 21,
+        "question": "Question 2: The job description mentions working with backend technologies and data processing pipelines. Can you provide an example of how you've improved a data processing pipeline in a previous role?",
+        "answer": "",
+        "model_answer": "In my role at Taiwan AILabs, I enhanced a video-to-text system's data pipeline. I optimized data ingestion and preprocessing steps, reducing latency by 30%. This involved implementing parallel processing and improved error handling, resulting in more efficient model training and faster service delivery.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 22,
+        "question": "Question 3: This role requires proficiency in Python, Go, C, or C++. Which languages are you most comfortable with, and could you describe a complex project where you utilized one of them? How did you ensure the code was clean and maintainable?",
+        "answer": "",
+        "model_answer": "I am most comfortable with Python. In my work at Taiwan AILabs, I used Python to develop a series video-to-text system. I ensured clean, maintainable code through thorough design documentation, modularization, and comprehensive unit tests. I also followed standard coding practices and utilized version control.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 23,
+        "question": "Question 4:  The position involves operating large-scale CV systems. Based on your experience, how would you approach monitoring the performance of a large-scale CV system, and what metrics would you prioritize? What alerting mechanisms would you put in place?",
+        "answer": "",
+        "model_answer": "I would prioritize metrics like model accuracy, inference speed, and resource utilization. I'd implement monitoring using tools to track these metrics in real-time. Alerts would trigger based on predefined thresholds for performance degradation or resource exhaustion, using tools like Prometheus or Grafana.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 24,
+        "question": "Question 5: The team works with cutting-edge computer vision and machine learning algorithms, and the company is open to new research. In your view, what are some of the most promising recent advancements in CV or ML, and how might they apply to autonomous video security?",
+        "answer": "",
+        "model_answer": "Recent advancements include efficient transformers and self-supervised learning for CV. In autonomous video security, these can enhance object detection accuracy and anomaly detection. My experience in industrial object detection and anomaly detection, coupled with LLM/VLM knowledge, aligns well with optimizing performance and expanding services.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 25,
+        "question": "Question 6: The job requires working with colleagues in Taipei and San Francisco. Describe your experience working in a collaborative environment, especially with team members in different locations or time zones. How do you handle communication challenges?",
+        "answer": "",
+        "model_answer": "In my previous roles, I collaborated with global teams. I leveraged tools like Slack, and regular video calls to maintain clear communication. I'm adept at documenting progress and adapting to time differences, ensuring everyone remains informed and aligned on project goals, as demonstrated in my Taiwan AILabs experience.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 26,
+        "question": "Question 7: The role requires a minimum of 7 years of experience in an AI-related role. Given your work experience and the responsibilities of this position, how do you see your experience aligning with the challenges and opportunities of this role?",
+        "answer": "",
+        "model_answer": "With over 6 years of AI experience, my background aligns well. My CV/ML experience at Hon Hai and LLM/VLM work at Taiwan AILabs, coupled with my skills in object detection, LLMs, and system design, directly address the role's needs. I'm adept at designing and implementing scalable AI solutions.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 27,
+        "question": "Question 8: The company is looking for candidates with experience in designing data-intensive applications and container technologies like Docker and Kubernetes. Could you discuss a time you designed a data-intensive application and/or used container technologies? What were the benefits of these technologies in that scenario?",
+        "answer": "",
+        "model_answer": "During my time at Taiwan AILabs, I designed a medical LLM service, which was data-intensive. We used Docker and Kubernetes to containerize and orchestrate the service, enabling scalability and efficient resource management. This facilitated faster deployment, improved resource utilization, and streamlined updates, crucial for handling large medical datasets and user requests.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 28,
+        "question": "Question 9: The description mentions 'design documents and unit tests.' Could you describe your approach to creating design documents and writing unit tests for your projects?",
+        "answer": "",
+        "model_answer": "I create design documents outlining system architecture, algorithms, and data flow. I write detailed unit tests using Python, covering edge cases and ensuring code reliability, following design patterns. I have experience with Docker and Kubernetes.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 29,
+        "question": "Question 10: This role is in Neihu, Taipei. Are you currently located in Taipei or willing to relocate? The salary is negotiable, but a regular monthly salary of NT$40,000 or above is required. Are your salary expectations within this range?",
+        "answer": "",
+        "model_answer": "Yes, I am currently in Taipei and can easily commute to Neihu. My salary expectations are above NT$40,000, and I am eager to discuss specific compensation based on the role's responsibilities and my extensive experience in AI, particularly in computer vision and LLMs.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 30,
+        "question": "Question 11: Your resume highlights experience with LLMs, VLMs, and time-series data. Can you describe a project where you integrated different types of AI models (e.g., CV and LLM) to solve a specific problem?",
+        "answer": "",
+        "model_answer": "In my project at Taiwan AILabs, I integrated computer vision with LLMs to create a series video-to-text system. This involved using CV for video analysis and LLMs for generating descriptive text. This project demonstrates my ability to combine diverse AI models to solve complex, real-world problems.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 31,
+        "question": "Question 12: Your thesis was on Quantum Machine Learning. Although the role doesn't explicitly require this, could you briefly explain your understanding of the potential of quantum machine learning, and how its principles might inform your approach to AI problem-solving?",
+        "answer": "",
+        "model_answer": "Quantum machine learning excites me with its potential for faster computation and solving complex problems. While not directly applicable here, the focus on novel algorithms and efficient data processing in my thesis aligns with the AI team's goals. It cultivates my mindset for innovative solutions and optimization.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 32,
+        "question": "Question 13: Your resume shows publications and a patent. How do you stay current with the latest advancements in the field? How do you balance staying up-to-date with research and also applying technologies in practical applications?",
+        "answer": "",
+        "model_answer": "I stay current by reading research papers, attending conferences, and contributing to open-source projects. My practical experience allows me to evaluate new advancements, focusing on those applicable to real-world challenges. I balance research and application by prioritizing technologies that align with project goals and iteratively implementing them, starting with the most promising.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 33,
+        "question": "Question 14: Your resume includes experience with self-supervised learning and domain adaptation. Could you discuss a project where you used one of these techniques? What were the key challenges and your approach to solving them?",
+        "answer": "",
+        "model_answer": "In my Foxconn role, I implemented an industrial object detection system using self-improvement techniques. The challenge was adapting models to new environments with limited labeled data. My approach involved active learning to select the most informative data points for labeling and then fine-tuning the model. This improved detection accuracy in dynamic industrial settings.\n",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 34,
+        "question": "Question 15: You have contributed to an open-source project and a PyPI package. What motivates you to contribute to the open-source community? How does this experience translate to your work in closed-source environments?",
+        "answer": "",
+        "model_answer": "I enjoy open-source for collaborative knowledge-sharing and community learning. It allows me to refine skills and stay updated with the latest advancements. This translates to closed-source by enhancing code quality, fostering teamwork, and applying best practices for efficient, maintainable systems.\n",
+        "eval": "",
+        "score": -1
+    }
+]
