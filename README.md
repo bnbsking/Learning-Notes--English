@@ -6,12 +6,17 @@ Learn English by AI
 
 2. Put vocabs in `data_tmp.txt`
 
-3. Extract vocab into `output/vocab.json`
+3. Extract vocab into `output/vocab_tmp.json`
 ```bash
-python -m src.article_generator.main
+python srcipts/extract_vocab.py
 ```
 
-4. Generate QA into `output/articles/article_*.md`
-```python
-python -m src.article_generator.qa
+4. Generate articles into `output/articles/article_*.md`
+```bash
+python srcipts/article_generator.py
+``` 
+
+5. Append QA after the above articles
+```bash
+python scripts/article_generator_qa.py
 ```
