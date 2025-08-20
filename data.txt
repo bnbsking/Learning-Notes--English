@@ -73,7 +73,8 @@ a master/genius/expert of
 
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
-very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = horrible = terrible < = horrendous
+very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = gross = horrible = terrible
+	< = horrendous = [pro no h sound] ghastly
 very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
@@ -89,7 +90,7 @@ form of state (n) election or not -> hereditary 世襲 = monarchy 君主 vs repu
 regime (n) responsible or not -> democracy vs dictatorship = autocracy
 autonomy (n) the right of a group that can govern itself
 = autonomous region (n)
-author; authorize=empower; authority; authentic=genuine; authentication
+author; authorize=empower; authority; authentic = genuine; authentication
 elector = constituent = voter (n) <-> candidate; electorate (n) all voters
 have a blood relations = relate by consanguinity
 
@@ -112,12 +113,11 @@ Aggravate 1 = deteriorate = exacerbate (v) become worse
 Aggravate 2 = exasperate = irritate = provoke = inflame (v) annoy sb
 agitate/argue for/against sth (v)
 erupt
-commotion (n) sudden noise or excited movement
-riot (n) a violent public meeting
-unrest (n)
-rebellion (n)
+commotion (n) = unrest (n) sudden noise or excited movement 
 agitation (n) = protest = uprising
-incite sth (e.g. insurrection) = incite sb to (v)
+riot (n) a violent public meeting
+rebellion (n)
+incite sth (e.g. insurrection) = incite sb to (v) = goad (v)
 idea/imagination was kindled by
 spark (n) small piece of fire; a small event cause a much worse situation; electrician
 spark new problems (v) make new problems
@@ -126,7 +126,9 @@ Aggregate (v)
 Exaggerated (adj) <-> mediocre (adj)(-) = moderate (adj)(+)
 exaggerate (v) = overstate (v) describe sth more important or serious than it really is
 boast (v) = flaunt (v)
-arrogant = pompous = brash (adj) > proud
+arrogant = pompous = brash (adj) (+/-) describe sb
+proud (adj) (+/-) describe sb
+gaudy (adj) (+/-) describe sth
 ostentatious (adj) obviously show money/power/possession to make others admire you
 ostensible (adj) claiming sth but its something else
 window dressing (n) = ostentation (n)
@@ -405,6 +407,7 @@ demolish (theory, building)
 bark (v) dog noise (n) skin of tree
 
 barn (n) a building where animals and grain are kept
+granary (n)
 
 barnacle (n) 藤壺
 tentacle (n) 觸手
@@ -456,7 +459,8 @@ bagel (n) 貝果
 beacon (n) 燈塔; 指引光明的人或物
 
 bear (v) 忍耐; 承受 (n) 熊; 看空者
-Bearing 軸承
+gear (n) 齒輪
+bearing (n) 軸承
 
 beat around the bush (v) 拐彎抹角
 give sb the runaround (v) 敷衍
@@ -501,7 +505,7 @@ criticize = condemn = denounce = deplore = slam
 blast = explode (v)
 blaze (n)(v) = flare (up) (n)(v)
 
-outlook/prospect is (bleak <-> promising)
+outlook/prospect is (bleak = grim <-> promising)
 overshadow (v) make sb/sth’s outlook not promising
 (in) eclipse (n) situation becomes less important; 日食 or 月食
 fade away (v)
@@ -516,7 +520,11 @@ synthetic (adj)
 concoct (v) make food by adding different things together; invent excuse/story to deceive sb
 coalesce into (v) = unite = combine = merge = fuse; mix = blend
 
-blink (v) close and open eyes; flash on and off = twinkle = flicker
+閃爍(眼睛, 星星)
+	+ 強, 穩: blink (v) = gleam (v) = glitter (v) = twinkle (v)
+	+ 弱, 不穩 / 搖曳(燭光): flicker (v) = glimmer (v)
+a glimmer of hope
+
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
 [pro Pre|ci|pi|tate]
 	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
@@ -578,7 +586,7 @@ detergent (n) 清潔劑; 洗衣精; 洗碗精
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
 
-breathtaking = magnificent = spectacular (adj) = very beautiful (scene)
+breathtaking = gorgeous = magnificent = spectacular (adj) = very beautiful (scene)
 spectator = audience (n)
 
 breeze (n) things easy to do; small wind
@@ -715,6 +723,7 @@ cellar (n) basement stores food
 [pro] cemetery = graveyard (n) place buried dead people
 grave = tomb (important people) (n) the stone of a dead person in a graveyard
 have one’s foot in the grave (n) near death
+grave (adj) seriously bad e.g. grave situation
 gravel (n) small round stones mixed with sands
 
 ceasefire
@@ -767,7 +776,7 @@ get some errand (v) 辦事
 civil 1 (adj) = civic (adj) not military or religious, just ordinary people; civilian (n)
 civil 2 (adj) 民事的 <-> criminal (adj) 刑事的 <-> administrative (adj) 行政的
 criminal record (n)
-civil 3 (adj) = cordial = courteous = polite (adj) 有禮貌的, 客氣的
+civil 3 (adj) = cordial = courteous = gracious = polite (adj) 有禮貌的, 客氣的
 courtesy (n), etiquette (n) more rules for courtesy
 demeanour (n) 風度
 decent (adj) socially acceptable (style/person/wearing)
@@ -898,6 +907,7 @@ delectable = delicious = palatable = scrumptious = tasty || 得雷克table 好�
 strong (adj) = concentrated = rich <-> bland (adj) = tasteless (adj)
 savory (adj) salty or spicy
 edible (adj) can be eaten
+[pro gor-mei] gourmet (n) delicious food
 
 counsel (v)(n) = advice / advise = exhort (v)
 
@@ -943,8 +953,10 @@ Crude (adj) 簡陋的(物) = coarse = rough 粗糙的
 Crude (adj) 無理的(人) = coarse = rude, vulgar 庸俗的
 
 crumbs (n) small piece of bread/cake/biscuit; debris=fragment (n); dandruff 頭皮屑
-Crumble (v) = fragment = smash
-Crumple (v) 起皺; crease (n) 皺摺; wrinkle (n) 皺紋
+crumble (v) = fragment = smash
+crumple (v) = wrinkle (v) 弄皺
+crease (n) = wrinkle (n) 皺摺
+wrinkle (n) 皺紋
 crack 裂縫 (n) = [pro cre-vi-ce] crevice
 loophole (n) a law or program flaw = vulnerability = flaw
 crack (v) break or hack in sth
@@ -1108,7 +1120,7 @@ counterproductive (adj) has an adverse effect
 have serious repercussion for (v) has bad effect for
 
 detach = disengage = separate (v) (sth)
-separate = segregate = freeze out (v) (sb)
+separate = segregate = freeze out (v) (sb) <-> get alone with
 
 detest (v) = loathe (v) very hate
 
@@ -1144,7 +1156,8 @@ dilly-dally (v) waste time
 
 dilute (v) make a liquid weaker; reduce the strength of a feeling
 
-dim (adj) not having much light; not promising = bleak
+dim (adj) dark
+dim (adj) non-promising = bleak = grim 
 dingy (adj) dark and dirty
 
 in disarray (n) not organized
@@ -1435,7 +1448,9 @@ hurdle (n) a fence for jumping over in a race
 
 exotic (adj) the other country
 experience exotic ambience/food
-ambience (n) = atmosphere = vibe; aura (n) 氣場
+ambience (n) = atmosphere = vibe
+aura (n) 氣場
+glamor (n) 魅力
 
 expire (v) come to an end of a fixed time period
 
@@ -1498,7 +1513,7 @@ fatigued (adj) = tired (adj) = exhausted (adj) = depleted (adj) = drained (adj) 
 fatuous (adj) = foolish = stupid = silly = idiotic = brainless
 fool (n) = moron (n) = idiot (n)
 
-feeble (adj) = weak
+feeble (adj) = weak = gaunt
 
 fend (v) = defend
 
@@ -1581,18 +1596,71 @@ futile (adj) = vain = useless = meaningless = pointless
 futuristic (adj)
 
 [GGG]
+gale (n) = gust (n) strong wind
+
+gape at (v) look at surprisingly
+glare (n) strong light
+glare at (v) look at ... angrily
+glimplse at (v) look at .. shortly
+
+garment (n) cloth
+gown (n) 禮服; 長袍
+
+gasp (v)(n) take a short and quick breath
+
+gauge (n)(v) to measure; measuring equipment
+
+generic = general (adj)
+
+germ (n) virus, bacteria, microorganism
+
+giggle (v)(n) funny laungh or thing
+grin (v)(n) wide smile
+
+gist (n) core
+
 give someone an inch and they'll take a mile
 
 give someone a raise
 promote 促銷 晉升 晉級 提拔
 
+give way (to) (v) = compromise
+
+glacier (n) 冰川
+canyon (n) 峽谷
+
+glide = slide (v)
+
+gloss (n) 光澤
+glow (v) 發光 e.g. The gloss glows, gleams, and glitters, but it does not glimmer.
+
 gospel (n) 福音
 
-got together 在一起
+grate (v) rub and cut the food into small pieces
+grind (v) rub and cut; 磨碎
 
-gourmet (n) delicious food
+gratuity (n) 小費
 
-government bond
+graze (v) eat grass
+
+grease (n)(v) = oil (n)(v)
+greasy (adj)
+
+痛苦呻吟
+	groan (n)(v) = moan (n)(v) = whimper (n)(v)
+抱怨
+	groan (n)(v) = moan (n)(v) = grumble (n)(v) = complaint / complain
+
+grope for (v) 摸黑尋找
+
+growl (v) make anger noise
+
+grudge (n) resentment
+grudge (v) deem .. not deserved; be reluctant to do
+
+guardian (n) 監護人
+
+gush (v) 噴出
 
 [HHH]
 handcuff (n) = manacles
@@ -1851,6 +1919,8 @@ snobbish (adj)
 
 snorkeling <-> scuba diving
 
+snowball (n)(v)
+
 Sober (adj) 1 serious and calm 2 not drunk (v) let sb calm down
 Sobriety (n) the state of being sober
 
@@ -1884,6 +1954,10 @@ motion sickness pill (n)
 tabloid (n)(adj) 八卦(的)小報 <-> broadsheet 大報 (n)
 
 tariff (n) 關稅
+
+tailor (n) 裁縫師
+trail (n) 小徑
+trailor (n) 預告片
 
 temptress (n) 狐狸精
 

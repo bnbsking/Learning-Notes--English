@@ -1,147 +1,102 @@
-abrasion (n) (skin, wheel, surface, ...) rubbed away
-bruise (n)(v)
-fester (n)(v) 潰爛
+arrogant = pompous = brash (adj) (+/-) describe sb
+proud (adj) (+/-) describe sb
+gaudy (adj) (+/-) describe sth
 
-compact 1 (adj) position together closely
-	c.p. compact camera; rich cake; well-done muscles <-> flappy muscles
+feeble (adj) = weak = gaunt
 
-bungalow, cabin
-cabinet (n) 櫃子
+authentic = genuine
 
-boast (v) = flaunt (v)
+dreadful = [pro fow] foul = gross
+	< = horrendous = [pro no h sound] ghastly
 
-blink (v) close and open eyes; flash on and off = twinkle = flicker
+ambience (n) = atmosphere = vibe
+aura (n) 氣場
+glamor (n) 魅力
 
-colloquium (n) a formal meeting for discussing something = seminar = forum
+閃爍(眼睛, 星星)
+	+ 強, 穩: blink (v) = gleam (v) = glitter (v) = twinkle (v)
+	+ 弱, 不穩 / 搖曳(燭光): flicker (v) = glimmer (v)
+a glimmer of hope
 
-dreadful = foul
+gloss (n) 光澤
+"The gloss glows, gleams, and glitters, but it does not glimmer."
 
-fracture (n) 骨折
+incite sth (e.g. insurrection) = incite sb to (v) = goad (v)
 
-brittle = frail = fragile = crisp = crispy (adj)
+breathtaking = gorgeous = magnificent = spectacular (adj) = very beautiful (scene)
 
-facet (n) = aspect
+civil 3 (adj) = cordial = courteous = gracious = polite (adj) 有禮貌的, 客氣的
+courtesy (n), etiquette (n) more rules for courtesy
+demeanour (n) 風度
+decent (adj) socially acceptable (style/person/wearing)
 
-facilitate (v) make sth easier
-facility (n) building; equipment
-amenity (n)
+barn (n) a building where animals and grain are kept
+granary (n)
 
-faculty 1 (n) natural ability to hear, see, feel, think, move, etc.
-faculty 2 (n) special ability
-faculty 3 (n) all the teachers in a college
+outlook/prospect is (bleak = grim <-> promising)
 
-fade into oblivion (v) 漸漸被遺忘
+gale (n) = gust (n) strong wind
 
-Fahrenheit (n), Celsius (n), Kelvin (n)
+gape at (v) look at surprisingly
+glare (n) strong light
+glare at (v) look at ... angrily
+glimplse at (v) look at .. shortly
 
-faith (n) = belief (n)
-<-> fallacy (n) = misconception (n) = myth 1 (n) ~ paradox (n) = contradiction (n)
-myth 2 (n) story of gods
-mystery (n) sth not yet been explained or understood; 推理劇
-inference (n)
-[pro 阿里掰] alibi (n) 不在場證明
+garment (n) cloth
+gown (n) 禮服; 長袍
 
-fallacy (n) = paradox = myth
+gasp (v)(n) take a short and quick breath
 
-falter 1 (v) lose strength and stop or almost stop
-shrink back (v) <-> stick out (v)
-falter 2 (v) = stumble 1 (v) walk unstably
-stumble 2 (v) walking or running then fall down
+gauge (n)(v) to measure; measuring equipment
 
-famine (n) situation of not enough food
+generic = general (adj)
 
-fancy (v) want; think
-fancy (adj) decorative
+germ (n) virus, bacteria, microorganism
 
-farewell (ex) goodbye
+giggle (v)(n) funny laungh or thing
+grin (v)(n) wide smile
 
-fatal (adj) = lethal (adj) = deadly (adj) = mortal (adj)
-dead (adj), die (v), death (n)
-deadly (adv) = extremely = exceedingly = very
+gist (n) core
 
-fatigue (n)
-fatigued (adj) = tired (adj) = exhausted (adj) = depleted (adj) = drained (adj) = listless(adj) = weary (adj)
+give someone an inch and they'll take a mile
 
-fatuous (adj) = foolish = stupid = silly = idiotic = brainless
-fool (n) = moron (n) = idiot (n)
+give someone a raise
+promote 促銷 晉升 晉級 提拔
 
-feeble (adj) = weak
+give way (to) (v) = compromise
 
-fend (v) = defend
+glacier (n) 冰川
+canyon (n) 峽谷
 
-ferocious = fierce (adj) e.g. describe battle, fighting, criticism, dog, people, ...
+glide = slide (v)
 
-felony (n) serious crime
+gloss (n) 光澤
+glow (v) 發光 e.g. The gloss glows, gleams, and glitters, but it does not glimmer.
 
-fickle (adj) = capricious (adj) easy to change mind
+gospel (n) 福音
 
-filth (n) dirty thing; sexually offensive
+grate (v) rub and cut the food into small pieces
+grind (v) rub and cut; 磨碎
 
-fixture (n) 1 fixed furniture 2 constantly held sport events
+gratuity (n) 小費
 
-[gra] flee fled fled
+graze (v) eat grass
 
-flesh (n) = pulp (n) 果肉 <-> peel (n) 果皮; peel (v) 削皮
+grease (n)(v) = oil (n)(v)
+greasy (adj)
 
-flock (n) crowd people (v) gather
+痛苦呻吟
+	groan (n)(v) = moan (n)(v) = whimper (n)(v)
+抱怨
+	groan (n)(v) = moan (n)(v) = grumble (n)(v) = complaint / complain
 
-fluffy (adj) many fur (doll)
-furry (adj) many fur (animal)
+grope for (v) 摸黑尋找
 
-tin foil (n) 錫箔紙
-plastic wrapper (n) 保鮮膜
-foodstorage container / bag (n)
+growl (v) make anger noise
 
-forerunner (n) = pioneer
+grudge (n) resentment
+grudge (v) deem .. not deserved; be reluctant to do
 
-foresee the furniture
+guardian (n) 監護人
 
-forensics (adj) scientific methods of solving crime by examining objects
-autopsy (n) examination of a dead body to discover the reason of death
-coroner (n) people (carry out)/perform autopsy
-
-formidable (adj) 難以對付的(人/物)
-
-fort (n) 要塞
-forte (n) 專長
-fortnight (n) two weeks
-
-fortify = intensify = reinforce (v)
-
-fossil (n)(adj) 化石; 食古不化
-
-fragrance (n) = aroma (n) = scent (n) pleased smell
-give off (v)
-
-frantic (adj) make sb crazy
-
-freight (n) 貨運 (v) 運送
-
-fret (n) 煩惱
-fretful (adj)
-
-be stuck in the friendzone (v) 被發好人卡
-= suffered from one-sided love (v)
-
-from the outset (adj) = in the beginning
-
-from now on = henceforth 
-Since then = after that = from then on = ever since = thereafter
-
-frost (n) 霜
-
-frown at (v) 對誰...皺眉
-
-[pro fru-i-tion] fruition (n) 成果
-
-furious (adj) = raged (adj) = boiled (adj) = very angry
-wrath = rage (n)
-make a fuss (over) (v)
-
-furnace (n) heater 火爐
-
-decorate (v) < furnish (v) < renovate (v)
-
-futile (adj) = vain = useless = meaningless = pointless
-
-futuristic (adj)
+gush (v) 噴出
