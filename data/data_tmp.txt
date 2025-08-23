@@ -1,102 +1,95 @@
-arrogant = pompous = brash (adj) (+/-) describe sb
-proud (adj) (+/-) describe sb
-gaudy (adj) (+/-) describe sth
+brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
+[pro Pre|ci|pi|tate]
+	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
+	Precipitate (adj) = careless = hasty = indiscreet = impetuous = reckless = sloppy
+	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
+on the fly (adv) do something quickly without preparation
+bustling = busy = hectic (adj)
+swamp with (n) busy for, swamp (n) 沼澤
 
-feeble (adj) = weak = gaunt
+[pro Gr-奧] growl (v) make anger noise
+[pro 號-喔] howl (v) 嚎叫
 
-authentic = genuine
+had better (v) 最好
 
-dreadful = [pro fow] foul = gross
-	< = horrendous = [pro no h sound] ghastly
+hail (n)(v) 冰雹
 
-ambience (n) = atmosphere = vibe
-aura (n) 氣場
-glamor (n) 魅力
+halt (v) stop
 
-閃爍(眼睛, 星星)
-	+ 強, 穩: blink (v) = gleam (v) = glitter (v) = twinkle (v)
-	+ 弱, 不穩 / 搖曳(燭光): flicker (v) = glimmer (v)
-a glimmer of hope
+hallucination (n) = illusion = delusion
 
-gloss (n) 光澤
-"The gloss glows, gleams, and glitters, but it does not glimmer."
+handcuff (n) = manacles
+fetters (n) 腳鐐
+uncuff (v) remove handcuff from
 
-incite sth (e.g. insurrection) = incite sb to (v) = goad (v)
+handicap (n)
 
-breathtaking = gorgeous = magnificent = spectacular (adj) = very beautiful (scene)
+hang on <-> hang up
 
-civil 3 (adj) = cordial = courteous = gracious = polite (adj) 有禮貌的, 客氣的
-courtesy (n), etiquette (n) more rules for courtesy
-demeanour (n) 風度
-decent (adj) socially acceptable (style/person/wearing)
+happy medium (n) 折衷方案
 
-barn (n) a building where animals and grain are kept
-granary (n)
+[pro hap-黑-zer-d] haphazard (adv) = coincidentally
 
-outlook/prospect is (bleak = grim <-> promising)
+[pro 喝-rass] harass (v) 
 
-gale (n) = gust (n) strong wind
+hardy (adj) strong enough to bear extreme conditions
 
-gape at (v) look at surprisingly
-glare (n) strong light
-glare at (v) look at ... angrily
-glimplse at (v) look at .. shortly
+harsh (adj) = noisy
 
-garment (n) cloth
-gown (n) 禮服; 長袍
+haunted (adj) 鬧鬼的
 
-gasp (v)(n) take a short and quick breath
+haven (n) 淨土
+heaven (n) 天堂
 
-gauge (n)(v) to measure; measuring equipment
+havoc (n) 浩劫
 
-generic = general (adj)
+hawk (n) 鷹
 
-germ (n) virus, bacteria, microorganism
+headstrong (adj) = wilful (adj)
 
-giggle (v)(n) funny laungh or thing
-grin (v)(n) wide smile
+heal (v) 癒合; 療癒
+cure (v) 治癒
 
-gist (n) core
+heartbreaking (adj) = heart-wrenching = disheartening (adj) 
 
-give someone an inch and they'll take a mile
+heighten (v)
 
-give someone a raise
-promote 促銷 晉升 晉級 提拔
+[pro air] heir (n) 繼承人
 
-give way (to) (v) = compromise
+herd (n) 獸群 (v) 放牧
 
-glacier (n) 冰川
-canyon (n) 峽谷
+hereby (adv) 在此...
 
-glide = slide (v)
+Here you go = give you
+Here we go = ready
 
-gloss (n) 光澤
-glow (v) 發光 e.g. The gloss glows, gleams, and glitters, but it does not glimmer.
+hinge (n)(v) 絞鍊
 
-gospel (n) 福音
+hit the nail on the head (v) 一針見血
 
-grate (v) rub and cut the food into small pieces
-grind (v) rub and cut; 磨碎
+hitch (v) 拴住
+hitchhike (v) 搭便車
 
-gratuity (n) 小費
+hoard (v)(n) stock large amount of sth
 
-graze (v) eat grass
+hoist (v) 抬起
 
-grease (n)(v) = oil (n)(v)
-greasy (adj)
+homicide <-> suicide
 
-痛苦呻吟
-	groan (n)(v) = moan (n)(v) = whimper (n)(v)
-抱怨
-	groan (n)(v) = moan (n)(v) = grumble (n)(v) = complaint / complain
+horticulture (n) 園藝
 
-grope for (v) 摸黑尋找
+hose (n) 軟水管
 
-growl (v) make anger noise
+hound (n) 獵犬
 
-grudge (n) resentment
-grudge (v) deem .. not deserved; be reluctant to do
+how come [informal] = why
 
-guardian (n) 監護人
+hubbub (n) 喧鬧
 
-gush (v) 噴出
+hunchback (n) 駝背
+
+hygienic (adj)
+sanitization (n)
+hand sanitizer (n)
+
+[pro his-...] hysterical (adj) 歇斯底里的

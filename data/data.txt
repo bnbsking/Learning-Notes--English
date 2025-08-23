@@ -475,7 +475,7 @@ Behind time = late
 
 bring/has benefits/profits to = be beneficial/conducive to
 advantages (n)
-be detrimental/harmful to
+detrimental (adj) = harmful = harzardous
 disadvantages (n) = drawback = downside
 
 berth (n) bed in ship or train
@@ -543,7 +543,8 @@ blaring (adj) loud
 
 an ink blot (n) a small area of ink
 
-blunder (v) = make a serious mistake = make a blunder  
+blunder (v) = make a serious mistake
+blunder (n) = mistake = pitfall
 
 blunt <-> sharp (adj)
 
@@ -592,6 +593,7 @@ spectator = audience (n)
 breeze (n) things easy to do; small wind
 
 brew (v) make beer, coffee or tea; (n) beer
+hatch (v) 孵化; 測謀
 sth is brewing (v) unpleasant thing is gonna happen
 conceive (+) (v) imagine; plan; be pregnant
 contrive (+/-)(v) plan
@@ -614,7 +616,7 @@ brittle = frail = fragile = crisp = crispy (adj)
 crisp (adj) cold and dry
 
 [pro] brochure = booklet = pamphlet
-prospectus, leaflet, handout
+prospectus, leaflet, handout, handbook
 [pro] bronchus (n) 支氣管
 windpipe (n) 氣管
 
@@ -1017,7 +1019,6 @@ dangerous (adj) = hazardous = risky = unsafe << [pro pe-ro-lous] perilous
 Dart (n) 飛鏢
 
 Daunt (v) discourage
-disheartening (adj) = heart-wrenching
 
 debate (v) = disagree with = argue about/over = quarrel about/over
 debate (n) = disagreement = argument = quarrel
@@ -1650,10 +1651,10 @@ greasy (adj)
 	groan (n)(v) = moan (n)(v) = whimper (n)(v)
 抱怨
 	groan (n)(v) = moan (n)(v) = grumble (n)(v) = complaint / complain
+[pro Gr-奧] growl (v) make anger noise
+[pro 號-喔] howl (v) 嚎叫
 
 grope for (v) 摸黑尋找
-
-growl (v) make anger noise
 
 grudge (n) resentment
 grudge (v) deem .. not deserved; be reluctant to do
@@ -1663,36 +1664,89 @@ guardian (n) 監護人
 gush (v) 噴出
 
 [HHH]
+had better (v) 最好
+
+hail (n)(v) 冰雹
+
+halt (v) stop
+
+hallucination (n) = illusion = delusion
+
 handcuff (n) = manacles
 fetters (n) 腳鐐
 uncuff (v) remove handcuff from
 
-hallucination (n) = illusion = delusion
+handicap (n)
+
+hang on <-> hang up
 
 happy medium (n) 折衷方案
 
-heartbreaking (adj)
+[pro hap-黑-zer-d] haphazard (adv) = coincidentally
+
+[pro 喝-rass] harass (v) 
+
+hardy (adj) strong enough to bear extreme conditions
+
+harsh (adj) = noisy
+
+haunted (adj) 鬧鬼的
+
+haven (n) 淨土
+heaven (n) 天堂
+
+havoc (n) 浩劫
+
+hawk (n) 鷹
+
+headstrong (adj) = wilful (adj)
+
+heal (v) 癒合; 療癒
+cure (v) 治癒
+
+heartbreaking (adj) = heart-wrenching = disheartening (adj) 
+
+heighten (v)
+
+[pro air] heir (n) 繼承人
+
+herd (n) 獸群 (v) 放牧
 
 hereby (adv) 在此...
 
 Here you go = give you
 Here we go = ready
 
-hoard (v)(n) stock large amount of sth
-
-homicide <-> suicide
-
-how come [informal] = why
+hinge (n)(v) 絞鍊
 
 hit the nail on the head (v) 一針見血
 
 hitch (v) 拴住
+hitchhike (v) 搭便車
+
+hoard (v)(n) stock large amount of sth
+
+hoist (v) 抬起
+
+homicide <-> suicide
+
+horticulture (n) 園藝
+
+hose (n) 軟水管
+
+hound (n) 獵犬
+
+how come [informal] = why
+
+hubbub (n) 喧鬧
 
 hunchback (n) 駝背
 
 hygienic (adj)
 sanitization (n)
 hand sanitizer (n)
+
+[pro his-...] hysterical (adj) 歇斯底里的
 
 [III]
 
@@ -1799,6 +1853,8 @@ outfit (n) clothes
 outright (adv) completely
 
 over the period of = during
+
+overwhelm (v) = beat
 
 [PPP]
 
