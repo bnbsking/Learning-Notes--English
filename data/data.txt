@@ -73,7 +73,7 @@ a master/genius/expert of
 
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
-very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = gross = horrible = terrible
+very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = gross = horrible = inferior = terrible
 	< = horrendous = [pro no h sound] ghastly
 very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
@@ -209,9 +209,11 @@ vessel (n) 1 blood tube 2 large ship
 [pro] annihilate = eliminate = eradicate = wipe out = exterminate = obliterate
 erase / destroy = annihilate = spoil
 demise (n) 消亡
-undermine the confidence 削弱信心
 submerge the evidence
 conceal the evidence
+削弱
+	undermine the confidence 削弱信心
+	impair the efficiency 削弱效率
 
 [pro] history antagonism between
 an|tagonist 1 (n) opponent = rival = competitor = foe = enemy 
@@ -280,11 +282,12 @@ condole with (v)= lament over = grieve for = mourn for (v) show sadness to the d
 condolence (n)
 lament (n) writing that express the sadness about sb’s death
 console 1 安慰 (v) = comfort (v); 2 小黑框 (n)
-dwell in 2 = reside in = live in (v)
-abide in = stay at = be accommodated in 
+dwell in 2 = reside in = live in (v) = inhabit (v)
+abide in = stay at = be accommodated in
 domicile (n) = residence (n) place for living
-habitat (n) living place of animals 
-form a habit of = get used to = accustom ones'self to sth
+habitat (n) living place of animals
+form a habit of = get used to = accustom ones'self to sth (v)
+<-> be done (v) = get rid of
 
 apprentice=pupil
 beginner = novice = newbie = newcomer = rookie
@@ -322,7 +325,7 @@ ingest (v) eat or drink
 digest (v) change food into stomach and body can used = assimilate (v) or become similar
 absorb 1 (v) mix sth into
 absorb sb 2 (v) fully take up sb’s attention = captivate = engross = fascinate
-absorbing (adj) = captivating = engrossing = fascinating
+absorbing (adj) = captivating = engrossing = fascinating = [pro u 不發音] intriguing
 
 assorted (adj) = diverse 1 = [pro] miscellaneous = various = a wide range/realm of
 catholic (adj)(n), christian (n), islam (n), judaism (n)
@@ -440,7 +443,7 @@ bay (n) 海灣
 keep sth in bay = 4.
 1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = shun
 2. 拒絕 reject = turn down
-3. 妨礙/干擾 disrupt = disturb = hamper = hinder = interfere = intervene = obstruct = purturb
+3. 妨礙/干擾 disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = purturb
 4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
 5. 禁止 ban = block = forbidden = prohibit
 interleave (v) 交錯
@@ -664,7 +667,7 @@ cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
 
 capital punishment (n) death punishment
 
-cardinal = chief = critical = crucial = essential = important = indispensable = significant = vital
+cardinal = chief = critical = crucial = essential = important = indispensable = inevitable = significant < imperative = vital
 chief (n) leader
 [pro] chef (n) primary people that cooks food
 [pro su-chef] sous-chef (n) secondary chef
@@ -821,7 +824,7 @@ colloquial (adj) words informal and used in speech only
 colloquium (n) a formal meeting for discussing something = seminar = forum
 
 colossal (adj) = enormous = giant = gigantic = huge = immense = vast
-considerable (adj) = countless = massive = numerous = tremendous = a plenty of
+considerable (adj) = countless = massive = numerous = innumerable = tremendous = a plenty of
 a great deal of (adj) for uncountable
 
 combustible (adj) easy to be burned
@@ -830,7 +833,7 @@ comeback (n)
 
 commemorate (v) to remember celebrities or great events
 
-commensurate with (adj) in a suitable amount compared to sth e.g. the salary is commensurate with the skill
+commensurate with (adj) in a suitable amount compared to sth e.g. the salary is commensurate with the skill 可匹配的
 
 commitment (n) = contribution
 
@@ -914,7 +917,8 @@ edible (adj) can be eaten
 counsel (v)(n) = advice / advise = exhort (v)
 
 counterfeit (adj) = fake (adj) = forged (adj)
-pirate (v) illegal copy of a program, music, form, etc.
+pirate (v) = plagiarize (v) illegal copy of a program, music, form, etc.
+infringe (v) = violate (v) e.g. infringe the copyright
 fabricate (v) change truth to deceive others
 falsify (v) change document to deceive others
 feign (v) pretent feeling
@@ -1004,6 +1008,7 @@ cushion (n)
 cuisine (n) 
 
 cynical (adj)
+indignant (adj)
 
 [DDD]
 Dairy (n)(adj) milk, cheese shop
@@ -1121,7 +1126,8 @@ counterproductive (adj) has an adverse effect
 have serious repercussion for (v) has bad effect for
 
 detach = disengage = separate (v) (sth)
-separate = segregate = freeze out (v) (sb) <-> get alone with
+separate = segregate = freeze out sb (v) = insulate = isolate
+<-> get alone with
 
 detest (v) = loathe (v) very hate
 
@@ -1145,6 +1151,7 @@ dictate 1 (v) order with authority
 be dictated 2 (v) = be at the mercy of (v) to be controlled or influenced
 dictate 3 (v) speak to sb and let sb write it down
 e.g. dictate the order over the phone; dictate letters to sb
+invigilate (v) watch people taking an exam to prevent cheat
 
 differentiate (v) = distinguish = discriminate 1 = discern = recognize
 discriminate 2 (v)
@@ -1192,6 +1199,7 @@ displace (v) forced to leave from true position
 replace (v) = supersede = substitute for
 
 Disregard = ignore (v)
+irrespective of (adj)
 
 disseminate (v) spread (news or idea)
 
@@ -1414,6 +1422,7 @@ evoke (v) get remember sth
 
 evolution (n) evolve (v)
 revolution (n) revolt (v)
+innovation (n) innovate (v)
 
 exceed (v) = surpass (v) = outperform (v) = prevail (v)
 
@@ -1439,8 +1448,8 @@ executioner (n) 劊子手
 
 exemplify (v) gives a typical example of sth
 
-exempt (v) to free from (duty, payment, punishment)
-= be immunity from (disease)
+exempt from (v) to free from (duty, payment, punishment)
+= immune from (v) (disease)
 
 exert (influence / pressure) on sb/sth (v)
 
@@ -1513,6 +1522,8 @@ fatigued (adj) = tired (adj) = exhausted (adj) = depleted (adj) = drained (adj) 
 
 fatuous (adj) = foolish = stupid = silly = idiotic = brainless
 fool (n) = moron (n) = idiot (n)
+ignorance (n) lack of knowledge
+inept (adj) not skilled
 
 feeble (adj) = weak = gaunt
 
@@ -1726,7 +1737,7 @@ hitchhike (v) 搭便車
 
 hoard (v)(n) stock large amount of sth
 
-hoist (v) 抬起
+hoist (v) 抬起; 升旗
 
 homicide <-> suicide
 
@@ -1750,9 +1761,38 @@ hand sanitizer (n)
 
 [III]
 
+identify (v) = recognize
+
+ideology (n)
+Think outside the box (v)
+
+illiterate (n), blind (n), dumb (n), deaf (n)
+loss of vision / hearing / smell / taste / touch
+pain sensation (n)
+
+illuminate (v) 照亮; 啟發
+illustrate (v) = indicate = show = demonstrate = display
+
+imaginative = creative (adj)
+ingenious (adj)
+insightful (adj)
+
 imbue with (v) fill (feeling) with
 
+imminent (adj) (bad thing) comming very soon
+
+impart (v) tell or give
+
+imperial (adj) king or emperor
+
+impetus (n) = impulse (n) 動力
+
 impoverish (adj) make sb poor
+
+impromptu (adj) without prepare
+improvise (v) do without prepare
+
+incidentally (adv) 順便
 
 in a tight corner (adj) in a difficult situation
 plight (n)
@@ -1761,17 +1801,48 @@ in goblin mode (adj)
 
 in the meantime
 
+inauguration (n) 啟用典禮; 就職典麗
+
+incipient (adj) emerging / early-staged
+
+incline (n)(v)
+
 incongruity (n)
 Incongruous (adj) 違和的
+
+incorporate (v) = include
 
 increment (n)
 incrementally (adv)
 increase (v) = escalate (v) << proliferate (v)
 
+incur (v)
+induce (v)
+inflict (v)
+
+indemnity (n) momey to compensate
+liquidated damages (n) 違約金
+
 independent travel = self-guided tour
 <-> escorted tour = guided tour
 
+inert (adj) not moving / cannot move / non-energetic = lifeless
+
+infect (v) for virus
+transmit (v) for virus, information
+
+infest (v) 猖獗
+
+infirmary (n) 醫護室
+
+inherent (adj) = intrinsic
+instinct (n) 本能
+
+inland (adj) <-> coastal (adj)
+
 instrumental (adj) helpful
+
+insolvent (adj) can not afford
 
 intermittent fasting (n) stop eating intermittently
 
@@ -1779,7 +1850,34 @@ interrogate (v) = question (v) < grill 1 (v)
 grill 2 (v)
 ask (v) = inquire = enquire
 
+intact (adj) not damaged
+
+interim (adj) 過渡時期的
+
+intermittent (adj) stop and start repeatedly
+
+interrogate (v) 審問; interogate with torture (v) 拷問
+
+intimate (adj) 親密的 (n) 摯友; 閨密
+
+intricate (adj) = perplexing (adj) = sophisticate (adj) <-> intelligible
+
+inventory (n) 庫存目錄
+in stock (adj) 庫存
+
+invincible (adj) <-> vulnerable (adj)
+
+irony (adj) < sarcastic (adj)
+
 irrational = illogical = unreasonable <-> logical = reasonable
+
+irrigation (n) 灌溉 (farmland)
+
+[pro same as aisle] isle (n) = island  
+
+itinerary (n)
+
+ivory (n) elephant teeth
 
 [JJJ]
 
@@ -1995,6 +2093,8 @@ stark constrast to 與...有鮮明對比
 stiff (adj)
 inflexible (adj)
 
+stuffy (adj) <-> drafty
+
 stop at nothing to do (v) 不擇手段
 
 straw (n) 稻草; 吸管
@@ -2002,6 +2102,8 @@ straw (n) 稻草; 吸管
 straggler (n) people in the last of the group to become lost
 
 strive for (v)
+
+strike back (v) 反擊
 
 suffer from the motion sickness (v) being ill in a moving vehicle
 motion sickness pill (n)

@@ -1,95 +1,130 @@
-brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
-[pro Pre|ci|pi|tate]
-	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
-	Precipitate (adj) = careless = hasty = indiscreet = impetuous = reckless = sloppy
-	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
-on the fly (adv) do something quickly without preparation
-bustling = busy = hectic (adj)
-swamp with (n) busy for, swamp (n) 沼澤
+impair the efficiency 削弱效率
 
-[pro Gr-奧] growl (v) make anger noise
-[pro 號-喔] howl (v) 嚎叫
+disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = purturb
 
-had better (v) 最好
+cynical (adj)
+indignant (adj)
 
-hail (n)(v) 冰雹
+invigilate (v) watch people taking an exam to prevent cheat
 
-halt (v) stop
+ignorance (n) lack of knowledge
+inept (adj) not skilled
 
-hallucination (n) = illusion = delusion
 
-handcuff (n) = manacles
-fetters (n) 腳鐐
-uncuff (v) remove handcuff from
+identify (v) = recognize
 
-handicap (n)
+ideology (n)
+Think outside the box (v)
 
-hang on <-> hang up
+illiterate (n), blind (n), dumb (n), deaf (n)
+loss of vision / hearing / smell / taste / touch
+pain sensation (n)
 
-happy medium (n) 折衷方案
+illuminate (v) 照亮; 啟發
+illustrate (v) = indicate = show = demonstrate = display
 
-[pro hap-黑-zer-d] haphazard (adv) = coincidentally
+imaginative = creative (adj)
+ingenious (adj)
+insightful (adj)
 
-[pro 喝-rass] harass (v) 
+imbue with (v) fill (feeling) with
 
-hardy (adj) strong enough to bear extreme conditions
+imminent (adj) (bad thing) comming very soon
 
-harsh (adj) = noisy
+impart (v) tell or give
 
-haunted (adj) 鬧鬼的
+imperial (adj) king or emperor
 
-haven (n) 淨土
-heaven (n) 天堂
+impetus (n) = impulse (n) 動力
 
-havoc (n) 浩劫
+impoverish (adj) make sb poor
 
-hawk (n) 鷹
+impromptu (adj) without prepare
+improvise (v) do without prepare
 
-headstrong (adj) = wilful (adj)
+incidentally (adv) 順便
 
-heal (v) 癒合; 療癒
-cure (v) 治癒
+in a tight corner (adj) in a difficult situation
+plight (n)
 
-heartbreaking (adj) = heart-wrenching = disheartening (adj) 
+in goblin mode (adj)
 
-heighten (v)
+in the meantime
 
-[pro air] heir (n) 繼承人
+inauguration (n) 啟用典禮; 就職典麗
 
-herd (n) 獸群 (v) 放牧
+incipient (adj) emerging / early-staged
 
-hereby (adv) 在此...
+incline (n)(v)
 
-Here you go = give you
-Here we go = ready
+incongruity (n)
+Incongruous (adj) 違和的
 
-hinge (n)(v) 絞鍊
+incorporate (v) = include
 
-hit the nail on the head (v) 一針見血
+increment (n)
+incrementally (adv)
+increase (v) = escalate (v) << proliferate (v)
 
-hitch (v) 拴住
-hitchhike (v) 搭便車
+incur (v)
+induce (v)
+inflict (v)
 
-hoard (v)(n) stock large amount of sth
+indemnity (n) momey to compensate
+liquidated damages (n) 違約金
 
-hoist (v) 抬起
+independent travel = self-guided tour
+<-> escorted tour = guided tour
 
-homicide <-> suicide
+inert (adj) not moving / cannot move / non-energetic = lifeless
 
-horticulture (n) 園藝
+infect (v) for virus
+transmit (v) for virus, information
 
-hose (n) 軟水管
+infest (v) 猖獗
 
-hound (n) 獵犬
+infirmary (n) 醫護室
 
-how come [informal] = why
+inherent (adj) = intrinsic
+instinct (n) 本能
 
-hubbub (n) 喧鬧
+inland (adj) <-> coastal (adj)
 
-hunchback (n) 駝背
+instrumental (adj) helpful
 
-hygienic (adj)
-sanitization (n)
-hand sanitizer (n)
+insolvent (adj) can not afford
 
-[pro his-...] hysterical (adj) 歇斯底里的
+intermittent fasting (n) stop eating intermittently
+
+interrogate (v) = question (v) < grill 1 (v)
+grill 2 (v)
+ask (v) = inquire = enquire
+
+intact (adj) not damaged
+
+interim (adj) 過渡時期的
+
+intermittent (adj) stop and start repeatedly
+
+interrogate (v) 審問; interogate with torture (v) 拷問
+
+intimate (adj) 親密的 (n) 摯友; 閨密
+
+intricate (adj) = perplexing (adj) = sophisticate (adj) <-> intelligible
+
+inventory (n) 庫存目錄
+in stock (adj) 庫存
+
+invincible (adj) <-> vulnerable (adj)
+
+irony (adj) < sarcastic (adj)
+
+irrational = illogical = unreasonable <-> logical = reasonable
+
+irrigation (n) 灌溉 (farmland)
+
+[pro same as aisle] isle (n) = island  
+
+itinerary (n)
+
+ivory (n) elephant teeth

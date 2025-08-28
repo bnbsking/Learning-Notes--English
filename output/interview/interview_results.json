@@ -2,79 +2,14 @@
     {
         "id": 0,
         "question": "Question 1: Can you tell me about a time you had to work on a project with tight deadlines? How did you prioritize tasks and manage your time?",
-        "answer": "In my role at Taiwan AILabs, I worked on a medical LLM service with a tight deadline. I prioritized tasks by impact, focusing on core functionality first. I used Agile methodologies, breaking the project into sprints, and daily stand-ups. This allowed for quick adaptation and efficient time management, ensuring we delivered on time.\n",
+        "answer": "Sure, a most representative project that i have experienced with tight deadline is the object detection on large-scale recycling data. Since the large-scale, we have inadequate time to label the data as usual, after the discussion with our team, we finally perform iteratively active learning which minimize the labeling efforts, and finish the project in time. Futher, I also used checked list and reported issue in time proactively, which also helps me to enhance the efficiency.",
         "model_answer": "In my role at Taiwan AILabs, I worked on a medical LLM service with a tight deadline. I prioritized tasks by impact, focusing on core functionality first. I used Agile methodologies, breaking the project into sprints, and daily stand-ups. This allowed for quick adaptation and efficient time management, ensuring we delivered on time.\n",
         "eval": {
-            "relevance_and_completeness": 2,
-            "reasonability": 2,
-            "beneficiality": 2,
-            "explanation": "The answer is highly relevant, directly addressing the question by describing a project with tight deadlines. It covers the crucial aspects of task prioritization (impact-based) and time management (Agile methodologies, sprints, stand-ups). The answer is reasonable, and the methodologies mentioned are standard practices. The answer is highly beneficial as it provides insight into the candidate's approach to handling pressure and delivering results. \n\nTo improve, the candidate could provide a specific example. Mentioning a specific task, the challenges faced, and the results achieved would further enhance the answer."
-        },
-        "score": 2.0
-    },
-    {
-        "id": 1,
-        "question": "Question 2: Describe a situation where you had to explain a complex technical concept to a non-technical audience. How did you ensure they understood?",
-        "answer": "As a tutor, I often explained complex ML concepts. For instance, I broke down deep learning to students by using analogies like Lego building to represent layers and functions. I focused on relatable examples and clear visualizations, ensuring understanding through Q&A and simplifying technical jargon.\n",
-        "model_answer": "As a tutor, I often explained complex ML concepts. For instance, I broke down deep learning to students by using analogies like Lego building to represent layers and functions. I focused on relatable examples and clear visualizations, ensuring understanding through Q&A and simplifying technical jargon.\n",
-        "eval": {
-            "relevance_and_completeness": 2,
-            "reasonability": 2,
-            "beneficiality": 2,
-            "explanation": "The answer is highly relevant, providing a clear example of explaining a complex concept (deep learning) to a non-technical audience (students). It mentions key strategies like using analogies, relatable examples, visualizations, and Q&A to ensure understanding, effectively addressing all aspects of the question. The answer is entirely reasonable and offers valuable insights into effective communication strategies. No improvements are needed."
-        },
-        "score": 2.0
-    },
-    {
-        "id": 2,
-        "question": "Question 3: This role requires collaboration with teams in Taipei and San Francisco. How do you typically approach cross-cultural communication and collaboration in a professional setting?",
-        "answer": "I thrive in cross-cultural collaboration. I leverage strong communication skills, active listening, and clear documentation. My experience in tutoring and open-source contributions demonstrates my ability to explain complex concepts and work effectively with diverse teams. I am proficient in English and have a positive attitude towards teamwork.\n",
-        "model_answer": "I thrive in cross-cultural collaboration. I leverage strong communication skills, active listening, and clear documentation. My experience in tutoring and open-source contributions demonstrates my ability to explain complex concepts and work effectively with diverse teams. I am proficient in English and have a positive attitude towards teamwork.\n",
-        "eval": {
-            "relevance_and_completeness": 1,
-            "reasonability": 2,
-            "beneficiality": 1,
-            "explanation": "The answer is relevant as it addresses cross-cultural collaboration. It mentions key aspects like communication, active listening, and documentation. However, it could be more complete by providing specific examples of how the candidate has navigated cross-cultural challenges in the past. The answer is reasonable and demonstrates a positive attitude. It provides some value by highlighting communication skills, but specific examples would make it more beneficial."
-        },
-        "score": 1.3333333333333333
-    },
-    {
-        "id": 3,
-        "question": "Question 4: This role emphasizes continuous learning. Can you describe a time when you proactively learned a new technology or skill to improve your work?",
-        "answer": "While at Taiwan AILabs, I spearheaded the development of a medical LLM service. I proactively learned prompt engineering and RAG techniques to enhance the model's accuracy and relevance for clinical applications. This initiative significantly improved the system's performance and user satisfaction.\n",
-        "model_answer": "While at Taiwan AILabs, I spearheaded the development of a medical LLM service. I proactively learned prompt engineering and RAG techniques to enhance the model's accuracy and relevance for clinical applications. This initiative significantly improved the system's performance and user satisfaction.\n",
-        "eval": {
-            "relevance_and_completeness": 2,
-            "reasonability": 2,
-            "beneficiality": 2,
-            "explanation": "The answer is highly relevant and directly addresses the question by describing a specific instance of proactive learning. It's reasonable, detailing the context and the benefits of acquiring new skills. The answer is beneficial as it highlights the initiative, impact, and specific technologies learned (prompt engineering and RAG), showcasing the candidate's ability to adapt and improve their work. No improvements are needed."
-        },
-        "score": 2.0
-    },
-    {
-        "id": 4,
-        "question": "Question 5: Tell me about a project where you had to overcome a significant technical challenge. What was the challenge, and how did you approach solving it?",
-        "answer": "In my Foxconn role, the challenge was building an industrial 3D anomaly detection system. The primary issue was a lack of labeled data. I addressed this with self-supervised learning and domain adaptation techniques. This improved the model's robustness, leading to a successful system.\n",
-        "model_answer": "In my Foxconn role, the challenge was building an industrial 3D anomaly detection system. The primary issue was a lack of labeled data. I addressed this with self-supervised learning and domain adaptation techniques. This improved the model's robustness, leading to a successful system.\n",
-        "eval": {
             "relevance_and_completeness": 1,
             "reasonability": 2,
             "beneficiality": 2,
-            "explanation": "The answer is relevant as it describes a technical challenge and how it was solved. However, it lacks specific details about the technical challenge and the approach taken. It mentions self-supervised learning and domain adaptation but doesn't elaborate on how these techniques were implemented. To improve, the candidate should provide more specific details, such as what type of 3D data was used, the specific architecture of the model, the methods used for self-supervision, and the domain adaptation techniques employed. Also, quantify the success, such as what metrics were used, and what were the improvements."
+            "explanation": "The answer is relevant and provides a specific example of a project with tight deadlines. It mentions the use of active learning to address the time constraint related to data labeling. The answer also touches upon the use of checklists and proactive issue reporting for efficiency. However, the answer could be improved by providing more details on the specific tasks, the time allocated to each task, and how the candidate prioritized them. Also, the answer could also explain how the candidate managed their time, such as using a specific time management technique (e.g., Pomodoro) or tool, which can make the answer more complete."
         },
         "score": 1.6666666666666667
-    },
-    {
-        "id": 5,
-        "question": "Question 6: How would you describe your experience with implementing computer vision or machine learning algorithms in a production environment?",
-        "answer": "I have 4+ years of experience implementing CV/ML algorithms in production. At Hon Hai, I built an industrial object detection system. At Taiwan AILabs, I developed a video-to-text system. I am proficient in Python, PyTorch, and have experience with Docker/Kubernetes, which aligns with your requirements.\n",
-        "model_answer": "I have 4+ years of experience implementing CV/ML algorithms in production. At Hon Hai, I built an industrial object detection system. At Taiwan AILabs, I developed a video-to-text system. I am proficient in Python, PyTorch, and have experience with Docker/Kubernetes, which aligns with your requirements.\n",
-        "eval": {
-            "relevance_and_completeness": 2,
-            "reasonability": 2,
-            "beneficiality": 2,
-            "explanation": "The answer directly addresses the question, providing specific examples of implemented systems (industrial object detection and video-to-text). It mentions relevant technologies and tools (Python, PyTorch, Docker/Kubernetes), demonstrating a good understanding of production environments. The answer is reasonable and provides beneficial information about the candidate's skills and experience. To further enhance the answer, the candidate could briefly elaborate on the challenges faced during implementation or the impact of their work."
-        },
-        "score": 2.0
     }
 ]

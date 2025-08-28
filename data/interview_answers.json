@@ -2,48 +2,48 @@
     {
         "id": 0,
         "question": "Question 1: Can you tell me about a time you had to work on a project with tight deadlines? How did you prioritize tasks and manage your time?",
-        "answer": "In my role at Taiwan AILabs, I worked on a medical LLM service with a tight deadline. I prioritized tasks by impact, focusing on core functionality first. I used Agile methodologies, breaking the project into sprints, and daily stand-ups. This allowed for quick adaptation and efficient time management, ensuring we delivered on time.\n",
-        "model_answer": "In my role at Taiwan AILabs, I worked on a medical LLM service with a tight deadline. I prioritized tasks by impact, focusing on core functionality first. I used Agile methodologies, breaking the project into sprints, and daily stand-ups. This allowed for quick adaptation and efficient time management, ensuring we delivered on time.\n",
+        "answer": "Sure, the most representative project that I have experienced with tight deadline is the object detection on large-scale recycling data. Due to the large-scale of the dataset, we have inadequate time to label the data as usual, after the discussion with my team, we finally perform iterative active learning which minimized the labeling efforts, and finish the project on time. Futher, I also used checked list and reported issue in time proactively, which also helps me to enhance the efficiency.",
+        "keywords": "Iterative active learning on large-scale recycling data; checklist; report issue",
         "eval": "",
         "score": -1
     },
     {
         "id": 1,
         "question": "Question 2: Describe a situation where you had to explain a complex technical concept to a non-technical audience. How did you ensure they understood?",
-        "answer": "As a tutor, I often explained complex ML concepts. For instance, I broke down deep learning to students by using analogies like Lego building to represent layers and functions. I focused on relatable examples and clear visualizations, ensuring understanding through Q&A and simplifying technical jargon.\n",
-        "model_answer": "As a tutor, I often explained complex ML concepts. For instance, I broke down deep learning to students by using analogies like Lego building to represent layers and functions. I focused on relatable examples and clear visualizations, ensuring understanding through Q&A and simplifying technical jargon.\n",
+        "answer": "I have some experience in sharing technical concepts with people who do not have a technical background. The key to success is to explain things step by step in a structured way and to provide real-life examples. For instance, when explaining the concept of precision and recall. High precision but low recall means that alerts are raised infrequently. This is similar to modern law in Taiwan, where if a person is convicted of a crime, it is very likely that they actually committed it. On the other hand, low precision but high recall means that alerts are raised very frequently. This is similar to the laws in Taiwan 50 years ago, when, in order to prevent Chinese spies, many people were convicted of crimes even though they had not actually committed them.",
+        "keywords": "structured explanation with real-life examples; precision and recall of law",
         "eval": "",
         "score": -1
     },
     {
         "id": 2,
         "question": "Question 3: This role requires collaboration with teams in Taipei and San Francisco. How do you typically approach cross-cultural communication and collaboration in a professional setting?",
-        "answer": "I thrive in cross-cultural collaboration. I leverage strong communication skills, active listening, and clear documentation. My experience in tutoring and open-source contributions demonstrates my ability to explain complex concepts and work effectively with diverse teams. I am proficient in English and have a positive attitude towards teamwork.\n",
-        "model_answer": "I thrive in cross-cultural collaboration. I leverage strong communication skills, active listening, and clear documentation. My experience in tutoring and open-source contributions demonstrates my ability to explain complex concepts and work effectively with diverse teams. I am proficient in English and have a positive attitude towards teamwork.\n",
+        "answer": "Honestly speaking, I don't have direct experience on working with people overseas. However, I've learned that collaboration is vital in software engineering. That's why I always maintain readable, reusable, and scalable code, along with clear documentation. In addition, I practice English regularly and show respect to the cultural differences which minimize the gaps.",
+        "keywords": "RRS code and doc; practice English; respect cultural differences",
         "eval": "",
         "score": -1
     },
     {
         "id": 3,
         "question": "Question 4: This role emphasizes continuous learning. Can you describe a time when you proactively learned a new technology or skill to improve your work?",
-        "answer": "While at Taiwan AILabs, I spearheaded the development of a medical LLM service. I proactively learned prompt engineering and RAG techniques to enhance the model's accuracy and relevance for clinical applications. This initiative significantly improved the system's performance and user satisfaction.\n",
-        "model_answer": "While at Taiwan AILabs, I spearheaded the development of a medical LLM service. I proactively learned prompt engineering and RAG techniques to enhance the model's accuracy and relevance for clinical applications. This initiative significantly improved the system's performance and user satisfaction.\n",
+        "answer": "Sure. As an AI algorithm software engineer, I need to keep myself constantly up to date. Every day, I read top-rated papers and take notes. Therefore, I have sorted many paper notes, which allows me to review and share them with others in a systematic way. Moreover, whenever I face new projects with new challenges, I usually survey the papers first to obtain the cutting-edge methods in advance.",
+        "keywords": "Keep up to date; take notes for review and share; survey cutting-edge",
         "eval": "",
         "score": -1
     },
     {
-        "id": 4,
-        "question": "Question 5: Tell me about a project where you had to overcome a significant technical challenge. What was the challenge, and how did you approach solving it?",
-        "answer": "In my Foxconn role, the challenge was building an industrial 3D anomaly detection system. The primary issue was a lack of labeled data. I addressed this with self-supervised learning and domain adaptation techniques. This improved the model's robustness, leading to a successful system.\n",
-        "model_answer": "In my Foxconn role, the challenge was building an industrial 3D anomaly detection system. The primary issue was a lack of labeled data. I addressed this with self-supervised learning and domain adaptation techniques. This improved the model's robustness, leading to a successful system.\n",
+        "id": 7,
+        "question": "Question 8: This role involves designing, implementing, and optimizing CV/ML systems. Walk me through your process when designing and building a new system, including data collection, model training, evaluation, and deployment.",
+        "answer": "Let me describe my experience building a medical LLM. First, we collected neurosurgery textbooks in PDF format provided by our doctor consultant. Then, we used the tool Docling to parse the documents into plain text. Next, we built a graph RAG and used GPT to generate QA pairs as an instruction dataset. After that, we used LLaMA Factory to fine-tune the model with the training data and evaluate the result by the validation set. Finally, we deploy it by VLLM or LLMDeploy to optimize the inference speed.",
+        "keywords": "medical LLM; source, parse, rag, train, eval, deploy",
         "eval": "",
         "score": -1
     },
     {
-        "id": 5,
-        "question": "Question 6: How would you describe your experience with implementing computer vision or machine learning algorithms in a production environment?",
-        "answer": "I have 4+ years of experience implementing CV/ML algorithms in production. At Hon Hai, I built an industrial object detection system. At Taiwan AILabs, I developed a video-to-text system. I am proficient in Python, PyTorch, and have experience with Docker/Kubernetes, which aligns with your requirements.\n",
-        "model_answer": "I have 4+ years of experience implementing CV/ML algorithms in production. At Hon Hai, I built an industrial object detection system. At Taiwan AILabs, I developed a video-to-text system. I am proficient in Python, PyTorch, and have experience with Docker/Kubernetes, which aligns with your requirements.\n",
+        "id": 9,
+        "question": "Question 10: How do you approach writing clean, maintainable code, including the use of design documents and unit tests? Can you provide an example?",
+        "answer": "Every time I design a function or a class, I ask myself the following questions: Which parts can be reused? Are the naming and logic concise and reasonable? What aspects might need to be extended in the future? This is how I maintain readable, scalable, and flexible code, along with clear documentation. For unit tests, good design not only covers all edge cases but also helps readers understand how to use the function.",
+        "keywords": "RRS code and doc; cover all edge cases; how to use",
         "eval": "",
         "score": -1
     }
