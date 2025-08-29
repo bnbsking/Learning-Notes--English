@@ -46,5 +46,77 @@
         "keywords": "RRS code and doc; cover all edge cases; how to use",
         "eval": "",
         "score": -1
+    },
+    {
+        "id": 13,
+        "question": "Question 14:  What are your thoughts on the latest advancements in deep learning?",
+        "answer": "There are numerous progress of deep learning, one thing come to my mind is the multi-modal alignment, CLIP aligns the text feature with the image features by similarity score. And there are multiple variant, such as region CLIP can be utilized to object detection and SigLIP which changes the softmax score into sigmoid to get more stable results.",
+        "keywords": "multi-modal alignment; CLIP; region CLIP; SigLIP",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 14,
+        "question": "Question 15:  Are you familiar with container technologies like Docker and Kubernetes? If so, how have you used them in your previous projects?",
+        "answer": "Definitely yes. I am familiar with Docker and Kubernetes, which are vital tools in modern software engineering. Once we set up the environment for a program, we can save it as a Docker image, so that it can be reused by running it as a container in the Docker engine next time. Kubernetes follows a similar concept, but it manages containers as pods. In addition, Kubernetes provides services to enable communication between pods, and an ingress to allow external access to the cluster.",
+        "keywords": "image; container; pod; service; ingress",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 15,
+        "question": "Question 16: Can you discuss any contributions you've made to open-source projects or technical communities, such as conference talks or publications?",
+        "answer": "Sure. After completing several intensive projects at Foxconn, I organized the common preprocessing and postprocessing code for computer vision tasks across classification, detection, and segmentation. I then integrated them into a toolbox and released it on PyPI. This makes common steps such as visualization, hard sample mining, metrics computation, and many others reusable.",
+        "keywords": "PyPI; CV tasks; CV steps",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 16,
+        "question": "Question 17: How familiar are you with agile methodologies? Have you worked in an Agile environment, and if so, what was your role, and what practices did you find most effective?",
+        "answer": "I have 2.5 years of experience with agile development at AILabs. Every day, we started with a scrum to report on the progress from the previous day and share what we planned to do that day. In addition, whenever we encountered a time-consuming issue, we would proactively report in time.",
+        "keywords": "Scrum; report issue",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 17,
+        "question": "Question 18: What is your approach to designing data-intensive applications? What are the key considerations in terms of data storage, processing, and retrieval?",
+        "answer": "For searching fixed format data, SQL is the most prevalant tool due to the mature and stable property of the relational database. On the otherhand, if the data is too huge and need to extend keys frequently, NoSQL might be the best since the record is dictionary-liked for easy to alter the keys. The other type of query is for natural language or multi-media. Vectorstore such as QDrant might be a better choice. Since it use the consine similarity to search the closest embedding data.",
+        "keywords": "SQL; NoSQL; Vectorstore",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 19,
+        "question": "Question 20: Can you tell us about a time you failed and what did you learn from it?",
+        "answer": "One of the most impressive failure I went through is the importance of digging the detail of AI algorithms. Although common tools allow us to train a model by few lines of command. If we don't know the detail, we cannot improve it anymore. To overcome this bottleneck, I started diving deeper into the theory and exploring ways to apply new features. For example, adding a multi-scale loss can improve the accuracy of a CNN, but it also requires operating on intermediate layers, which demands a deeper level of understanding.",
+        "keywords": "Deeper understanding of code and theory; multi-scaled loss",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 31,
+        "question": "Question 12: Your thesis was on Quantum Machine Learning. Although the role doesn't explicitly require this, could you briefly explain your understanding of the potential of quantum machine learning, and how its principles might inform your approach to AI problem-solving?",
+        "answer": "Sure. My thesis focuses on implementing methods to solve general systems of linear equations, that is, solving for x in Ax = b, where A, b, and x are all matrices. This is a fundamental problem in regression and SVM. First, we prepare the initial vector b using a series of quantum rotational gates organized in a binary tree structure. Then, we factorize the matrix A with SVD to transform it into unitary gate operations. Finally, we perform the quantum circuit to obtain the final quantum state.",
+        "keywords": "regression and SVM; prepare b by binary tree; factorize A by SVD",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 33,
+        "question": "Question 14: Your resume includes experience with domain adaptation. Could you discuss a project where you used one of these techniques? What were the key challenges and your approach to solving them?",
+        "answer": "Actually I haven't use the domain adaptation on project before, however, I have read lots of paper about it since it is an efficient solution to overcome the data distribution drift, which is commonly occurs in real life. Take the classification problem as example, after we get the raw model and raw data and drifted data. we just need to add a classifier after feature extraction, which determine the data is from the source or target domain. By minimize the discrepancy, we can force the source domain feature to be as close as possible to the target domain features.",
+        "keywords": "Add domain classifier after the feature extraction; adverserial",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 35,
+        "question": "Question 15: What is region CLIP?",
+        "answer": "CLIP learns to align image–text pairs using similarity scores in a contrastive learning framework. RegionCLIP extends this idea by aligning text with region-level visual features (patch or region proposals) instead of whole images. This region–text alignment serves as a crucial pretraining step for open-vocabulary object detection.",
+        "keywords": "image-text alignment; region-text alignment; open-vocabulary object detection",
+        "eval": "",
+        "score": -1
     }
 ]
