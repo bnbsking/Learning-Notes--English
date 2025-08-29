@@ -1880,11 +1880,35 @@ itinerary (n)
 ivory (n) elephant teeth
 
 [JJJ]
+jagged (adj) 鋸齒狀的; 參差不齊的(實體)
+uneven (adj) 參差不齊的(實體/抽象)
+
+jeer (v) = mock
+
+[pro je-per-dize] jeopardize (v) = imperil (v)
+
+jolt (v)(n) 顛簸
+
+judicial (adj) 司法的
+judiciary (n) 司法
+jury (n) 陪審團
+
+jumble of (n) untidy mixture of things
 
 [KKK]
 Keep an eye on (v) = supervise (v) = oversee (v)
 
 kitchen waste (n)
+
+kin (n) = relative (n) 親屬; 親戚
+
+knit the clothes
+sew the clothes
+tie the shoelaces = knot the shoelaces
+knot (n) 結 (v) 打結
+bow-knot (n) 蝴蝶結
+
+knob (n) round handle not bar handle
 
 [LLL]
 laconic (adj) = succinct = concise = brief
