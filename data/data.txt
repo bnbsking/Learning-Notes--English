@@ -4,6 +4,7 @@ aboriginal (n)
 indigenous (adj)
 
 abrasion (n) (skin, wheel, surface, ...) rubbed away
+lesion (n) damage inside body
 bruise (n)(v)
 fester (n)(v) 潰爛
 
@@ -15,6 +16,7 @@ fester (n)(v) 潰爛
 拐
 abduct (v) = kidnap (v)
 human trafficking (n)
+[pro 鹿耳] lure (n) 誘惑; 誘餌
 偷
 steal (v)
 shoplift (v) steal shop
@@ -54,6 +56,7 @@ cremation urn (n) put the ashes into it after cremation
 tomb raiding (n) = grave robbing (v) illegal
 bury the secret
 raid (v) = ambush (v) = assult (v) = suddenly attack (v)
+lurk (v) 埋伏
 
 acne (n) 痘痘
 
@@ -232,6 +235,8 @@ anthem (n) song for god = carol
 
 [pro] antique, archaic, archeology
 arch
+
+antioxidant (n) 抗氧化
 
 anyhow = anyway
 
@@ -531,7 +536,7 @@ a glimmer of hope
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
 [pro Pre|ci|pi|tate]
 	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
-	Precipitate (adj) = careless = hasty = indiscreet = impetuous = reckless = sloppy
+	Precipitate (adj) = careless = hasty = indiscreet = impetuous = lax = reckless = sloppy
 	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
 on the fly (adv) do something quickly without preparation
 bustling = busy = hectic (adj)
@@ -547,7 +552,7 @@ blaring (adj) loud
 an ink blot (n) a small area of ink
 
 blunder (v) = make a serious mistake
-blunder (n) = mistake = pitfall
+lapse (n) < mistake (n) = pitfall (n) < blunder (n)
 
 blunt <-> sharp (adj)
 
@@ -679,6 +684,7 @@ cause public outrage (v) 引起公憤
 
 collar (n) 領子 項圈
 leash (n) 牽繩
+lash (n)(v) 鞭打; 鞭繩
 
 carpenter 木匠, electrician, plumber
 
@@ -945,10 +951,13 @@ cricket (n) 板球 蟋蟀
 praying mantis (n) 螳螂
 
 be maimed (v) 被殘廢 = be disabled
-be paralyse (v) 被癱瘓;麻痺 可用於非人; paralysis (n) 癱瘓;麻痺
-be crippled (v) 被跛腳 可用於非人; cripple (n) people cannot walk
+be paralysed (v) 被癱瘓;麻痺 可用於非人
+paralysis (n) 癱瘓;麻痺
+be crippled (v) 被跛腳 可用於非人 = be lamed (v) 
+cripple (n) people cannot walk
 [pro] be anesthetize (v) 被麻醉; anesthesia (n) 麻醉
 fracture (n) 骨折
+limp (n)(v) walk with crippled
 
 Crook (n) dishonest person (v) = bend = curl
 hook (n) 掛勾 (v) 勾住
@@ -1027,7 +1036,7 @@ Daunt (v) discourage
 
 debate (v) = disagree with = argue about/over = quarrel about/over
 debate (n) = disagreement = argument = quarrel
-dispute (v)(n) usaully for salary or two countries 
+dispute (v)(n) quarrel usaully for salary or two countries
 
 decide (v) = determine 
 [pro de-sai-sive] decisive (adj) make decision quickly and confidently <-> indecisive
@@ -1654,6 +1663,8 @@ grind (v) rub and cut; 磨碎
 gratuity (n) 小費
 
 graze (v) eat grass
+lawn (n) grass land
+livestock (n) 牲畜
 
 grease (n)(v) = oil (n)(v)
 greasy (adj)
@@ -1668,7 +1679,8 @@ greasy (adj)
 grope for (v) 摸黑尋找
 
 grudge (n) resentment
-grudge (v) deem .. not deserved; be reluctant to do
+grudge (v) deem .. not deserved
+grudge (v) = be reluctant to (v) = be loath to (v) 
 
 guardian (n) 監護人
 
@@ -1826,7 +1838,7 @@ liquidated damages (n) 違約金
 independent travel = self-guided tour
 <-> escorted tour = guided tour
 
-inert (adj) not moving / cannot move / non-energetic = lifeless
+inert (adj) = lifeless (adj) = lethargic (adj) not moving / cannot move / non-energetic
 
 infect (v) for virus
 transmit (v) for virus, information
@@ -1904,7 +1916,7 @@ kin (n) = relative (n) 親屬; 親戚
 
 knit the clothes
 sew the clothes
-tie the shoelaces = knot the shoelaces
+tie the shoelaces = knot the shoelaces = lace up the shoes
 knot (n) 結 (v) 打結
 bow-knot (n) 蝴蝶結
 
@@ -1913,14 +1925,68 @@ knob (n) round handle not bar handle
 [LLL]
 laconic (adj) = succinct = concise = brief
 
+laden with (adj) full with
+
+landmark (n)
+landscape (n) = scene
+
+lane (n)
+lane line (n)
+
+languid (adj) slow and eased
+
+lateral (adj)
+
+[pro law-d] laud (v) = praise
+
+layman (n) people not skilled at sth
+
+leak (n)(v)
+
+lease (v) 租出 (n) 租約
+
 left wings (progressivism) <-> right wings (conservatism)
 radical (adj); extremist (n); intellectual (n)
 
-lesion (n)
+legal (adj) = legitimate (adj) 
 
-Lethargic = lazy
+legislate (v) 立法
 
-lucrative (adj) profitable
+[pro li-...] a lenient judegment <-> a severe judegment 
+
+levy (n) = tax (n)
+
+liable (adj) = responsible (adj)
+
+limb (n) 肢
+anatomy (n) 解剖
+
+linger (v) 徘徊(有形/無形)
+wander (v) 徘徊(人)
+
+locomotive (n) 火車頭
+
+lodge (v) = stay (v)
+
+entrance (n)
+lobby (n) = hall (n)
+lobby (v) persuade politically
+
+lofty (adj) 崇高的 < supreme (adj) 至高無上的 e.g. status
+
+loll (v) 慵懶躺坐
+lounging (adj)(+), sluggish (adj)(-) 慵懶的
+lounge (n) 休息室
+
+lubricate (n)(v)
+
+lucrative (adj) = profitable
+
+ludicrous (adj) = ridiculous (adj) = absurd (adj)
+
+[pro law-l] lull (n) a short period of peace
+
+lump (n) 塊
 
 [MMM]
 manage to eke out sth (v) sth is inadequate so use slowly
@@ -2032,6 +2098,8 @@ ravel (v) to separate a knot
 unravel (v) 1. ravel 2. solve (mysterious subject) 3. destroy 
 revel in (v) enjoy in
 
+receipt (n), invoice (n)
+
 refuge (n) = asylum (n) = shelter
 refugee (n) people in refuge
 
@@ -2051,6 +2119,8 @@ resuscitate 復甦
 Rubella 德國麻疹
 
 Run off = leave suddenly
+
+rusty (adj) 生鏽的
 
 [SSS]
 salmon roe (n) salmon fish egg
