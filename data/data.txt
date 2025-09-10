@@ -8,7 +8,7 @@ lesion (n) damage inside body
 bruise (n)(v)
 fester (n)(v) 潰爛
 
-(v) abuse = misuse
+(v) abuse = misuse = maltreat
 (n) drug abuse
 (-) (adj) spoiled = indulged = dissoluted
 (+/-) (v) pamper / spoil
@@ -34,7 +34,7 @@ extort (v)
 
 be accountable/responsible for
 
-accident = calamity = catastrophe = disaster = misfortune = mishap = tragedy (n)
+accident = calamity = catastrophe = disaster = mischance = misfortune = mishap = tragedy (n)
 casual (adj) not formal or not serious e.g. dress in casual clothes
 causal relationship (n) reason and result
 death/injury toll = casualty (n) people injured or killed in a disaster
@@ -78,7 +78,7 @@ a master/genius/expert of
 Adverse effect / adverse weather / adverse impact
 very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = gross = horrible = inferior = terrible
 	< = horrendous = [pro no h sound] ghastly
-very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
+very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = marvelous = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
 horror movie (n)
@@ -113,7 +113,7 @@ Affix a stamp to the envelope
 affordable (adj) = inexpensive = economical
 
 Aggravate 1 = deteriorate = exacerbate (v) become worse
-Aggravate 2 = exasperate = irritate = provoke = inflame (v) annoy sb
+Aggravate 2 = exasperate = irritate = madden = provoke = inflame (v) make sb angry
 agitate/argue for/against sth (v)
 erupt
 commotion (n) = unrest (n) sudden noise or excited movement 
@@ -209,8 +209,9 @@ vessel (n) 1 blood tube 2 large ship
 	vein 1 靜脈  2 葉脈 3 礦脈 4 風格 > venules 
 	microvessels 微血管 = capillary
 
-[pro] annihilate = eliminate = eradicate = wipe out = exterminate = obliterate
-erase / destroy = annihilate = spoil
+[pro] annihilate = eliminate = eradicate = erase = wipe out = exterminate = obliterate
+destroy (v) = spoil = mar
+stain (v) 玷汙
 demise (n) 消亡
 submerge the evidence
 conceal the evidence
@@ -280,8 +281,8 @@ allergic (adj) = hypersensitive (adj) for physical
 distress sb = disconcert sb (v) make sb worried
 dread (v) be afraid of
 [gra] breed bred bred, dwell dwelt dwelt
-apprehension (n)
-depressed (adj) = gloomy = melancholic = morose = sorrowful
+apprehension (n) = misgiving (n)
+depressed (adj) = gloomy = melancholic = morose < miserable = sorrowful
 (filled with) dismay (n) = distress (n) = melancholy (n) = sorrow (坎坷) = grief
 condole with (v)= lament over = grieve for = mourn for (v) show sadness to the died people
 condolence (n)
@@ -482,7 +483,7 @@ Behind the times = obsolete = old-fashioned = outdated = out of date
 Behind time = late
 
 bring/has benefits/profits to = be beneficial/conducive to
-advantages (n)
+advantages (n) = merit (n) 優點
 detrimental (adj) = harmful = harzardous
 disadvantages (n) = drawback = downside
 
@@ -540,7 +541,8 @@ brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
 	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
 on the fly (adv) do something quickly without preparation
 bustling = busy = hectic (adj)
-swamp with (n) busy for, swamp (n) 沼澤
+swamp with (n) busy for
+swamp (n) = mire (n) 沼澤; 泥沼
 
 (v) bloom = burgeon = develop fast = grow fast = flourish = prosper = thrive
 (adj) blooming = flourishing = prosperous = thriving
@@ -552,7 +554,7 @@ blaring (adj) loud
 an ink blot (n) a small area of ink
 
 blunder (v) = make a serious mistake
-lapse (n) < mistake (n) = pitfall (n) < blunder (n)
+mischief (n) 搗蛋 < lapse (n) < mistake (n) = pitfall (n) < blunder (n) << misdeed (n) 違法行為
 
 blunt <-> sharp (adj)
 
@@ -595,7 +597,7 @@ detergent (n) 清潔劑; 洗衣精; 洗碗精
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
 
-breathtaking = gorgeous = magnificent = spectacular (adj) = very beautiful (scene)
+breathtaking = gorgeous = magnificent = majestic = spectacular (adj) = very beautiful (scene)
 spectator = audience (n)
 
 breeze (n) things easy to do; small wind
@@ -624,7 +626,7 @@ brittle = frail = fragile = crisp = crispy (adj)
 crisp (adj) cold and dry
 
 [pro] brochure = booklet = pamphlet
-prospectus, leaflet, handout, handbook
+prospectus, leaflet, handout, manuscript (n) 手稿; 原稿
 [pro] bronchus (n) 支氣管
 windpipe (n) 氣管
 
@@ -811,7 +813,9 @@ summit (n) 高峰會
 culminate in = end up with (v)
 
 Cloak = disguise = mask (n)(v)
-cloak and dagger (adj) 遮遮掩掩的, dagger 匕首
+cloak and dagger (adj) 遮遮掩掩的, 祕密的 = secretive
+dagger (n) 匕首
+mantle (n) 1 披風 2 responsibility
 
 coerce (v) = compel = force = mandate = [pro] oblige = obligate
 duty (n) = obligation (n)
@@ -888,7 +892,7 @@ contamination (n), poison (n)
 contaminated (adj)
 poisonous (adj) = noxious = toxic = venomous
 
-contemplate (v) = deliberate 1 (v) = ponder (v) think carefully of (next move)
+contemplate (v) = deliberate 1 (v) = meditate on (v) = ponder (v) think carefully of (next move)
 deliberate 2 (adj) = intentional = on purpose (adv)
 
 contemporary = modern (adj)
@@ -930,6 +934,7 @@ falsify (v) change document to deceive others
 feign (v) pretent feeling
 forge (v)
 fabric (n) material of making clothes
+misappropriate (v) 盜用
 
 counterpart (n) corresponding substance
 
@@ -972,7 +977,7 @@ crumble (v) = fragment = smash
 crumple (v) = wrinkle (v) 弄皺
 crease (n) = wrinkle (n) 皺摺
 wrinkle (n) 皺紋
-crack 裂縫 (n) = [pro cre-vi-ce] crevice
+crack 裂縫 (n) = [pro cri-vi-ce] crevice
 loophole (n) a law or program flaw = vulnerability = flaw
 crack (v) break or hack in sth
 
@@ -1073,6 +1078,7 @@ procastinate (v) more serious delay
 
 deficiency (n) = inadequacy = insufficiency = lack = scarcity = shortage = shortfall
 <-> abundance (n) adequacy (n) = sufficiency
+meagre (adj) = limited = inadequate
 
 deficit (n) spent > received
 deposit (n) money saved in bank; first part pay for buying sth; pay when rent sth and return finally
@@ -1135,7 +1141,7 @@ counterproductive (adj) has an adverse effect
 have serious repercussion for (v) has bad effect for
 
 detach = disengage = separate (v) (sth)
-separate = segregate = freeze out sb (v) = insulate = isolate
+separate = segregate = freeze out sb (v) = marginalize = insulate = isolate
 <-> get alone with
 
 detest (v) = loathe (v) very hate
@@ -1503,7 +1509,7 @@ Fahrenheit (n), Celsius (n), Kelvin (n)
 
 faith (n) = belief (n)
 <-> fallacy (n) = misconception (n) = myth 1 (n) ~ paradox (n) = contradiction (n)
-myth 2 (n) story of gods
+myth 2 (n) = mythology (n) story of gods
 mystery (n) sth not yet been explained or understood; 推理劇
 inference (n)
 [pro 阿里掰] alibi (n) 不在場證明
@@ -1604,9 +1610,9 @@ frown at (v) 對誰...皺眉
 
 [pro fru-i-tion] fruition (n) 成果
 
-furious (adj) = raged (adj) = boiled (adj) = very angry
-wrath = rage (n)
-make a fuss (over) (v)
+furious (adj) = mad (adj) = raged (adj) = boiled (adj) = very angry
+wrath (n) = rage (n)
+make a fuss (v) 1 大驚小怪 2 惜命命
 
 furnace (n) heater 火爐
 
@@ -1633,7 +1639,9 @@ gauge (n)(v) to measure; measuring equipment
 
 generic = general (adj)
 
-germ (n) virus, bacteria, microorganism
+germ (n) virus, bacteria, microorganism = mircrobe
+mildew (n) 黴菌
+moldy (v) 發霉
 
 giggle (v)(n) funny laungh or thing
 grin (v)(n) wide smile
@@ -1663,7 +1671,9 @@ grind (v) rub and cut; 磨碎
 gratuity (n) 小費
 
 graze (v) eat grass
-lawn (n) grass land
+lawn (n) 人工維護的草地
+meadow (n) 自然的草地
+pasture (n) 牧場的草地
 livestock (n) 牲畜
 
 grease (n)(v) = oil (n)(v)
@@ -1830,7 +1840,7 @@ increase (v) = escalate (v) << proliferate (v)
 
 incur (v)
 induce (v)
-inflict (v)
+inflict (v) 遭受於
 
 indemnity (n) momey to compensate
 liquidated damages (n) 違約金
@@ -1884,6 +1894,8 @@ irony (adj) < sarcastic (adj)
 irrational = illogical = unreasonable <-> logical = reasonable
 
 irrigation (n) 灌溉 (farmland)
+fertilize (v) 施肥 (n) 肥料
+manure (n) 動物糞便肥料
 
 [pro same as aisle] isle (n) = island  
 
@@ -1901,9 +1913,11 @@ jeer (v) = mock
 
 jolt (v)(n) 顛簸
 
+judge (n) 法官; 裁判 (v) 判決; 裁判
 judicial (adj) 司法的
 judiciary (n) 司法
 jury (n) 陪審團
+magistrate (n) 地方法官
 
 jumble of (n) untidy mixture of things
 
@@ -1935,7 +1949,7 @@ lane line (n)
 
 languid (adj) slow and eased
 
-lateral (adj)
+lateral (adj) 側面的
 
 [pro law-d] laud (v) = praise
 
@@ -1991,22 +2005,112 @@ lump (n) 塊
 [MMM]
 manage to eke out sth (v) sth is inadequate so use slowly
 
+magnanimous (adj) generous to loser
+
+magnet (n) 磁鐵
+magnate (n) 大亨; 富豪
+
+magnify (v) = enlarge = amplify
+magnitude (n) 1 scale, 2 number
+
 main dishes <-> side dishes, appetizer
+
+maiden (n) young girl
+
+maize (n) corn
+
+malignant (adj) sth has malice
+
+malleable (adj) 有延展性的
+
+malnutrition (n)
+
+mammal (n), amphibians (n), reptiles (n)
+
+manifest (v) represent / show
+
+manual (adj) 人為操作的 <-> automatic
+manual (n) = handbook (n) user guide
+handmade (adj) = handcrafted (adj) 手工的
+
+limestone (n) 石灰岩 (較軟石頭)
+marble (n) 大理石; 彈珠
+granite (n) 花崗岩 (較硬石頭)
 
 marketable securities 證券
 
-mediterranean
-medieval
+marital problem / breakdown
+crack in the relationship (crevice是具體, 不可使用)
 
-manifest (v) show
+maritime (adj) 海事的
 
+martial (adj) 軍事的
+
+martyr (n) 殉道者, fallen of worker / soilder (n) 
+memorial shrine (n) 忠烈祠
+
+masculine (adj) male
+muscular (adj)
+
+maternal (adj) 母系的 
+paternal (adj) 父系的
+bilateral (adj) 雙系的
+
+[pro m-ㄊㄩˋ-兒] mature (adj) <-> immature (adj)
+
+medal (n) 勳章; 獎牌
+trophy (n) 獎盃
+
+meddle (v) 管閒事, mind sb's business
+
+mediate (v) 調解 (第三方無決定權)
+arbitrate (v) 仲裁 (第三方有決定權)
+
+meditate (v) 冥想
+
+[pro medi-ter-ra-nean 米迪他拉妮恩] the mediterranean sea
+[pro me-低-val] medieval
+
+melodious (adj) pleasant to listen
+
+memento (n) things memorizable
+
+mentality (n) = mindset (n) 心態
+
+mercantile (adj) business related
+
+mercenary (n) 傭兵 (adj) 貪財的
+
+metabolism (n)
 metastasize (v) 癌症擴散
+
+[pro 米提歐] meteor (n) 流星
+meteoric (n) 隕石
+meteorology (n) 氣象學 (atomsphere 大氣層)
 
 migraine (n) headache
 
 mild (adj) 溫馴的 和煦的 輕微的
 
+militant (adj) 好鬥的
+
+millennium (n) 1000 years
+
+miracle (n) 奇蹟
+mirage (n) 幻影; 海市蜃樓
+
+miscarriage (n) 流產
+abortion (n) 墮胎
+
+misconceive (v) = misunderstand (v) 誤會
+misunderstanding (n) 誤會
+misguide (v) 誤導
+
 monetary policy tightening <-> quantitative easing (QE)
+
+muster the courage (v) 鼓起勇氣
+
+mutter (v) 咕噥
 
 [NNN]
 
