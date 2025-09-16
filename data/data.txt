@@ -76,8 +76,8 @@ a master/genius/expert of
 
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
-very bad   = abysmal = atrocious = awful = dreadful = [pro fow] foul = gross = horrible = inferior = terrible
-	< = horrendous = [pro no h sound] ghastly
+very bad   = abysmal = awful = dreadful = [pro fow] foul = [pro no h sound] ghastly = gross = horrible = inferior = terrible
+	<= atrocious = appalling = horrendous = horrific = outrageous
 very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = marvelous = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
@@ -113,7 +113,7 @@ Affix a stamp to the envelope
 affordable (adj) = inexpensive = economical
 
 Aggravate 1 = deteriorate = exacerbate (v) become worse
-Aggravate 2 = exasperate = irritate = madden = provoke = inflame (v) make sb angry
+Aggravate 2 = exasperate = irritate = madden = provoke = inflame = offend (v) make sb angry
 agitate/argue for/against sth (v)
 erupt
 commotion (n) = unrest (n) sudden noise or excited movement 
@@ -134,7 +134,7 @@ proud (adj) (+/-) describe sb
 gaudy (adj) (+/-) describe sth
 ostentatious (adj) obviously show money/power/possession to make others admire you
 ostensible (adj) claiming sth but its something else
-window dressing (n) = ostentation (n)
+ostentation (n) = window dressing (n)
 
 commonplace (adj)(+/-) = common
 take things too far (v) = go overboard (v) 做太過火; out of line (adj)
@@ -160,10 +160,10 @@ alone = by myself = on my own (adv)
 
 affirm = assert = allege = claim (v)
 allegiance = loyalty (n)
-Obedient = dutiful (adj)
+[pro 歐逼-dient] obedient = dutiful (adj)
 docile = tame = meek (adj); domesticate (adj)
 abide by (v) = obey = comply with = conform to = follow
-in compliance with (n)
+in compliance with (n) = observance of (n)
 
 [pro] alliance = association = bloc = coalition = confederation = league = union
 staunch ally (n) A loyal friend of a country
@@ -238,6 +238,7 @@ anthem (n) song for god = carol
 arch
 
 antioxidant (n) 抗氧化
+oxide (n) 氧化物
 
 anyhow = anyway
 
@@ -260,9 +261,10 @@ visible <-> invisible
 perceptive (adj) = insightful (adj) = discerning (adj) = penetrating (adj) = observant (adj) ~ far-sighted 1 (adj) <-> short-sighted (adj) = myopic (adj)
 	far-sighted 2 (adj) <-> near-sighted (adj) myopia (n)
 take a long-term view (v)
-[pro] blatant (-) obvious and intentional
-conspicuous (+/-) = noticeable
-notable (+) is important and deserves attention
+顯眼的
+	[pro] blatant (-) obvious and intentional
+	conspicuous (+/-) = noticeable = obvious = overt
+	notable (+) is important and deserves attention
 be conscious of (v) = notice
 cognitive function (n) conscious ability
 facial features (n)
@@ -360,6 +362,7 @@ giver <-> recipient
 steward (n) organizer; server; people take care of a particular place = janitor (n)
 
 attire (n) formal clothes
+outfit (n) clothes for particular occasion
 
 attribute to <-> ascribe to
 boil down to (v) (everything) is because of
@@ -402,6 +405,7 @@ sergeant 上士/警官
 
 banish (v) = exile (v) force sb to leave the country and not allowed to comeback
 eject 1 = evict (v) force sb to leave somewhere
+oust (v) force sb to leave from a power, just as recall
 eject 2 (v) = come out from a machine
 emit (v) (for beam, noise, smell, or gas)
 erupt (v) (for volcano / expressing / rash)
@@ -437,8 +441,9 @@ buckle up = fasten seat belt
 barren = infertile = unproductive ~ desolate (adj)
 <-> abundant = ample = fertile = productive = prolific (adj)
 remote (adj) far, far from city center
+= outlying
 
-barricade (n) object stop people going
+barricade (n) = obstacle (n) object stop people going
 mine 地雷 礦脈(vein) 受詞我的
 
 barter sth for sth with sb 以物易物
@@ -448,7 +453,7 @@ batter (v) hit sb/sth many times (n) mixed of flour, eggs, milk (n) baseball hit
 bay (n) 海灣
 keep sth in bay = 4.
 1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = shun
-2. 拒絕 reject = turn down
+2. 拒絕 reject = turn down = deny, overrule (v) 上對下駁回
 3. 妨礙/干擾 disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = purturb
 4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
 5. 禁止 ban = block = forbidden = prohibit
@@ -456,10 +461,10 @@ interleave (v) 交錯
 inhibit (v) slow down a (biological) process
 confinement (n) 禁閉室
 dodgeball (n)
+negation (n) 否定
 
 bazaar (n) a market for raise fund for an organization
-bizarre (adj) = eccentric = grotesque = peculiar = strange = weird = unconventional = unorthodox = unusual (adj)
-<-> conventional = orthodox (adj)
+bizarre (adj) = eccentric = grotesque = peculiar = strange = weird = unusual (adj)
 convention (n) custom or agreement
 drive in an erratic course (v) 蛇行
 
@@ -481,6 +486,7 @@ On sb’s behalf = for sb
 
 Behind the times = obsolete = old-fashioned = outdated = out of date
 Behind time = late
+overdue (adj) = expired (adj)
 
 bring/has benefits/profits to = be beneficial/conducive to
 advantages (n) = merit (n) 優點
@@ -537,7 +543,7 @@ a glimmer of hope
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
 [pro Pre|ci|pi|tate]
 	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
-	Precipitate (adj) = careless = hasty = indiscreet = impetuous = lax = reckless = sloppy
+	Precipitate (adj) = careless = hasty = indiscreet = impetuous = lax = oblivious = reckless = sloppy
 	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
 on the fly (adv) do something quickly without preparation
 bustling = busy = hectic (adj)
@@ -803,7 +809,8 @@ confrontation (n) = defiance
 A defiance against (n); fight against (v)
 confront (v) face
 an countervailing force against (n) having equal force but an opposite effect
-counterbalance (v)
+counterbalance (v) 抵銷, neutralize (v) 中和, offset (v) 彌補
+offset (n) 偏移量
 
 climate (n) 1. 氣候 2. atmosphere
 
@@ -817,13 +824,14 @@ cloak and dagger (adj) 遮遮掩掩的, 祕密的 = secretive
 dagger (n) 匕首
 mantle (n) 1 披風 2 responsibility
 
-coerce (v) = compel = force = mandate = [pro] oblige = obligate
+coerce (v) = compel = force = mandate = [pro 喔不賴G] oblige = obligate
 duty (n) = obligation (n)
 intimidate (v) = menace = threaten
 	
 compulsory (adj) = [pro] mandatory = obligatory
 enforce (v) make people obey the law
 outlaw (v) treat something as illegal
+outlaw (n) people are out of law
 
 collaboration = cooperation (n)
 
@@ -960,9 +968,9 @@ be paralysed (v) 被癱瘓;麻痺 可用於非人
 paralysis (n) 癱瘓;麻痺
 be crippled (v) 被跛腳 可用於非人 = be lamed (v) 
 cripple (n) people cannot walk
-[pro] be anesthetize (v) 被麻醉; anesthesia (n) 麻醉
 fracture (n) 骨折
 limp (n)(v) walk with crippled
+numb (adj)(n) 麻痺的
 
 Crook (n) dishonest person (v) = bend = curl
 hook (n) 掛勾 (v) 勾住
@@ -1039,9 +1047,10 @@ Dart (n) 飛鏢
 
 Daunt (v) discourage
 
-debate (v) = disagree with = argue about/over = quarrel about/over
-debate (n) = disagreement = argument = quarrel
+debate (v) =  = argue about/over = quarrel about/over
+debate (n) = argument = quarrel
 dispute (v)(n) quarrel usaully for salary or two countries
+disagree with (v) = disapprove (v) = oppose (v)
 
 decide (v) = determine 
 [pro de-sai-sive] decisive (adj) make decision quickly and confidently <-> indecisive
@@ -1143,6 +1152,7 @@ have serious repercussion for (v) has bad effect for
 detach = disengage = separate (v) (sth)
 separate = segregate = freeze out sb (v) = marginalize = insulate = isolate
 <-> get alone with
+outcast (n) people be ousted
 
 detest (v) = loathe (v) very hate
 
@@ -1213,7 +1223,7 @@ dissolve (v)
 displace (v) forced to leave from true position
 replace (v) = supersede = substitute for
 
-Disregard = ignore (v)
+Disregard (v) = ignore (v) = neglect (v)
 irrespective of (adj)
 
 disseminate (v) spread (news or idea)
@@ -1249,6 +1259,8 @@ doctrine (n) = dogma (n) religious belief people should accept
 dome (n) round roof
 doom (n) very bad situation
 doom to (v) bad things will and must happens
+= brew (v)
+omen (n) 預兆(+/-)
 
 domestic (adj) country’s or family’s
 
@@ -1271,7 +1283,7 @@ drain off 2 (v) to consume completely
 
 downtown (n) = urban area = metropolitan area
 > suburb (n) = suburban area
-> rural area (n) = countryside (n)
+> rural area (n) = countryside (n) = outskirt (n)
 national (adj) > municipal
 
 draft (n) 草稿; 徵兵
@@ -1339,6 +1351,7 @@ embargo (n) the decree of prohibition of trading of other country
 embark (v) go onto a ship
 undertake (v) to prompise; to do (sth difficult)
 embark on = commence = undertake = start on = begin = initiate
+onset (n) = outset (n) start
 board (v) <-> alight (v)
 
 embassy (n) the building or staff of ambassador
@@ -1356,6 +1369,7 @@ brace (n) 支架 (v) 支撐
 emigrate (v) = immigrate; migrate (v) for animal
 
 eminent (adj) = famous = renowned = well known
+<-> obscure (adj)
 prominent (adj) famous and important
 
 emphasize (v) = highlight (v) = [pro] accent (v) = underscore (v)
@@ -1406,8 +1420,8 @@ epoch (n) = era
 
 equitable (adj) = fair
 
-equivocal (adj) = ambiguous (adj) describe meaning
-vague (adj) describe meaning / person / shape
+equivocal (adj) = ambiguous (adj) for abstract
+vague (adj) = obscure (adj) = unclear (adj) for abstract or real
 vocal (adj) descrive voice
 
 erect (v) build; raise sth vertically; 勃起的 (adj)
@@ -1439,7 +1453,9 @@ evolution (n) evolve (v)
 revolution (n) revolt (v)
 innovation (n) innovate (v)
 
-exceed (v) = surpass (v) = outperform (v) = prevail (v)
+exceed (v) = surpass (v) = outdo (v) = outperform (v) = overtake (v) = prevail (v)
+outweigh (v) (只用於抽象)
+overtake (v) 超車
 
 excess (n) more than acceptable or reasonable
 surplus (n) more than is need
@@ -1456,6 +1472,8 @@ excursion (n) short journey for pleasure
 [pro ex] expedition (n) journey for a particular purpose
 [pro ex] expedite (v) = facilitate = percipitate
 [pro ix] expedient (n) an action helpful but immoral
+odyssey (n) a long adventurous journey
+voyage (n) long journey on a ship
 
 expenditure (n) = expense
 
@@ -1656,7 +1674,7 @@ promote 促銷 晉升 晉級 提拔
 give way (to) (v) = compromise
 
 glacier (n) 冰川
-canyon (n) 峽谷
+canyon (n) 峽谷 = notch (n) V型峽谷
 
 glide = slide (v)
 
@@ -1723,6 +1741,7 @@ hardy (adj) strong enough to bear extreme conditions
 
 harsh (adj) = noisy
 
+haunt (v) = obsess (v) = plague (v) = weigh on (v) (揮之不去的)困擾著 sb
 haunted (adj) 鬧鬼的
 
 haven (n) 淨土
@@ -1732,7 +1751,7 @@ havoc (n) 浩劫
 
 hawk (n) 鷹
 
-headstrong (adj) = wilful (adj)
+headstrong (adj) = wilful (adj) = obstinate (adj)
 
 heal (v) 癒合; 療癒
 cure (v) 治癒
@@ -1853,14 +1872,14 @@ inert (adj) = lifeless (adj) = lethargic (adj) not moving / cannot move / non-en
 infect (v) for virus
 transmit (v) for virus, information
 
-infest (v) 猖獗
+infest (v) = overrun (v) 猖獗 
 
 infirmary (n) 醫護室
 
 inherent (adj) = intrinsic
 instinct (n) 本能
 
-inland (adj) <-> coastal (adj)
+inland (adj) <-> coastal (adj) = offshore (adj) <-> oceanic (adj)
 
 instrumental (adj) helpful
 
@@ -1885,7 +1904,7 @@ intimate (adj) 親密的 (n) 摯友; 閨密
 intricate (adj) = perplexing (adj) = sophisticate (adj) <-> intelligible
 
 inventory (n) 庫存目錄
-in stock (adj) 庫存
+in stock (adj) 庫存 <-> out of stock
 
 invincible (adj) <-> vulnerable (adj)
 
@@ -1923,6 +1942,7 @@ jumble of (n) untidy mixture of things
 
 [KKK]
 Keep an eye on (v) = supervise (v) = oversee (v)
+overlook (v) look from high place
 
 kitchen waste (n)
 
@@ -1986,7 +2006,7 @@ entrance (n)
 lobby (n) = hall (n)
 lobby (v) persuade politically
 
-lofty (adj) 崇高的 < supreme (adj) 至高無上的 e.g. status
+lofty (adj) 崇高的(+/-) = noble (adj) 高貴的(+) < supreme (adj) 至高無上的 e.g. status
 
 loll (v) 慵懶躺坐
 lounging (adj)(+), sluggish (adj)(-) 慵懶的
@@ -2042,9 +2062,11 @@ marketable securities 證券
 marital problem / breakdown
 crack in the relationship (crevice是具體, 不可使用)
 
-maritime (adj) 海事的
+maritime (adj) = nautical (adj) 海事的
 
 martial (adj) 軍事的
+army (n), navy (n), air force (n)
+naval (adj)
 
 martyr (n) 殉道者, fallen of worker / soilder (n) 
 memorial shrine (n) 忠烈祠
@@ -2084,9 +2106,10 @@ mercenary (n) 傭兵 (adj) 貪財的
 metabolism (n)
 metastasize (v) 癌症擴散
 
-[pro 米提歐] meteor (n) 流星
+[pro 米提歐] meteor (n) 流星 (動詞用streak)
 meteoric (n) 隕石
 meteorology (n) 氣象學 (atomsphere 大氣層)
+observatory (n) 天文台
 
 migraine (n) headache
 
@@ -2113,40 +2136,149 @@ muster the courage (v) 鼓起勇氣
 mutter (v) 咕噥
 
 [NNN]
+anesthesia (n) 麻醉
+narcotic (n) 麻醉藥物
+
+namely, = in other words, = that is, = i.e.
 
 narrate (v) to tell a story
 narrative (n) story
 tale (n) incredulous story
 
+[pro 納斯提] nasty (adj) = unpleasant (adj) = hateful (adj) = obnoxious
+[pro New-sance] nuisance (n) annoying thing
+
+natal (adj) place was born
+
+naught (n) = nil (n) = null (n)
+nullify (v)
+
+nausea (n) 噁心感, 嘔吐感
+
+navigable (adj), passable (adj)
+
+necessitate (v) make sth to be need
+
+neurosis (n) 神經質
+neurotic (adj) 神經質的
+e.g. be diagnosed with autonomic nervous system dysfunction
+
 never been a fan of
 
-nominal <-> de facto
+nevertheless (adv) = nonetheless (adv) = however (adv)
+
+nibble (v) 嚼
+
+nickel (n) 鎳; 五分錢
+
+[pro 奈色替] nicety (n) = [pro New盎司] nuance (n) = subtlety(n)
+
+nominal (adj) 名義上的
+<-> de facto (adj) 實質上的
+
+nostalgic (adj)
+
+notable (adj) deserving attention because outstanding, 顯著優秀的
 
 notarization (n) formal validation by people
 notary (n) people to perform formal validation
 
+notion (n) = concept = idea = insight = opinion = view
+
+notorious (adj) = infamous
+
+nourish (v) 養育實際 e.g. feed, enrich
+nurture (v) 養育抽象 e.g. raise, cultivate, foster
+nourishment (n) 養育
+
+nutrition (n) 營養
+dietary supplement (n) 保健食品
+skincare product (n) 保養品
+
 nursery (n) 托兒所
 nursing home (n) 養老院
 
+[pro 奶龍] nylon (n)
+
 [OOO]
-occurence
-Occult 神秘的 神秘學
+oar (n) stick to row a boat
+
+[pro 歐欸sis] oasis (n) <-> desert
+
+take an oath of (v) 宣誓
+
+oblong (n) = rectangle
+
+obscene (adj) 淫穢的
+
+occurence (n) happened event
+
+Occult (adj) 神秘的 (n) 神秘學
+
+offspring (n) <-> ancestor (n)
+
+opaque (adj) <-> transparent (adj)
+
+oppress (v) (政治上)壓迫
+suppress (v) (心情上)壓迫
+
+opt for (v) = choose (v) = select (v)
+option (n) = choice (n) = selection (n)
+
+orbit (n) 軌道
+
 orchestra (n) 管弦樂
 orchestrate (v) 精心策畫
-overhead
-overcast
 
-opt for (v) choose = select = pick
+ordeal (n) very unpleasant experience 苦難
 
-ordeal (n) very unpleasant experience
+orderly (adj) = neat (adj) = tidy (adj)
+<-> disordered (adj) = messy (adj) = untidy (adj)
 
-outfit (n) clothes
+ore (n) 礦物
+mineral (n) 礦物質
 
-outright (adv) completely
+organ (n) 器官; 風琴
+organism (n) 生物; 有機體
+orgasm (n) 性高潮
+
+oriental (adj) = eastern (adj) = asian (adj)
+orient (v) = orientate (v) 以...為導向; 認清形勢 (sb_self)
+
+orthodox (adj) = conventional (adj) = traditional (adj)
+canonical (adj) = very standard 
+
+outbreak (n)
+
+outcome (n) = result (n)
+
+outcry (n) disapprove and shout
+
+outline (n), syllabus (n)
+outline (n) = contour (n)
+outline (v) = sketch (v) = depict (v)
+
+outright (adv) = completely = entirely = fully = totally = absolutely = ulterly
+
+outspoken (adj) expressing very directly without worrying if other people are offended
+
+give ovation = give applause
 
 over the period of = during
 
+overcast (adj) <-> sunny
+
+overhaul (v) fix completely
+
+overhead (adv) on top of the head
+
+overhear (v) hear without intending to
+
+overture (n) = prelude (n) 序章; 前奏
+
 overwhelm (v) = beat
+
+ownership (n) power to have sth
 
 [PPP]
 
@@ -2356,15 +2488,11 @@ uphill battle 艱難的戰事
 
 [VVV]
 
-vague (adj)
-
 Veil (v) 遮蔽
 
 villain = scoundrel (n)
 
 volatility (n) 揮發性 動盪
-
-voyage (n)
 
 [WWW]
 
