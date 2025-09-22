@@ -2,6 +2,7 @@
 
 aboriginal (n)
 indigenous (adj)
+primitive (adj)
 
 abrasion (n) (skin, wheel, surface, ...) rubbed away
 lesion (n) damage inside body
@@ -22,7 +23,7 @@ steal (v)
 shoplift (v) steal shop
 theft (n) -- thieve
 搶
-rob (v) = mug (v) = snatch (v)
+rob (v) = mug (v) = plunder (v) = snatch (v)
 mug (n) a cup with straight sides and a handle; fool = moron
 騙
 cheat on (v) (exam / people / money)
@@ -55,10 +56,11 @@ cremation urn (n) put the ashes into it after cremation
 <-> exhume (v) legal
 tomb raiding (n) = grave robbing (v) illegal
 bury the secret
-raid (v) = ambush (v) = assult (v) = suddenly attack (v)
+raid (v) = ambush (v) = pounce (v) = suddenly attack (v)
 lurk (v) 埋伏
+assault (v)
 
-acne (n) 痘痘
+acne (n) 痘痘, pimple (n) 粉刺
 
 Acute <-> Chronic (adj)
 chronicle (n) history sorted by time
@@ -128,10 +130,13 @@ spark new problems (v) make new problems
 Aggregate (v)
 Exaggerated (adj) <-> mediocre (adj)(-) = moderate (adj)(+)
 exaggerate (v) = overstate (v) describe sth more important or serious than it really is
-boast (v) = flaunt (v)
-arrogant = pompous = brash (adj) (+/-) describe sb
-proud (adj) (+/-) describe sb
-gaudy (adj) (+/-) describe sth
+boast (v)(-) = flaunt (v)(-)
+describe sb
+	proud (adj) (+/-)
+	arrogant (adj) (-) = pompous (-) 
+describe thing
+	gaudy (adj) (+/-) describe sth
+	pretentious (adj) (-)
 ostentatious (adj) obviously show money/power/possession to make others admire you
 ostensible (adj) claiming sth but its something else
 ostentation (n) = window dressing (n)
@@ -158,10 +163,10 @@ figurative = metaphoric = symbolic (adj)
 
 alone = by myself = on my own (adv) 
 
-affirm = assert = allege = claim (v)
+affirm = assert = allege = claim (v) < proclaim (v)
 allegiance = loyalty (n)
 [pro 歐逼-dient] obedient = dutiful (adj)
-docile = tame = meek (adj); domesticate (adj)
+[pro 打手] docile = tame = meek (adj) = pliable (adj) < domesticate (adj)
 abide by (v) = obey = comply with = conform to = follow
 in compliance with (n) = observance of (n)
 
@@ -211,6 +216,7 @@ vessel (n) 1 blood tube 2 large ship
 
 [pro] annihilate = eliminate = eradicate = erase = wipe out = exterminate = obliterate
 destroy (v) = spoil = mar
+perish (v) 意外/遇害 死亡
 stain (v) 玷汙
 demise (n) 消亡
 submerge the evidence
@@ -284,7 +290,7 @@ distress sb = disconcert sb (v) make sb worried
 dread (v) be afraid of
 [gra] breed bred bred, dwell dwelt dwelt
 apprehension (n) = misgiving (n)
-depressed (adj) = gloomy = melancholic = morose < miserable = sorrowful
+depressed (adj) = gloomy = melancholic = morose = plaintive < miserable = sorrowful
 (filled with) dismay (n) = distress (n) = melancholy (n) = sorrow (坎坷) = grief
 condole with (v)= lament over = grieve for = mourn for (v) show sadness to the died people
 condolence (n)
@@ -297,7 +303,7 @@ habitat (n) living place of animals
 form a habit of = get used to = accustom ones'self to sth (v)
 <-> be done (v) = get rid of
 
-apprentice=pupil
+apprentice (n) 學徒, pupil (n) 未成年學生
 beginner = novice = newbie = newcomer = rookie
 pupil 瞳孔
 
@@ -323,7 +329,7 @@ diligent (adj) = conscientious = persevering with = hard-working
 earnest (adj) = sincere = serious
 in earnest = in formal
 considerate = thoughtful
-discreet = meticulous = rigorous = scrupulous = wary about (v) careful and ensure correctness & safe (adj) >> fastidious
+discreet = meticulous = painstaking = rigorous = scrupulous = wary about (v) careful and ensure correctness & safe (adj) >> fastidious
 [pro] conscience (n) = moral (n)(adj) = ethic (n)
 ethnics (adj)
 
@@ -353,7 +359,9 @@ tether (n) = leash (n)
 
 athlete (n)
 
-attain = obtain = reach = acquire = fulfill (v) (the goal)
+obtain (v) = get (v) < procure (v) 費盡心思獲得 
+acquire (v) 經努力獲得
+attain = reach = fulfill (v) 達到; 實現
 
 (museum/zoo) attendant 1 = guide = docent (n) explain knowledge around museums, zoo. docent can also be used in college
 attendant 2 = server = receptionist
@@ -375,6 +383,8 @@ audacious (adj) bold
 auspicious <-> ominous
 
 autograph (n)(v) signature for a famous person
+
+avocado (n) 酪梨
 
 [BBB]
 
@@ -454,7 +464,7 @@ bay (n) 海灣
 keep sth in bay = 4.
 1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = shun
 2. 拒絕 reject = turn down = deny, overrule (v) 上對下駁回
-3. 妨礙/干擾 disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = purturb
+3. 妨礙/干擾 disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = perturb
 4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
 5. 禁止 ban = block = forbidden = prohibit
 interleave (v) 交錯
@@ -543,7 +553,10 @@ a glimmer of hope
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
 [pro Pre|ci|pi|tate]
 	Precipitate (v) make sth happen faster = facilitate = [pro ex-p-die-t] expedite
-	Precipitate (adj) = careless = hasty = indiscreet = impetuous = lax = oblivious = reckless = sloppy
+	Precipitate (adj)
+		衝動魯莽草率 brash = hasty = impetuous = precipitate = reckless 
+		粗心 careless = lax = oblivious = sloppy 
+		口風不緊/不慎發言 indiscreet (adj)
 	Precipitate (v)(n) = sediment (n) solid separated from a liquid and sink often
 on the fly (adv) do something quickly without preparation
 bustling = busy = hectic (adj)
@@ -553,7 +566,9 @@ swamp (n) = mire (n) 沼澤; 泥沼
 (v) bloom = burgeon = develop fast = grow fast = flourish = prosper = thrive
 (adj) blooming = flourishing = prosperous = thriving
 
-beforehand = in advance = previously 
+beforehand (adv) = in advance (adv) = previously (adv) <-> afterwards (adv) = later = then = subsequently = next
+preceding (adj) = prior (adj) e.g. require prior knowledge of
+previous (adj) <-> next (adj) = subsequent (adj) = following (adj)
 
 blaring (adj) loud
 
@@ -571,7 +586,8 @@ bald (n) no hair
 courage (n) = fortitude (n) = bravery (n)
 
 blush (v)(n) = embarrass
-defile (v) = humiliate = insult = offend = put sb to shame
+humiliate = insult = offend (v) = put sb to shame
+defile (v) = disdain (v), profane (v) 褻瀆(神/宗教)
 show one’s contempt / disdain / despise
 
 bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
@@ -603,7 +619,7 @@ detergent (n) 清潔劑; 洗衣精; 洗碗精
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
 
-breathtaking = gorgeous = magnificent = majestic = spectacular (adj) = very beautiful (scene)
+breathtaking = gorgeous = magnificent = majestic = picturesque = spectacular (adj) = very beautiful (scene)
 spectator = audience (n)
 
 breeze (n) things easy to do; small wind
@@ -623,7 +639,7 @@ bribe (v)(n)
 briefs (n) = underpants
 
 brisk (adj) quick/energetic (tone/pace/start)
-dynamic 1 (adj) = energetic = exuberant 1 = vibrant
+dynamic 1 (adj) = energetic = exuberant 1 = vibrant = vigorous
 dynamic 2 (adj) changing
 exuberant 2 (adj) (plants) strong and growing quickly
 vibrate (v) oscillate = jolt
@@ -641,7 +657,8 @@ barbarian = savage (n) less social and more violent
 barber (shop) (n) people cut hair (shop)
 
 bud (n) 花苞 (v) ...萌芽
-petal 花瓣
+petal (n) 花瓣
+pollen (n) 花粉
 
 bulge (v)(n) = distend (for body) = swell (v) become larger and rounder than usual
 bump (n)
@@ -680,7 +697,12 @@ cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
 
 capital punishment (n) death punishment
 
-cardinal = chief = critical = crucial = essential = important = indispensable = inevitable = significant < imperative = vital
+重要的
+	important = significant = cardinal
+主要的
+	chief = main = prime = primary = principal
+關鍵的 必要的
+	critical = crucial = essential = imperative = indispensable = paramount = vital
 chief (n) leader
 [pro] chef (n) primary people that cooks food
 [pro su-chef] sous-chef (n) secondary chef
@@ -697,9 +719,10 @@ lash (n)(v) 鞭打; 鞭繩
 carpenter 木匠, electrician, plumber
 
 be carried away (adj) very exciting
-carry on sth (v) resume = continue 
+carry on sth (v) resume = continue
 carry out sth (v) to do or complete
-carry through (v) help sb to deal with difficult situation
+carry sb through (v) help sb to deal with difficult situation
+plight (n) difficult situation
 
 carton 紙箱
 
@@ -783,6 +806,7 @@ chastity (n)
 [pro] male chauvinism <-> feminism
 
 chic = stylish = fashionable (adj)
+quaint (adj) 1 old-fashioned but attractive 2 strange (perpective)
 
 chisel (n)(v) 鑿 = dig (v) = excavate (v)
 
@@ -797,6 +821,7 @@ civil 2 (adj) 民事的 <-> criminal (adj) 刑事的 <-> administrative (adj) �
 criminal record (n)
 civil 3 (adj) = cordial = courteous = gracious = polite (adj) 有禮貌的, 客氣的
 courtesy (n), etiquette (n) more rules for courtesy
+propriety (n) 正當性
 demeanour (n) 風度
 decent (adj) socially acceptable (style/person/wearing)
 
@@ -815,7 +840,7 @@ offset (n) 偏移量
 climate (n) 1. 氣候 2. atmosphere
 
 climax (v) the most important/exciting point in a story or situation, especially close to the end
-climax (n) = peak = pinnacle = 
+climax (n) = peak = pinnacle
 summit (n) 高峰會
 culminate in = end up with (v)
 
@@ -936,6 +961,7 @@ counsel (v)(n) = advice / advise = exhort (v)
 
 counterfeit (adj) = fake (adj) = forged (adj)
 pirate (v) = plagiarize (v) illegal copy of a program, music, form, etc.
+piracy (n)
 infringe (v) = violate (v) e.g. infringe the copyright
 fabricate (v) change truth to deceive others
 falsify (v) change document to deceive others
@@ -982,7 +1008,7 @@ Crude (adj) 無理的(人) = coarse = rude, vulgar 庸俗的
 
 crumbs (n) small piece of bread/cake/biscuit; debris=fragment (n); dandruff 頭皮屑
 crumble (v) = fragment = smash
-crumple (v) = wrinkle (v) 弄皺
+crumple (v) = wrinkle (v) = ruffle (v) 弄皺
 crease (n) = wrinkle (n) 皺摺
 wrinkle (n) 皺紋
 crack 裂縫 (n) = [pro cri-vi-ce] crevice
@@ -994,6 +1020,7 @@ Crust (n) hard shell
 cultivation (n) the act of growing crops
 reclamation 1 (n) 開墾; 營造
 reclamation 2 (n) recycling
+cultivate (v) = [pro P烙] plough (v) 耕耘 
 reclaim (v) take sth back; 開墾; 營造
 
 cyclone 氣旋 depression 低氣壓
@@ -1013,7 +1040,9 @@ El Nino 聖嬰現象 <-> La Nina 反聖嬰現象 (狂下雨)
 win the election with a landslide majority
 endeavor (to) (v)(n) try hard to do sth
 
-cumbersome (heavy or huge) = clumsy (heavy or huge or awkward people) = bulky (huge)
+cumbersome (adj) (heavy or huge)
+clumsy (adj) = ponderous (adj) (heavy or huge or awkward people)
+bulky (huge)
 
 cunning = crafty (adj) clever in a dishonest way
 
@@ -1041,11 +1070,12 @@ Damp 2 (n) poisonous gas
 Dampen (v) let sth moist; make feeling less strong
 e.g. dampen one’s enthusiasm = rain on parade
 
-dangerous (adj) = hazardous = risky = unsafe << [pro pe-ro-lous] perilous
+dangerous (adj) = hazardous = precarious = risky = unsafe << [pro pe-ro-lous] perilous
+precaution (n) an action to prevent peril
 
 Dart (n) 飛鏢
 
-Daunt (v) discourage
+Daunt (v) scare and discourage
 
 debate (v) =  = argue about/over = quarrel about/over
 debate (n) = argument = quarrel
@@ -1082,8 +1112,11 @@ redeem 2 (v) = compensate (v) make sth less bad
 redeeming (adj) not really bad
 ransom (v)(n) pay that exchange sb/sth free
 
-defer = postpone = put off (v) delay sth
-procastinate (v) more serious delay
+延長時間
+	延後(事件)(+/-) defer (v) = postpone (v) = put off (v)
+	拖延(行為)(-) procastinate (v)
+	延長(行為)(+/-) prolong (v)
+	延長(行為)(-) protract (v)
 
 deficiency (n) = inadequacy = insufficiency = lack = scarcity = shortage = shortfall
 <-> abundance (n) adequacy (n) = sufficiency
@@ -1148,6 +1181,7 @@ destructive / devastating / detrimental consequence
 in the aftermath of (adv) due to (bad things)
 counterproductive (adj) has an adverse effect
 have serious repercussion for (v) has bad effect for
+percussion (n) 打擊樂器
 
 detach = disengage = separate (v) (sth)
 separate = segregate = freeze out sb (v) = marginalize = insulate = isolate
@@ -1224,7 +1258,7 @@ displace (v) forced to leave from true position
 replace (v) = supersede = substitute for
 
 Disregard (v) = ignore (v) = neglect (v)
-irrespective of (adj)
+irrespective of (adv) = no matter ...
 
 disseminate (v) spread (news or idea)
 
@@ -1264,7 +1298,7 @@ omen (n) 預兆(+/-)
 
 domestic (adj) country’s or family’s
 
-dominate (v)
+dominate (v) > predominate (v)
 dominant (adj)
 
 dormant (adj) = inactive
@@ -1275,6 +1309,7 @@ staff dormitory
 dose (n) an amount of medicine  (v) give medicine to
 
 doubtful (adj) = dubious = skeptical
+[pro 到特] doubt (n)
 
 downpour (n) <-> drizzle (v)(n)
 pour (v) rain heavily; let liquid out of a container = drain 1 (v)
@@ -1353,6 +1388,7 @@ undertake (v) to prompise; to do (sth difficult)
 embark on = commence = undertake = start on = begin = initiate
 onset (n) = outset (n) start
 board (v) <-> alight (v)
+preliminary (adj) = intitial (adj)
 
 embassy (n) the building or staff of ambassador
 Ministry of foreign affairs (n)
@@ -1396,7 +1432,7 @@ enlighten (v)
 
 ensue (v) happen / occur after something
 
-entail (v) = involve
+entail (v) = involve (v) = pertain to (v)
 entangle with (v)
 
 enterprise (n), entrepreneur (n)
@@ -1411,8 +1447,7 @@ ephemeral (adj) short time = fleeting (adj)
 <-> everlasting (adj) = eternal = forever = permanent = perpetual
 temporary (adj)
 
-epidemic (adj)(n)
-pandemic (n)
+epidemic (n) = pandemic (n) = plague (n) 
 
 episode (n)
 
@@ -1440,7 +1475,7 @@ real estate (n) property in the form of land or buildings
 heritage (n) historical estate (public)
 hereditary (adj) 世襲的; characteristic or disease passed from parent
 
-esteem (n) = respect (n) = fame (n)
+esteem (n) = respect (n) = fame (n) = prestige (n)
 esteem (v) = respect
 
 evacuate (v)
@@ -1472,7 +1507,8 @@ excursion (n) short journey for pleasure
 [pro ex] expedition (n) journey for a particular purpose
 [pro ex] expedite (v) = facilitate = percipitate
 [pro ix] expedient (n) an action helpful but immoral
-odyssey (n) a long adventurous journey
+odyssey (n) long adventurous journey
+pilgrimage (n) long journey for religion
 voyage (n) long journey on a ship
 
 expenditure (n) = expense
@@ -1535,7 +1571,7 @@ inference (n)
 fallacy (n) = paradox = myth
 
 falter 1 (v) lose strength and stop or almost stop
-shrink back (v) <-> stick out (v)
+shrink back (v) <-> stick out (v) = protrude (v)
 falter 2 (v) = stumble 1 (v) walk unstably
 stumble 2 (v) walking or running then fall down
 
@@ -1589,9 +1625,9 @@ forerunner (n) = pioneer
 
 foresee the furniture
 
-forensics (adj) scientific methods of solving crime by examining objects
-autopsy (n) examination of a dead body to discover the reason of death
+autopsy (n) = postmortem (n) examination of a dead body to discover the reason of death
 coroner (n) people (carry out)/perform autopsy
+forensics (adj) scientific methods of solving crime by examining objects
 
 formidable (adj) 難以對付的(人/物)
 
@@ -1604,8 +1640,9 @@ fortify = intensify = reinforce (v)
 fossil (n)(adj) 化石; 食古不化
 
 fragrance (n) = aroma (n) = scent (n) pleased smell
-<-> odor (n)
-give off (v)
+<-> odor (n) = stale (n) (for food only)
+stale (adj) = unfresh
+platitude (n) stale words
 
 frantic (adj) make sb crazy
 
@@ -1675,6 +1712,7 @@ give way (to) (v) = compromise
 
 glacier (n) 冰川
 canyon (n) 峽谷 = notch (n) V型峽谷
+plateau (n) 高原
 
 glide = slide (v)
 
@@ -1692,7 +1730,7 @@ graze (v) eat grass
 lawn (n) 人工維護的草地
 meadow (n) 自然的草地
 pasture (n) 牧場的草地
-livestock (n) 牲畜
+livestock (n) = poultry (n) 牲畜, 家禽
 
 grease (n)(v) = oil (n)(v)
 greasy (adj)
@@ -1739,10 +1777,9 @@ happy medium (n) 折衷方案
 
 hardy (adj) strong enough to bear extreme conditions
 
-harsh (adj) = noisy
-
 haunt (v) = obsess (v) = plague (v) = weigh on (v) (揮之不去的)困擾著 sb
 haunted (adj) 鬧鬼的
+pester sb for sth (v) 糾纏著sb for sth
 
 haven (n) 淨土
 heaven (n) 天堂
@@ -1751,7 +1788,7 @@ havoc (n) 浩劫
 
 hawk (n) 鷹
 
-headstrong (adj) = wilful (adj) = obstinate (adj)
+headstrong (adj) = wilful (adj) = obstinate (adj) = perverse (adj)
 
 heal (v) 癒合; 療癒
 cure (v) 治癒
@@ -1783,6 +1820,7 @@ hoist (v) 抬起; 升旗
 homicide <-> suicide
 
 horticulture (n) 園藝
+plantation (n) 農地
 
 hose (n) 軟水管
 
@@ -1869,10 +1907,10 @@ independent travel = self-guided tour
 
 inert (adj) = lifeless (adj) = lethargic (adj) not moving / cannot move / non-energetic
 
+inevitable (adj) 不可避免的
+
 infect (v) for virus
 transmit (v) for virus, information
-
-infest (v) = overrun (v) 猖獗 
 
 infirmary (n) 醫護室
 
@@ -1893,7 +1931,8 @@ ask (v) = inquire = enquire
 
 intact (adj) not damaged
 
-interim (adj) 過渡時期的
+[pro inter-rum] interim (adj) 過渡時期的
+= temporary (adj) = provisional (adj) 
 
 intermittent (adj) stop and start repeatedly
 
@@ -1906,7 +1945,12 @@ intricate (adj) = perplexing (adj) = sophisticate (adj) <-> intelligible
 inventory (n) 庫存目錄
 in stock (adj) 庫存 <-> out of stock
 
-invincible (adj) <-> vulnerable (adj)
+invincible (adj) <-> vulnerable (adj) = susceptible (adj) = prone to (adj)
+lie facedown (v) = lie prone (v)
+lie on one's back (v)
+lie on one's side (v)
+sit cross-legged (v) 盤腿坐
+push-up position (n) 
 
 irony (adj) < sarcastic (adj)
 
@@ -1927,6 +1971,7 @@ jagged (adj) 鋸齒狀的; 參差不齊的(實體)
 uneven (adj) 參差不齊的(實體/抽象)
 
 jeer (v) = mock
+parody (n) 二創滑稽
 
 [pro je-per-dize] jeopardize (v) = imperil (v)
 
@@ -2003,6 +2048,9 @@ locomotive (n) 火車頭
 lodge (v) = stay (v)
 
 entrance (n)
+porch (n) 門廊
+corridor (n) 走廊
+arcade (n) 騎樓
 lobby (n) = hall (n)
 lobby (v) persuade politically
 
@@ -2065,6 +2113,7 @@ crack in the relationship (crevice是具體, 不可使用)
 maritime (adj) = nautical (adj) 海事的
 
 martial (adj) 軍事的
+declare martial law (v) 宣布戒嚴
 army (n), navy (n), air force (n)
 naval (adj)
 
@@ -2110,6 +2159,7 @@ metastasize (v) 癌症擴散
 meteoric (n) 隕石
 meteorology (n) 氣象學 (atomsphere 大氣層)
 observatory (n) 天文台
+planetarium (n) 天文館
 
 migraine (n) headache
 
@@ -2201,11 +2251,13 @@ nursing home (n) 養老院
 [pro 奶龍] nylon (n)
 
 [OOO]
-oar (n) stick to row a boat
+oar (n) = paddle (n) stick to row a boat
 
 [pro 歐欸sis] oasis (n) <-> desert
 
-take an oath of (v) 宣誓
+take an oath of (v) 
+= give/make a pledge (v)
+= vow (v) 宣誓, 發誓
 
 oblong (n) = rectangle
 
@@ -2215,7 +2267,8 @@ occurence (n) happened event
 
 Occult (adj) 神秘的 (n) 神秘學
 
-offspring (n) <-> ancestor (n)
+offspring (n) = descendant <-> ancestor (n)
+[pro suc-cessor] successor (n) <-> [pro prㄟ-ㄉㄟ-cessor] predecessor (n) 
 
 opaque (adj) <-> transparent (adj)
 
@@ -2258,7 +2311,7 @@ outline (n), syllabus (n)
 outline (n) = contour (n)
 outline (v) = sketch (v) = depict (v)
 
-outright (adv) = completely = entirely = fully = totally = absolutely = ulterly
+outright (adv) = completely = entirely = fully = totally = absolutely = ulterly = unquestionably
 
 outspoken (adj) expressing very directly without worrying if other people are offended
 
@@ -2275,6 +2328,8 @@ overhead (adv) on top of the head
 overhear (v) hear without intending to
 
 overture (n) = prelude (n) 序章; 前奏
+preface (n) 前言
+prologue (n) 開場白
 
 overwhelm (v) = beat
 
@@ -2282,26 +2337,142 @@ ownership (n) power to have sth
 
 [PPP]
 
+palpitate (v) heart beat 
+
+panel (n)
+
+parachute (n)
+
+parade (n)(v) = march (n)(v) 遊行
+
+parasite (n) 寄生
+parasitize (v)
+
+passtime (n) = pursuit (n) = hobby (n) = recreation (n)
+
 patcher (n) mixture of different things
+
+pathetic (adj) 可悲的
+pitiful (adj) 可憐的
+unfortune (adj) = sad (adj) 可惜的 
+
+pathos (n) 藝術的感染力
+
+patio (n) 天井
+
+patriotic (adj) love country
+< nationalist (adj) 民族主義者
+
+patrol (n)(v)
+
+patron (n) = sponsor
+patron (n) 常客
+patronize (v) 常常光顧
+patronize (v) = look down on
 
 pattern (n) 格局
 
-pay off (v) succeed
+pay off (v) succeed; repay the debt completely
 
-peer (v) look carefully or difficulty (n) same age or social position in same group
-peerless 無與倫比的
+pedal (n) 踏板
+
+peel (n) 皮 (v) 去皮/削皮/脫皮
+
+peek (v) = peep (v) look secretly
+peer (v) look carefully
+peer (n) same age or social position in same group
+peerless (adj) 無與倫比的
+
+[pro per-ray-nil] perennial (adj) 長年的
+perennial (n) 多年生植物
+
+Perform a stunt 表演電影中危險的特技
+
+perimeter (n)
+
+periodical (n) 期刊
+
+periphery (adj) 周遭
+
+periscope (n) 潛望鏡
+
+permeate (v) = pervade (v) 瀰漫; 滲透
+
+persecute (v) 迫害
+prosecute (v) 起訴
+
+persevere (v) = persist (v)
 
 persuade (v) = convince
 pursue (v) try to achieve sth; try to let sb in a job/relationship; catch sb
 pursuit (n) 1 noun of pursue 2 leisure activity
 self-discipline (n)
 
-Perform a stunt 表演電影中危險的特技
-stunt (v) prevent the growth or development to the limit
+personnel (n) staff
+
+perspire (v) = sweat (v)
+sweat (n) 汗, sweater (n) 毛衣
+
+pertinent to (adj) directly related to
 
 pet (v) 愛撫
 
+petition (n) 請願, plea (n) 請求
+appeal (v) 上訴; 訴願(要求法院判決)
+file a lawsuit against (v) 提出訴訟
+
+petroleum (n) = crude oil (n)
+gasoline = gas (n)
+
+petty (adj) = trivial (adj)
+
+physician (n) 內科醫生 <-> surgeon (n) 外科醫生
+physiology (n) 生理學
+physique (n) shape and size of a body
+
+piecemeal (adj)(adv) gradual / gradually
+
+刺
+	刺穿 pierce (v) = penetrate (v) = puncture (v)
+	輕戳 poke (v) < prick (v)
+	重度 stab (v)
+prickly (adj) 刺刺的
+piercing (adj) 刺穿的, 刺耳的
+piercing cold <-> boiling hot
+harsh (adj) 刺眼的, 刺耳的
+pungent (adj) 刺鼻的, spicy (adj) 辣的 e.g. the mustard is pungent and spicy
+irritating (adj) 刺激腸胃的
+inject (v) = prick (v) = have a jab (v) 打針
+prick (n) 混蛋
+puncture (n) 刺孔
+acupuncture (n) 針灸
+
+pigment (n) 顏料
+
+pillar (n), beam (n)
+
+pinch sb (v) 擰(肉)
+wring out a cloth/rag (v) 擰乾抹布  
+
+pine (n) 松樹
+
+pinpoint (v) find out exactly
+
+piston (n) 活塞
+
+pit (n) 礦坑
+
 pivot (n) 樞紐；key man
+
+plank (n) 木板; 平板; 棒式
+core (n) 核心
+
+plaster (n) = band-aid (n) OK蹦
+plaster (n) 灰泥
+plaster (v) 塗抹 e.g. plaster the wall 補牆
+be plastered (v) 被鋪天蓋地 e.g. the news was plastered all over the city 
+
+plausible (adj)(+) = credible = convincing = believable
 
 play both ends against the middle (v) 使鷸蚌相爭 漁翁得利
 
@@ -2311,18 +2482,122 @@ two-time (v) = cheat on (v) 劈腿
 
 pluralize
 
+plumb (v) 裝水管 (adv) completely (adj) 筆直的 e.g. level and plumb 橫平豎直的
+
+plunge (v) = plummet (v)
+
+polish (v) 擦亮
+polish sth off (v) address stg easily
+polish sb off (v) beat sb easily
+
+portfolio (n) 投資組合; 業務範圍 (=job scope); 作品集; 資料夾
+
 Porridge = gruel = congee
 
-Put out the fire.
-put up with = toloerate
+postage (n) pay for sending letters
+
+a posthumous award (n) 死後才得的獎項
+
+potent (adj) = powerful (adj) strong and efficient
+
+a love/magic potion (n) ...藥劑
+
+practicable (adj) = feasible (adj)
+practical (adj) 實用的; 實際的
+pragmatic (adj) 務實的
+
+practitioner (n) 從業者
+
+preach (v) 傳教
+
+precedence (n) = priority (n)
+
+predisposition (n) 天生特性
+
+prejudice (n) = preconception (n)
+
+[pro prㄟ-miss] premise (n) 前提
+[pro prㄟ-m-sis] premises (n) 廠區 e.g. on-premises
+
+[pro pru-ro-gative] prerogative (n) = privilege (n) 
+
+presence (n) = existence (n)
+
+preserve (v) = conserve (n) = protect (v)
+
+presumably (adv) = probably (adv) = seemingly (adv) < undoubtedly (adv)
+
+reason (n) (+) = justification (n) (+)
+excuse (n) (-) e.g. make an excuse
+= pretext (n) (-) e.g. use ... as a pretext
+
+prevalent (adj) = widespread (adj)
+
+prey (n) = quarry (n) <-> predator
+quarry (n) 採石場 (v) 採石
+
+probation (n) 試用期; 緩刑
+cooling-off period (n) 鑑賞期
+probe (n) 探針
+找
+	調查 probe (v) = investigate (v) = explore (v)
+	一般找 search (v) = look for (v)
+	目標找 quest (v) = seek (v)
+
+proceed (v) is ongoing; continue
+
+prodigious (adj) 1 large amount 2 execellent 3 strong
+
+profuse (adj) great amount/degree of
+
+propaganda (n) 政治宣傳, advertisement (n) 商業宣傳
+
+propel (v) 推進
+propulsion (n) 推進力
+
+預測
+	prediction (n)
+	forecast (n) by science
+	prophecy (n) by occult
+	prognosis (n) formal development prediction
+
+proportion (n) = portion (n) = part (n) = share (n)
+
+provided that (conj) = if (conj) 
+
+provision (n) = supplies (n) 物資
+provision (n) 條款
+provision (n) noun of provide
+
+proximity (n) = closeness (n) = nearness (n)
+
+pry (v) 1 打聽 2 撬開
+
+psychiatry (n) discipline of psyco 
+
+pull over (v) vehicle stops aside
+
+punctual (adj) frequently on time
+
+Put out the fire = quench the fire (v)
+put up with = toloerate < endure (v)
+put up the spring festival couplets (v) 貼春聯
+quench the thirst (v) 解渴; 滿足慾望
+satisfy the hunger (v) 充飢
 
 [QQQ]
+questionnaire (n) 問卷
+
+quiver (v) = shiver (v) = tremble (v) 身體顫抖
+quaver (v) 聲音顫抖
+waver (v) 決心動搖 e.g. His determination is wavering
 
 [RRR]
 raid (v) = assault (v) sudden attack
 
 rampage (v) 橫衝直撞
 rampant (adj) 猖獗的; getting worse quickly and uncontrollable
+infest (v) = overrun (v) 猖獗
 
 ranch (n) large farm with animals
 
@@ -2370,10 +2645,13 @@ screw 1 (v) twisting
 screw 2 (n) 螺絲釘
 screw 3 (n) sexual partner
 
+live in seclusion (v) 隱居
+hermit (n) 隱士
+
 seek a second term 尋求連任
 
 serenity (n) peaceful and calm
-tranquil (adj)
+tranquil (adj) = mild (adj) = placid (adj)
 tranquilizer (n) 鎮定劑
 tranquility (n) peace. e.g. the tranquility will not last.
 haven (n) 避風港
@@ -2471,6 +2749,8 @@ oblique (adj) inclined
 toasted = overcooked
 
 trauma (n) 創傷
+
+trunk (n) 樹幹, 行李箱, 後車箱
 
 in turmoil (adj) 動盪的
 
