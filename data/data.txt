@@ -56,9 +56,11 @@ cremation urn (n) put the ashes into it after cremation
 <-> exhume (v) legal
 tomb raiding (n) = grave robbing (v) illegal
 bury the secret
-raid (v) = ambush (v) = pounce (v) = suddenly attack (v)
-lurk (v) 埋伏
-assault (v)
+突襲
+	raid (v) = ambush (v) suddenly attack after lurk
+	pounce (v) 猛撲 e.g. the can pounce on the mouse
+	assault (n) 暴行 
+	lurk (v) 埋伏
 
 acne (n) 痘痘, pimple (n) 粉刺
 
@@ -93,6 +95,7 @@ abdicate 退位; 放棄 (v) <-> enthrone 即位 (v)
 [pron: anar chy] anarchy (n) non-government state
 form of state (n) election or not -> hereditary 世襲 = monarchy 君主 vs republic 共和 (election)
 regime (n) responsible or not -> democracy vs dictatorship = autocracy
+reign (n) 統治
 autonomy (n) the right of a group that can govern itself
 = autonomous region (n)
 author; authorize=empower; authority; authentic = genuine; authentication
@@ -214,21 +217,24 @@ vessel (n) 1 blood tube 2 large ship
 	vein 1 靜脈  2 葉脈 3 礦脈 4 風格 > venules 
 	microvessels 微血管 = capillary
 
-[pro] annihilate = eliminate = eradicate = erase = wipe out = exterminate = obliterate
-destroy (v) = spoil = mar
+破壞
+	強 [pro] annihilate = eliminate = eradicate = erase destroy = exterminate = ravage = ruin = wipe out = obliterate
+	弱 damage (v) = spoil = mar
+	unravel (v) 1. ravel 2. solve (mysterious subject) 3. collapse
+	[pro rㄜ-vel] ravel (v) to separate a knot
 perish (v) 意外/遇害 死亡
-stain (v) 玷汙
 demise (n) 消亡
 submerge the evidence
 conceal the evidence
 削弱
 	undermine the confidence 削弱信心
 	impair the efficiency 削弱效率
+[pro 瑞-vo] revel in (v) enjoy in (party)
 
 [pro] history antagonism between
-an|tagonist 1 (n) opponent = rival = competitor = foe = enemy 
-an|tagonist 2 (n) 拮抗肌
-pro|tagonist (n) main supporter of an idea; main actor/actress
+competitor = opponent = rival < antagonist 1 (n) = foe = enemy 
+antagonist 2 (n) 拮抗肌
+protagonist (n) main supporter of an idea; main actor/actress
 antipathy between/against/to (n) dislike or opposition 
 show hostility to <-> extend an olive branch (v) offer peace or reconciliation
 have sympathy for (v) care sb
@@ -309,7 +315,9 @@ pupil 瞳孔
 
 aquatic <-amphibian-> terrestrial
 herbivore / herbivorous <- omnivore / omnivorous -> carnivore / carnivorous
-territory (n) area of someone or interest, [pro] realm (n) area of interest (= domain = area)
+領土 / 領域
+	territory (n) (most for real)
+	[pro roam] realm (n) (most for abstract) e.g. area / domain of interest
 terrorist
 Be terrorized = be panic about
 
@@ -413,16 +421,20 @@ colonel 上校
 captain 上尉
 sergeant 上士/警官
 
-banish (v) = exile (v) force sb to leave the country and not allowed to comeback
-eject 1 = evict (v) force sb to leave somewhere
-oust (v) force sb to leave from a power, just as recall
-eject 2 (v) = come out from a machine
-emit (v) (for beam, noise, smell, or gas)
-erupt (v) (for volcano / expressing / rash)
-expel (v) force sb to leave an organization
+驅逐
+	banish (v) = exile (v) force sb to leave the country and not allowed to comeback
+	eject 1 = evict (v) force sb to leave somewhere
+	oust (v) force sb to leave from a power, just as recall
+	outcast (n) people be ousted
+	expel (v) force sb to leave an organization
 	expulsion (n)
-exclude (v) prevent sb entering a place or an activity; not include
-purge (v) to get rid of people from an organization because you don’t agree with them
+	purge (v) to get rid of people from an organization because you don’t agree with them
+發射
+	eject 2 (v) = come out from a machine
+	emit (v) (for beam, noise, smell, or gas)
+	erupt (v) (for volcano / expressing / rash)
+	radiate (v) (for beam, heat) 
+
 oust = recall (v) force sb to leave a position of power
 overthrow (government)
 demolish (theory, building)
@@ -462,7 +474,7 @@ batter (v) hit sb/sth many times (n) mixed of flour, eggs, milk (n) baseball hit
 
 bay (n) 海灣
 keep sth in bay = 4.
-1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = shun
+1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = refrain from = shun
 2. 拒絕 reject = turn down = deny, overrule (v) 上對下駁回
 3. 妨礙/干擾 disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = perturb
 4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
@@ -618,6 +630,7 @@ bleach (n) 漂白水 (v) 漂白
 detergent (n) 清潔劑; 洗衣精; 洗碗精
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
+rupture (v)(n) 裂開; 分裂
 
 breathtaking = gorgeous = magnificent = majestic = picturesque = spectacular (adj) = very beautiful (scene)
 spectator = audience (n)
@@ -1081,6 +1094,7 @@ debate (v) =  = argue about/over = quarrel about/over
 debate (n) = argument = quarrel
 dispute (v)(n) quarrel usaully for salary or two countries
 disagree with (v) = disapprove (v) = oppose (v)
+retort (v) 反駁
 
 decide (v) = determine 
 [pro de-sai-sive] decisive (adj) make decision quickly and confidently <-> indecisive
@@ -1184,9 +1198,9 @@ have serious repercussion for (v) has bad effect for
 percussion (n) 打擊樂器
 
 detach = disengage = separate (v) (sth)
-separate = segregate = freeze out sb (v) = marginalize = insulate = isolate
+separate = segregate = insulate = isolate
+freeze out sb (v) = marginalize = repel
 <-> get alone with
-outcast (n) people be ousted
 
 detest (v) = loathe (v) very hate
 
@@ -1368,6 +1382,7 @@ elastic (adj) = flexible = adaptable = adjustable = resilient
 flexibility = resilience (n)
 
 elated (adj) = excited = exhilarated = delighted = thrilled (adj) extremely happy
+rejoice in/at/to (v) extremely happy 
 
 elegant (adj) = graceful
 
@@ -1457,7 +1472,7 @@ equitable (adj) = fair
 
 equivocal (adj) = ambiguous (adj) for abstract
 vague (adj) = obscure (adj) = unclear (adj) for abstract or real
-vocal (adj) descrive voice
+vocal (adj) describe voice
 
 erect (v) build; raise sth vertically; 勃起的 (adj)
 establish (v) = set up
@@ -1475,7 +1490,7 @@ real estate (n) property in the form of land or buildings
 heritage (n) historical estate (public)
 hereditary (adj) 世襲的; characteristic or disease passed from parent
 
-esteem (n) = respect (n) = fame (n) = prestige (n)
+esteem (n) = respect (n) = fame (n) = prestige (n) = reputation (n)
 esteem (v) = respect
 
 evacuate (v)
@@ -1746,7 +1761,8 @@ grope for (v) 摸黑尋找
 
 grudge (n) resentment
 grudge (v) deem .. not deserved
-grudge (v) = be reluctant to (v) = be loath to (v) 
+grudge (v) = be reluctant to (v) = be loath to (v)
+<-> readily (adv) = gladly (adv) willingly and happily
 
 guardian (n) 監護人
 
@@ -1765,7 +1781,7 @@ handcuff (n) = manacles
 fetters (n) 腳鐐
 uncuff (v) remove handcuff from
 
-handicap (n)
+handicap (n) 殘疾
 
 hang on <-> hang up
 
@@ -1780,6 +1796,13 @@ hardy (adj) strong enough to bear extreme conditions
 haunt (v) = obsess (v) = plague (v) = weigh on (v) (揮之不去的)困擾著 sb
 haunted (adj) 鬧鬼的
 pester sb for sth (v) 糾纏著sb for sth
+徘徊
+	linger (v) 徘徊(有形/無形) e.g. There is still a lingering fear in my heart
+	wander (v) 徘徊(人)
+漫步
+	stroll (v) go for a walk
+	wander (v) = roam (v) walk around slowly without purpose
+	ramble (v) stroll at countryside; chatting without mainpoint
 
 haven (n) 淨土
 heaven (n) 天堂
@@ -1792,6 +1815,7 @@ headstrong (adj) = wilful (adj) = obstinate (adj) = perverse (adj)
 
 heal (v) 癒合; 療癒
 cure (v) 治癒
+treatment (n) = remedy (n) = cure (n)
 
 heartbreaking (adj) = heart-wrenching = disheartening (adj) 
 
@@ -1821,6 +1845,7 @@ homicide <-> suicide
 
 horticulture (n) 園藝
 plantation (n) 農地
+ranch (n) large farm with animals
 
 hose (n) 軟水管
 
@@ -1950,7 +1975,9 @@ lie facedown (v) = lie prone (v)
 lie on one's back (v)
 lie on one's side (v)
 sit cross-legged (v) 盤腿坐
-push-up position (n) 
+push-up position (n)
+recline (v) 斜躺
+lounger (n) = recliner (n) 躺椅
 
 irony (adj) < sarcastic (adj)
 
@@ -2039,9 +2066,6 @@ liable (adj) = responsible (adj)
 
 limb (n) 肢
 anatomy (n) 解剖
-
-linger (v) 徘徊(有形/無形)
-wander (v) 徘徊(人)
 
 locomotive (n) 火車頭
 
@@ -2252,6 +2276,7 @@ nursing home (n) 養老院
 
 [OOO]
 oar (n) = paddle (n) stick to row a boat
+raft (n) 竹筏; 橡皮艇
 
 [pro 歐欸sis] oasis (n) <-> desert
 
@@ -2322,6 +2347,8 @@ over the period of = during
 overcast (adj) <-> sunny
 
 overhaul (v) fix completely
+refine (v)
+restore (v)
 
 overhead (adv) on top of the head
 
@@ -2362,6 +2389,7 @@ patio (n) 天井
 
 patriotic (adj) love country
 < nationalist (adj) 民族主義者
+repatriate (v) 遣返
 
 patrol (n)(v)
 
@@ -2372,7 +2400,10 @@ patronize (v) = look down on
 
 pattern (n) 格局
 
+repay (v) return money or kindness
 pay off (v) succeed; repay the debt completely
+refund (v) (退貨)退款
+reimburse (v) 報銷; (保險)賠償
 
 pedal (n) 踏板
 
@@ -2382,6 +2413,10 @@ peek (v) = peep (v) look secretly
 peer (v) look carefully
 peer (n) same age or social position in same group
 peerless (adj) 無與倫比的
+stainless (adj) 無瑕的; 不生銹的
+stainless steel (n) 不鏽鋼
+stain (v) = rust (v)
+rusty (adj) 生鏽的
 
 [pro per-ray-nil] perennial (adj) 長年的
 perennial (n) 多年生植物
@@ -2452,7 +2487,8 @@ pigment (n) 顏料
 pillar (n), beam (n)
 
 pinch sb (v) 擰(肉)
-wring out a cloth/rag (v) 擰乾抹布  
+wring out a cloth/rag (v) 擰乾抹布
+ragged (adj) 破爛的(衣物); 穿著破爛的
 
 pine (n) 松樹
 
@@ -2593,45 +2629,103 @@ quaver (v) 聲音顫抖
 waver (v) 決心動搖 e.g. His determination is wavering
 
 [RRR]
-raid (v) = assault (v) sudden attack
+rack (n) 架子 e.g. luggage rack, server rack
+
+racket (n) 1 球拍 2 吵鬧 3 非法勾當
+
+rally (n) 大眾集會
+
+rave (v) speak in an uncontrolled way due to upset/anger/illed
 
 rampage (v) 橫衝直撞
 rampant (adj) 猖獗的; getting worse quickly and uncontrollable
 infest (v) = overrun (v) 猖獗
 
-ranch (n) large farm with animals
-
 ransom 贖金
 
-ravage (v) 蹂躪
+reap (v) 收割
 
-ravel (v) to separate a knot
-unravel (v) 1. ravel 2. solve (mysterious subject) 3. destroy 
-revel in (v) enjoy in
+rear (n) 尾部
 
 receipt (n), invoice (n)
+
+recital (n) 音樂會; 條列(法律)
+
+reckon (v) = think (v)
+from my point of view / perpective = it seems to me that
+reckon on sb (v) = count on sb (v) = rely on sb (v) 指望sb
+
+rectify (v) = calibrate (v) = refine (v)
+
+redeem (v) 贖回; 兌換
 
 refuge (n) = asylum (n) = shelter
 refugee (n) people in refuge
 
+rehabilitate (v) recover body or fame
 revive (v) 復興; 重燃
 refresh (v) = renew (v)
 rejuvenate (v) 回春
 
-remittance vs transfer
+relay (v) 轉發; 轉告; 轉播 (包含repost, forward)
+
+reliable (adj)
+
+relinquish (v) = abandon = give up
+
+remit (v), transfer (v)
+remittance (n) 匯款
+
+remnant (n) remain, residue
+
+rendezvous (n)(v) meet or place to meet
+
+repent (v) stronger regret and want to fix
 
 replenish = refill
 offer supplementary/additional information on/about
 
+resemble (v) = be similar to (v) = be like (v) resemble 不可再加 to
+
 resentment (n) strong feeling of anger
 
-resuscitate 復甦
+resuscitate (v) bring sb back from dying (medical)
+revive (v) death to living
+
+retain (v) = keep
+
+reticent (adj) unwilling to speak (+about)
+
+retrospect (n)
+recall (v)
+
+revenue (n) country tax income; enterprise profit income
+
+reverent (adj) showing serious respect
+
+revolve (v) go/rotate around a center point
+
+rhythm (n) = tempo (n)
+
+ribbon (n) = strip (n)
+
+ridge (n) 山脊; 屋脊
+
+rig (v) manipulate; set up (tent / sail 帆)
+
+righteous (adj) morally correct (sb/sth)
+
+rim (n) = edge
+
+rip (v) = tear
+
+rivet (n)(v) ~ nail (n)(v)
 
 Rubella 德國麻疹
 
 Run off = leave suddenly
 
-rusty (adj) 生鏽的
+ruling party <-> opposition party
 
 [SSS]
 salmon roe (n) salmon fish egg
@@ -2731,10 +2825,6 @@ teeter on the brink of war/collapse/disaster/...
 
 the very second (adv) = right now
 theft (n) stealing behavior
-
-There is still a lingering fear in my heart
-stroll (v) go for a walk
-wander (v) = roam (v) walk around slowly without purpose
 
 tide (n) 潮汐, 浪潮
 
