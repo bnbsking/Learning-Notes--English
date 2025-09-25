@@ -14,7 +14,7 @@ class ExtractVocab:
             input_path: str = "data/data_tmp.txt",
             accum_content_capacity: int = 16000,  # max 4096 tokens, gemini 1 token ~ 4 characters -> 16384 character
             output_path: str = "output/vocab_tmp.json",
-            gemini_model: str = "gemini-2.0-flash" #-lite
+            gemini_model: str = "gemini-2.0-flash-lite" #
         ):
         self.input_path = input_path
         self.accum_content_capacity = accum_content_capacity

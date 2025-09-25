@@ -1,128 +1,165 @@
-conspicuous = overt = striking
+tabloid (n)(adj) 八卦(的)小報 <-> broadsheet 大報 (n)
 
-solemn
+taboo (n) things forbidden to do
 
-scorn
+tacit approval (n) 默許
+tacit understanding (n) 默認
 
-secular (adj)
+tactit (n) = strategy (n)
 
-savage (n)
+tangible (adj) <-> intangible (adj) virtual, abstract
 
-shatter
+tap (n) 水龍頭
+tap water (n) 自來水, still water (n) 礦泉水, sparkling (n) 氣泡水
 
-slit
+tailor (n) 裁縫師
+trail (n) 小徑
+trailor (n) 預告片
 
-shrub (n)
+tariff (n) 關稅
 
-statute (n) official order or law
+taxation (n) tax system
 
-scant
-shred (adj) few
+teetering on the brink of war/collapse/disaster/...
 
-falter 2 (v) = shamble (v) = stagger (v) = stumble (v) walk unstably
+temptress (n) 狐狸精
 
-stoop (v) 彎腰 (n) 駝背
+tenable (adj) 站得住腳的(defensible); 可維持的
 
-oversee (v) = superintend (v)
+tenant (n) <-> landlord (n)
+tenancy (n) 租期
+lease (n) 租約
+rental (n) 租賃行為
 
-seep
+tendancy (n) = trend (n)
 
-sheer (adj) > steep (adj) 陡峭的
+tender (adj) 溫柔的; 肉質嫩的 <-> tough, rubbery
 
-shabby (adj) 穿著破爛的
+terrace (n) 台地; 陽台; 梯田
 
-a slab of 一塊(板)
-slate (n) 石板
+the very second (adv) = right now
 
-waver (v) (決心)動搖 e.g. His determination is wavering
-<-> steadfast (adj) 堅定的 e.g. His determination is steadfast
+theft (n) stealing behavior
 
-speculate (v)
+, thereby = by
 
-haven (n) 避風港
-slum (n) 貧民窟
+thermostat (n) 恆溫器
+thermal insulation function
 
-ribbon (n) = strip (n)
-strap (n) 錶帶; 皮帶
-strip (v) 剝去外層 e.g. strip the paint, strip the clothes
-strap (v) 用帶子綁緊
+thigh (n) <-> calf (n)
 
-rip (v) = slit (v) = tear (v)
+tide (n) 潮汐, 浪潮
 
-sack (n) 麻布袋
+tip 1 (v) = incline = tilt
+tip 2 (v) dump = pour
+tip 3 (v)(n) give extra money to server
+tip 4 (n) guide
+incline (v)(n) = tilt (v)(n) (can be used for real and virtual)
+slope (n) can be used for real only = bank (n)
+oblique (adj) inclined
 
-[pro ㄙㄟ-lin] saline (n) 生理食鹽水
+toasted = overcooked
 
-salvage (n)(v) 打撈; 挽救
+tonic (n) 補劑
 
-scalpel (n) 手術刀
+torrent (n) 洪水
+a torrent of (n) a lot of (criticism, word, emotion)
 
-scapegoat (n) 代罪羔羊
+tract (n) large area of land
 
-scorch (v) 烤焦
+traction (n) 牽引(機/力)
 
-scout (n) 偵查兵; 童子軍
+transcript (n) 文本; 成績單
 
-slag (n) 礦渣
+translplant (v) 移植
 
-seal (n) 封條; 印章; 海豹
+trauma (n) 創傷
 
-secretion (n) 分泌物
+traverse (v) = cross (v)
 
-seek a second term (v) 尋求連任
+treatise (n) 文獻
 
-semblance (n) 表象
+treble (adj)(n) = triple (adj)(n)
 
-shaft (n) (機械的)軸
+trek (v) 徒步長途跋涉
 
-shanty (n) 草屋
+trespass (v) 未經允許闖入 < invade (v) (military large level)
 
-shed (n) 棚子
+trial (n) challange; 適用
 
-shoal (n) 魚群
+trickle (v) 滴下
 
-shutter (n) 快門; 百葉窗
+trim (v) (for hedge/hair/photo)
 
-sieve (v) 過篩
+tropic of cancer (n) 北回歸線, summer solstice (n) 6/21
+tropic of capricorn (n) 南迴歸線, winter solstice (n) 12/21
+spring equinox (n) 3/21
+autumn equinox (n) 9/21
+tropical zone (n) -- temperate zone (n) -- frigid zone (n)
 
-silver bullet (n) a simple solution to a complicated problem
+trunk (n) 樹幹, 行李箱 (suitcase), 後車箱
 
-simmering (adj) 醞釀中的
-smoulder fire (n) 悶燒的火
+tuck (v) 塞入
 
-skim (v)
+tuition (n) fee for registering school
 
-slander (v)
+in turmoil (adj) 動盪的
 
-slump = plummet = plunge (v) decrease rapidly
+turnover (n) 周轉; 成交量; 人員流動(率)
 
-snob (n) 勢利眼的人
+tweezer (n) 鑷子
 
-Sober (adj) 1 serious and calm 2 not drunk (v) let sb calm down
-Sobriety (n) the state of being sober
+tyre (n) 輪胎
 
-(ice cream) spatula (n) 食物鏟; 壓舌板
-shovel (n) 鏟子
+tramp (n) 流浪漢
 
-specimen (n) 樣本; 標本
+tarnish (v) 使黯淡
 
-sporadic (adj) 零星的 e.g. sporadic disturbance
+重刺 thrust (v); 猛推 / 猛塞入
 
-stagnant (adj) stop to grow
+trifle (n) trivial matters
 
-stall (n) 攤位 (v) 熄火
+[pro t-nㄟ-cious] tenacious (adj) 堅決的; 緊握的
 
-statesman (n)(+)
-politician (n)(-)
+traitor (n)
 
-steer (v) drive (car/ship/plane); navigate
+throb (v) music/body beat
 
-stitch (v)(n) (縫紉/受傷)縫針 e.g. put N stitches on my head
+trumpet (n) 喇叭
 
-stop at nothing to do (v) 不擇手段
+translucent
 
-straw (n) 稻草; 吸管
+terse (adj) using few words but unfriendly
 
-straggler (n) people in the last of the group to become lost
+laden with (adj) = full with (adj) = teem with (adj)
 
-swerve (v) change direction suddenly (抽象和現實皆可)
+touchy (adj)
+
+tentative (adj)
+
+throng (n) 人群
+
+stumble 2 (v) = tumble (v) walking or running then fall down
+
+a shred of = a little bit of = a tinge of
+
+porous (adj) 多孔的; 多漏洞的
+
+transgress (v)
+
+tackle (v)
+
+toil (n) hard work especially physically tired
+toil (v) work hard
+
+tertiary
+
+trample (v) 踐踏 (可具體可抽象)
+
+turf (n) 草皮; 範疇 (scope)
+
+tamper (v) deliberately changed
+
+terrific
+
+temptation (n) 誘惑

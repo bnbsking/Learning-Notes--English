@@ -15,7 +15,7 @@ class ArticleGenerator:
             vocab_size: int = 50,
             input_path: str = "output/vocab_tmp.json",
             output_dir: str = "output/articles",
-            model: str = "gemini-2.0-flash-lite"
+            model: str = "gemini-2.0-flash"
         ):
             self.vocab_size = vocab_size
             self.input_path = input_path
