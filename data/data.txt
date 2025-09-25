@@ -8,6 +8,7 @@ abrasion (n) (skin, wheel, surface, ...) rubbed away
 lesion (n) damage inside body
 bruise (n)(v)
 fester (n)(v) 潰爛
+wound (n) 傷口
 
 (v) abuse = misuse = maltreat
 (n) drug abuse
@@ -41,6 +42,7 @@ causal relationship (n) reason and result
 death/injury toll = casualty (n) people injured or killed in a disaster
 mortality rate
 toll (n) = fee (n) = fare (n) = charge (v)(n)
+surcharge (n) extra fee
 charge (v) = fill
 take charge of (v) = manage
 discharge (n) release or not hospitalized
@@ -80,9 +82,9 @@ a master/genius/expert of
 
 (adverse is noun)
 Adverse effect / adverse weather / adverse impact
-very bad   = abysmal = awful = dreadful = [pro fow] foul = [pro no h sound] ghastly = gross = horrible = inferior = terrible
+very bad = abysmal = awful = dreadful = [pro fow] foul = [pro no h sound] ghastly = gross = horrible = inferior = terrible
 	<= atrocious = appalling = horrendous = horrific = outrageous
-very good = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = marvelous = remarkable = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
+very good = awesome =brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = marvelous = remarkable = splendid (sb/sth) = phenomenal = superb = superior [pron: su-pi-rir] = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
 incredulous = improbable (adj) not likely to be true
 horror movie (n)
@@ -95,7 +97,6 @@ abdicate 退位; 放棄 (v) <-> enthrone 即位 (v)
 [pron: anar chy] anarchy (n) non-government state
 form of state (n) election or not -> hereditary 世襲 = monarchy 君主 vs republic 共和 (election)
 regime (n) responsible or not -> democracy vs dictatorship = autocracy
-reign (n) 統治
 autonomy (n) the right of a group that can govern itself
 = autonomous region (n)
 author; authorize=empower; authority; authentic = genuine; authentication
@@ -107,7 +108,6 @@ plaintiff (n) <-> defendant (n)
 witness (n)(v)
 be accused of = be charged with = be indicted for = be prosecuted for
 in custody (adv) be restricted
-sue sb for sth
 
 Be afflicted by = Suffer from
 
@@ -127,7 +127,7 @@ riot (n) a violent public meeting
 rebellion (n)
 incite sth (e.g. insurrection) = incite sb to (v) = goad (v)
 idea/imagination was kindled by
-spark (n) small piece of fire; a small event cause a much worse situation; electrician
+spark (n) small piece of fire = (sparkle); a small event cause a much worse situation; electrician
 spark new problems (v) make new problems
 
 Aggregate (v)
@@ -222,6 +222,7 @@ vessel (n) 1 blood tube 2 large ship
 	弱 damage (v) = spoil = mar
 	unravel (v) 1. ravel 2. solve (mysterious subject) 3. collapse
 	[pro rㄜ-vel] ravel (v) to separate a knot
+	sabotage (v) deliberately destroy
 perish (v) 意外/遇害 死亡
 demise (n) 消亡
 submerge the evidence
@@ -275,7 +276,7 @@ perceptive (adj) = insightful (adj) = discerning (adj) = penetrating (adj) = obs
 take a long-term view (v)
 顯眼的
 	[pro] blatant (-) obvious and intentional
-	conspicuous (+/-) = noticeable = obvious = overt
+	conspicuous (+/-) = noticeable = obvious = overt = striking
 	notable (+) is important and deserves attention
 be conscious of (v) = notice
 cognitive function (n) conscious ability
@@ -334,10 +335,13 @@ drool over (v) (sometimes silly) looking at sb or sth 垂涎
 passionate about (adj) = enthusiastic about
 hospitable (adj) welcoming; hospitality (n)
 diligent (adj) = conscientious = persevering with = hard-working
-earnest (adj) = sincere = serious
+earnest (adj) = sincere = serious, solemn (莊嚴的)
+
 in earnest = in formal
 considerate = thoughtful
 discreet = meticulous = painstaking = rigorous = scrupulous = wary about (v) careful and ensure correctness & safe (adj) >> fastidious
+difficult (adj) = severe = rigorous = tough (adj) 嚴峻的
+serious (adj) = stern (adj) = strict (adj) 嚴肅的; 嚴格的
 [pro] conscience (n) = moral (n)(adj) = ethic (n)
 ethnics (adj)
 
@@ -409,7 +413,7 @@ Cruise (v) travel on ships or planes
 Patrol (n)(v) go around an area to see if there is any danger
 Escort (v)go with people and ensure the safety (n)same as v but can be the person/team too
 = Convoy (v)(n) same as above
-conveyor  (n) = conveyor belt (n) moving strip for transporting objects 
+conveyor (n) = conveyor belt (n) moving strip for transporting objects 
 
 badge 徽章
 
@@ -484,6 +488,7 @@ inhibit (v) slow down a (biological) process
 confinement (n) 禁閉室
 dodgeball (n)
 negation (n) 否定
+stem (n) 莖; 幹
 
 bazaar (n) a market for raise fund for an organization
 bizarre (adj) = eccentric = grotesque = peculiar = strange = weird = unusual (adj)
@@ -559,7 +564,7 @@ coalesce into (v) = unite = combine = merge = fuse; mix = blend
 
 閃爍(眼睛, 星星)
 	+ 強, 穩: blink (v) = gleam (v) = glitter (v) = twinkle (v)
-	+ 弱, 不穩 / 搖曳(燭光): flicker (v) = glimmer (v)
+	+ 弱, 不穩 / 搖曳(燭光): flicker (v) = glimmer (v) = shimmer (v)
 a glimmer of hope
 
 brink = cliff = [pro pre-ci-pi-ce] precipice; cape 海角
@@ -599,7 +604,7 @@ courage (n) = fortitude (n) = bravery (n)
 
 blush (v)(n) = embarrass
 humiliate = insult = offend (v) = put sb to shame
-defile (v) = disdain (v), profane (v) 褻瀆(神/宗教)
+defile (v) = stain (v) 玷汙, disdain (v) = scorn (v) 鄙視, profane (v) 褻瀆(神/宗教)
 show one’s contempt / disdain / despise
 
 bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
@@ -615,7 +620,7 @@ profit bonus
 phone booth (n) small space that a person can go into
 
 boring (adj) = dreary = dull = humdrum = insipid = monotonous = tedious
-mundane 世俗的 = very ordinary
+mundane (adj) = secular (adj) 世俗的 very ordinary
 [cp] dreadful (adj), dread to v (v), dreary (adj)
 
 boundary = border
@@ -631,6 +636,7 @@ detergent (n) 清潔劑; 洗衣精; 洗碗精
 
 break down (v) machine malfunction, decompose sth, plan failed, emotion uncontrolled
 rupture (v)(n) 裂開; 分裂
+= split
 
 breathtaking = gorgeous = magnificent = majestic = picturesque = spectacular (adj) = very beautiful (scene)
 spectator = audience (n)
@@ -666,7 +672,7 @@ prospectus, leaflet, handout, manuscript (n) 手稿; 原稿
 windpipe (n) 氣管
 
 brutal = cruel = savage = ruthless = inhuman (adj) = tyrannical (strong to weak)
-barbarian = savage (n) less social and more violent 
+barbarian = savage (n) less social and more violent
 barber (shop) (n) people cut hair (shop)
 
 bud (n) 花苞 (v) ...萌芽
@@ -711,7 +717,7 @@ cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
 capital punishment (n) death punishment
 
 重要的
-	important = significant = cardinal
+	important = significant = cardinal = substantial
 主要的
 	chief = main = prime = primary = principal
 關鍵的 必要的
@@ -735,7 +741,8 @@ be carried away (adj) very exciting
 carry on sth (v) resume = continue
 carry out sth (v) to do or complete
 carry sb through (v) help sb to deal with difficult situation
-plight (n) difficult situation
+plight (n) = strait (n) difficult situation
+strait (n) 海峽
 
 carton 紙箱
 
@@ -744,9 +751,11 @@ break away = cast away/off (v) = get rid of (v) = discard = dispose = do away wi
 dump (v) (real thing or people)
 dump sb <-> get dumped by sb (v) break up with sb actively or passively
 
-castrate (v) remove the testicles
-neuter (v) remove genitals from an animal
-ligation (n) tying a tube in body (not usually in sex)
+sterilize (v) 絕育
+	castrate (v) remove the testicles
+	neuter (v) remove genitals from an animal
+	ligation (n) tying a tube in body (not usually in sex)
+sterilize (v) = disinfect (v)
 
 catalogue = catalog (n) menu of goods; contents 目錄; outline 大綱; index
 catalog (v) categorize
@@ -784,7 +793,10 @@ gravel (n) small round stones mixed with sands
 ceasefire
 rebel (v) = revolt
 rebel troop (n), overthrow the regime (v), start a crackdown on the protesters (v)
-crack down on (v) dealing with illegal behavior severely
+壓
+	鎮壓 crack down on (v) = subdue (v) = suppress
+	壓抑(情緒) suppress (v)
+	欺壓 oppress (v)
 
 censor (n)(v) examiner for news, books, films
 
@@ -853,7 +865,7 @@ offset (n) 偏移量
 climate (n) 1. 氣候 2. atmosphere
 
 climax (v) the most important/exciting point in a story or situation, especially close to the end
-climax (n) = peak = pinnacle
+climax (n) = peak = pinnacle = summit (n)
 summit (n) 高峰會
 culminate in = end up with (v)
 
@@ -897,10 +909,12 @@ commodity = merchandise (n)
 merchant (v) seller
 
 compact 1 (adj) position together closely
-	c.p. compact camera; rich cake; well-done muscles <-> flappy muscles
+	c.p. compact camera; rich cake; well-done muscles = sturdy muscles <-> flappy muscles
 compact 2 (n) box for makeup
 compact 3 (n) agreement / contract
 compact 4 (v) = compress = condense
+stipulate (v) (合約)規訂...
+sturdy (adj) 結實的; 耐用的
 
 compartment (n) an separated area in a space
 
@@ -1005,7 +1019,7 @@ praying mantis (n) 螳螂
 be maimed (v) 被殘廢 = be disabled
 be paralysed (v) 被癱瘓;麻痺 可用於非人
 paralysis (n) 癱瘓;麻痺
-be crippled (v) 被跛腳 可用於非人 = be lamed (v) 
+be crippled (v) 被跛腳 可用於非人 = be lamed (v)
 cripple (n) people cannot walk
 fracture (n) 骨折
 limp (n)(v) walk with crippled
@@ -1020,11 +1034,11 @@ Crude (adj) 簡陋的(物) = coarse = rough 粗糙的
 Crude (adj) 無理的(人) = coarse = rude, vulgar 庸俗的
 
 crumbs (n) small piece of bread/cake/biscuit; debris=fragment (n); dandruff 頭皮屑
-crumble (v) = fragment = smash
+crumble (v) = fragment = smash = shatter
 crumple (v) = wrinkle (v) = ruffle (v) 弄皺
 crease (n) = wrinkle (n) 皺摺
 wrinkle (n) 皺紋
-crack 裂縫 (n) = [pro cri-vi-ce] crevice
+crack 裂縫 (n) = [pro cri-vi-ce] crevice = slit
 loophole (n) a law or program flaw = vulnerability = flaw
 crack (v) break or hack in sth
 
@@ -1033,11 +1047,14 @@ Crust (n) hard shell
 cultivation (n) the act of growing crops
 reclamation 1 (n) 開墾; 營造
 reclamation 2 (n) recycling
-cultivate (v) = [pro P烙] plough (v) 耕耘 
+cultivate (v) = [pro P烙] plough (v) 耕耘
+sow (v) 播種
+sprout (v) 發芽
 reclaim (v) take sth back; 開墾; 營造
 
 cyclone 氣旋 depression 低氣壓
 hurricane = typhoon, tornado, tsunami, landslide=mudslide, bushfire = wildfire, avalanche
+bush (n) = shrub (n) 
 earthquake (n) seismic (adj)
 deluge = flood (n) <-> drought (n)
 [pro di-vore] devour 1 (v) = inundate = engulf = submerge = drown 1
@@ -1046,7 +1063,9 @@ drown 2 (v) to die by being unable to breath underwater
 bask in (the sun / limelight / spotlight) (v)
 immerse sb in sth 1 (v)
 immerse 2 (v) = dip = submerge = sink = soak 1 (v) put sth into liquid
-soak 2 (v) get wet << drench (v) get very wet
+soak 2 (v) get wet << drench (v) = saturate (v) get very wet
+splash (v) 向四周飛濺
+saturated (adj) 飽和的; soluble (adj) 可溶解的
 limelight (n) public attention; spotlight
 flashlight (n) held small light with battery
 El Nino 聖嬰現象 <-> La Nina 反聖嬰現象 (狂下雨)
@@ -1109,7 +1128,7 @@ decorate with (v) = ornament with = adorn with
 decoration (n) = ornament
 garnish with (v)(n) for food only
 
-decree (n) = edict (n) official order
+decree (n) = edict (n) = statute (n) official order or law
 
 [pro 底-cre-pit] decrepit (adj) very old and bad (sth or sb)
 [pro 底-lapi-dated] dilapidated (adj) very old and bad (sth)
@@ -1134,7 +1153,9 @@ ransom (v)(n) pay that exchange sb/sth free
 
 deficiency (n) = inadequacy = insufficiency = lack = scarcity = shortage = shortfall
 <-> abundance (n) adequacy (n) = sufficiency
-meagre (adj) = limited = inadequate
+meagre (adj) = limited = inadequate = scant
+shred (adj) a few/little
+scarcely (adv) = hardly = barely
 
 deficit (n) spent > received
 deposit (n) money saved in bank; first part pay for buying sth; pay when rent sth and return finally
@@ -1161,7 +1182,9 @@ tax evasion (n)
 
 delinquency (n) crime of teenager = adolescent = juvenile
 
-[pro d-li-rium] succumb to delirium (v) become a state of being unable to think
+[pro 底-li-rium] succumb to delirium (v) become a state of being unable to think
+rave (v) speak in an uncontrolled way due to upset/anger/illed
+surrender (v)
 fantasy (n)
 pipe dream (n) = pie in the sky (n) = wishful thinking (n)
 chase rainbows (v)
@@ -1322,7 +1345,7 @@ staff dormitory
 
 dose (n) an amount of medicine  (v) give medicine to
 
-doubtful (adj) = dubious = skeptical
+doubtful (adj) = dubious = sceptical = skeptical
 [pro 到特] doubt (n)
 
 downpour (n) <-> drizzle (v)(n)
@@ -1587,7 +1610,7 @@ fallacy (n) = paradox = myth
 
 falter 1 (v) lose strength and stop or almost stop
 shrink back (v) <-> stick out (v) = protrude (v)
-falter 2 (v) = stumble 1 (v) walk unstably
+falter 2 (v) = shamble (v) = stagger (v) = stumble (v) walk unstably
 stumble 2 (v) walking or running then fall down
 
 famine (n) situation of not enough food
@@ -1627,7 +1650,9 @@ fixture (n) 1 fixed furniture 2 constantly held sport events
 
 flesh (n) = pulp (n) 果肉 <-> peel (n) 果皮; peel (v) 削皮
 
-flock (n) crowd people (v) gather
+swarm (n) 動物群; 人群
+crowd (n) 人群
+flock to (v) 蜂擁而至
 
 fluffy (adj) many fur (doll)
 furry (adj) many fur (animal)
@@ -1699,6 +1724,7 @@ gape at (v) look at surprisingly
 glare (n) strong light
 glare at (v) look at ... angrily
 glimplse at (v) look at .. shortly
+scrutinize (v) look at .. in detail
 
 garment (n) cloth
 gown (n) 禮服; 長袍
@@ -1811,7 +1837,7 @@ havoc (n) 浩劫
 
 hawk (n) 鷹
 
-headstrong (adj) = wilful (adj) = obstinate (adj) = perverse (adj)
+headstrong (adj) = wilful (adj) = obstinate (adj) = perverse (adj) = stubborn (adj)
 
 heal (v) 癒合; 療癒
 cure (v) 治癒
@@ -1856,10 +1882,12 @@ how come [informal] = why
 hubbub (n) 喧鬧
 
 hunchback (n) 駝背
+stoop (v) 彎腰 (n) 駝背
 
 hygienic (adj)
 sanitization (n)
 hand sanitizer (n)
+sanitary (adj)
 
 [pro his-...] hysterical (adj) 歇斯底里的
 
@@ -1947,6 +1975,7 @@ inland (adj) <-> coastal (adj) = offshore (adj) <-> oceanic (adj)
 instrumental (adj) helpful
 
 insolvent (adj) can not afford
+<-> solvent (adj)
 
 intermittent fasting (n) stop eating intermittently
 
@@ -2013,7 +2042,7 @@ magistrate (n) 地方法官
 jumble of (n) untidy mixture of things
 
 [KKK]
-Keep an eye on (v) = supervise (v) = oversee (v)
+Keep an eye on (v) = supervise (v) = oversee (v) = superintend (v)
 overlook (v) look from high place
 
 kitchen waste (n)
@@ -2047,7 +2076,7 @@ lateral (adj) 側面的
 
 layman (n) people not skilled at sth
 
-leak (n)(v)
+leak (n)(v) = seep
 
 lease (v) 租出 (n) 租約
 
@@ -2246,6 +2275,7 @@ nibble (v) 嚼
 nickel (n) 鎳; 五分錢
 
 [pro 奈色替] nicety (n) = [pro New盎司] nuance (n) = subtlety(n)
+subtle (adj)
 
 nominal (adj) 名義上的
 <-> de facto (adj) 實質上的
@@ -2265,7 +2295,8 @@ nourish (v) 養育實際 e.g. feed, enrich
 nurture (v) 養育抽象 e.g. raise, cultivate, foster
 nourishment (n) 養育
 
-nutrition (n) 營養
+nutrition (n) = sustenance (n) 營養
+food (n) = sustenance (n)
 dietary supplement (n) 保健食品
 skincare product (n) 保養品
 
@@ -2296,9 +2327,6 @@ offspring (n) = descendant <-> ancestor (n)
 [pro suc-cessor] successor (n) <-> [pro prㄟ-ㄉㄟ-cessor] predecessor (n) 
 
 opaque (adj) <-> transparent (adj)
-
-oppress (v) (政治上)壓迫
-suppress (v) (心情上)壓迫
 
 opt for (v) = choose (v) = select (v)
 option (n) = choice (n) = selection (n)
@@ -2337,8 +2365,11 @@ outline (n) = contour (n)
 outline (v) = sketch (v) = depict (v)
 
 outright (adv) = completely = entirely = fully = totally = absolutely = ulterly = unquestionably
+sheer (adj) complete
+sheer (adj) > steep (adj) 陡峭的
 
 outspoken (adj) expressing very directly without worrying if other people are offended
+speak one's mind (v) 坦白說
 
 give ovation = give applause
 
@@ -2415,7 +2446,7 @@ peer (n) same age or social position in same group
 peerless (adj) 無與倫比的
 stainless (adj) 無瑕的; 不生銹的
 stainless steel (n) 不鏽鋼
-stain (v) = rust (v)
+rust (v)
 rusty (adj) 生鏽的
 
 [pro per-ray-nil] perennial (adj) 長年的
@@ -2455,6 +2486,7 @@ pet (v) 愛撫
 petition (n) 請願, plea (n) 請求
 appeal (v) 上訴; 訴願(要求法院判決)
 file a lawsuit against (v) 提出訴訟
+sue sb for sth
 
 petroleum (n) = crude oil (n)
 gasoline = gas (n)
@@ -2489,6 +2521,7 @@ pillar (n), beam (n)
 pinch sb (v) 擰(肉)
 wring out a cloth/rag (v) 擰乾抹布
 ragged (adj) 破爛的(衣物); 穿著破爛的
+= shabby (adj) 穿著破爛的
 
 pine (n) 松樹
 
@@ -2502,6 +2535,8 @@ pivot (n) 樞紐；key man
 
 plank (n) 木板; 平板; 棒式
 core (n) 核心
+a slab of 一塊(板)
+slate (n) 石板
 
 plaster (n) = band-aid (n) OK蹦
 plaster (n) 灰泥
@@ -2518,7 +2553,7 @@ two-time (v) = cheat on (v) 劈腿
 
 pluralize
 
-plumb (v) 裝水管 (adv) completely (adj) 筆直的 e.g. level and plumb 橫平豎直的
+plumb (v) 1 裝水管 (adj) 2 筆直的 e.g. level and plumb 橫平豎直的
 
 plunge (v) = plummet (v)
 
@@ -2561,7 +2596,7 @@ presence (n) = existence (n)
 
 preserve (v) = conserve (n) = protect (v)
 
-presumably (adv) = probably (adv) = seemingly (adv) < undoubtedly (adv)
+presumably (adv) = probably (adv) = seemingly (adv) = supposedly (adv) < undoubtedly (adv)
 
 reason (n) (+) = justification (n) (+)
 excuse (n) (-) e.g. make an excuse
@@ -2626,7 +2661,9 @@ questionnaire (n) 問卷
 
 quiver (v) = shiver (v) = tremble (v) 身體顫抖
 quaver (v) 聲音顫抖
-waver (v) 決心動搖 e.g. His determination is wavering
+waver (v) (決心)動搖 e.g. His determination is wavering
+<-> steadfast (adj) 堅定的 e.g. His determination is steadfast
+sway (v) = swing (v) = shake (v) 搖擺
 
 [RRR]
 rack (n) 架子 e.g. luggage rack, server rack
@@ -2634,8 +2671,6 @@ rack (n) 架子 e.g. luggage rack, server rack
 racket (n) 1 球拍 2 吵鬧 3 非法勾當
 
 rally (n) 大眾集會
-
-rave (v) speak in an uncontrolled way due to upset/anger/illed
 
 rampage (v) 橫衝直撞
 rampant (adj) 猖獗的; getting worse quickly and uncontrollable
@@ -2653,7 +2688,11 @@ recital (n) 音樂會; 條列(法律)
 
 reckon (v) = think (v)
 from my point of view / perpective = it seems to me that
+guess (v) = speculate (v)
 reckon on sb (v) = count on sb (v) = rely on sb (v) 指望sb
+supposition (n) = hypothesis (n) = assumption (n) = presumption (n)
+proposition (n) noun of propose (提議)
+suspect (n) 嫌疑; 嫌疑犯
 
 rectify (v) = calibrate (v) = refine (v)
 
@@ -2661,6 +2700,9 @@ redeem (v) 贖回; 兌換
 
 refuge (n) = asylum (n) = shelter
 refugee (n) people in refuge
+sanctuary (n) 避難所; 聖殿
+haven (n) 避風港
+slum (n) 貧民窟
 
 rehabilitate (v) recover body or fame
 revive (v) 復興; 重燃
@@ -2708,6 +2750,9 @@ revolve (v) go/rotate around a center point
 rhythm (n) = tempo (n)
 
 ribbon (n) = strip (n)
+strap (n) 錶帶; 皮帶
+strip (v) 剝去外層 e.g. strip the paint, strip the clothes
+strap (v) 用帶子綁緊
 
 ridge (n) 山脊; 屋脊
 
@@ -2717,7 +2762,7 @@ righteous (adj) morally correct (sb/sth)
 
 rim (n) = edge
 
-rip (v) = tear
+rip (v) = slit (v) = tear (v) 
 
 rivet (n)(v) ~ nail (n)(v)
 
@@ -2728,31 +2773,86 @@ Run off = leave suddenly
 ruling party <-> opposition party
 
 [SSS]
+sack (n) 麻布袋
+
+[pro ㄙㄟ-lin] saline (n) 生理食鹽水
+
 salmon roe (n) salmon fish egg
+
+salvage (n)(v) 打撈; 挽救
+
+impose sanction on (v) 制裁
 
 sauna (n) 三溫暖 or steam room
 
+scalpel (n) 手術刀
+
+scapegoat (n) 代罪羔羊
+
+scorch (v) 烤焦
+
+scout (n) 偵查兵; 童子軍
+
 scrambled (v) to compete with others for something is very little
 scrambled egg (n) 炒蛋
+
+scrap (v) abandon or delete
+scrap (n) fragment
+scrape (v) 刮
+
+scroll (n) = reel (n)
 
 screw 1 (v) twisting
 screw 2 (n) 螺絲釘
 screw 3 (n) sexual partner
 
+scrutiny (n) 仔細審查
+
+sculpture (n) 雕塑
+
+scum (n) (液體)渣; 敗類
+slag (n) 礦渣
+spit (v) 吐口水 (n) 唾液
+
+seal (n) 封條; 印章; 海豹
+
 live in seclusion (v) 隱居
 hermit (n) 隱士
 
-seek a second term 尋求連任
+secretion (n) 分泌物
+
+seek a second term (v) 尋求連任
+
+semblance (n) 表象
 
 serenity (n) peaceful and calm
 tranquil (adj) = mild (adj) = placid (adj)
 tranquilizer (n) 鎮定劑
 tranquility (n) peace. e.g. the tranquility will not last.
-haven (n) 避風港
 
 setback (n) 挫折
 
+shaft (n) (機械的)軸
+
+shanty (n) 草屋
+
 shallow person (n) superficial / lack of depth people
+
+shave (v) 刮鬍子
+shaver (n) 刮鬍刀
+
+shed (n) 棚子
+
+shoal (n) 魚群
+
+shrug (v) 聳肩 
+
+shutter (n) 快門; 百葉窗
+
+sieve (v) 過篩
+
+tourism (n) 觀光
+sightseeing (n) 觀光活動; 導覽活動
 
 Sit on one’s hand = take no action
 
@@ -2761,47 +2861,115 @@ silver bullet (n) a simple solution to a complicated problem
 simmering (adj) 醞釀中的
 smoulder fire (n) 悶燒的火
 
+skim (v)
+overview (n)
+
+slander (v) = defame (v) 毀謗
+
+slender (adj) = slim (adj)
+
 slump = plummet = plunge (v) decrease rapidly
+<-> soar (v) = surge (v) = rocket (v)
 diminish = decrease (v)
+<-> increase (v) = rise
 
 smuggle (v)
-stowaway (n) a person who hides in shift/aircraft/vehicle
+stowaway (n) 偷渡者
 
 snitch to A that = snitch/inform on B (v) secretly tell A (in authority) that B do sth bad
 snitcher (n) = informant (n) give information to another person or organization
 
-snob (n)
+snob (n) 勢利眼的人
 snobbish (adj)
 
-snorkeling <-> scuba diving
+snorkeling <-> scuba diving (deeper)
 
 snowball (n)(v)
 
+sob (v) cry
 Sober (adj) 1 serious and calm 2 not drunk (v) let sb calm down
 Sobriety (n) the state of being sober
 
-(ice cream) spatula (n) 食物鏟
+sociable (adj) 善交際的
+
+soil (n) 泥土
+
+solidarity (n) 團結
+
+solitary (adj) 孤獨的
+
+somewhat = somehow = sort of = a little (bit)
+
+sore (n) 痠痛
+
+(ice cream) spatula (n) 食物鏟; 壓舌板
+shovel (n) 鏟子
+
+sovereign (n) 君王; 元首
+reign (n) 統治
+
+specification (n) spec
+
+specimen (n) 樣本; 標本
 
 spoiled boss, stakeholder, take advantages of, exploit, injustice
 tell on sb to sb
-I don't expect that there is a person so immoral.
+
+spontaneous (adj)
+
+sporadic (adj) 零星的 e.g. sporadic disturbance
 
 stance = standpoint = position
 Step aside 讓開
 
+stagnant (adj) stop to grow
+
+stall (n) 攤位 (v) 熄火
+
 stark (adj) (room / reality) simple without decoration
 stark constrast to 與...有鮮明對比
 
+staple (n) 釘書針; 基本的 (adj) 基本的
+stapler (n) 釘書機
+
+starch (n) 澱粉
+
+statesman (n)(+)
+politician (n)(-)
+
+stationary = stationery (n) 文具
+
+steady (adj) = constant (adj) = static (adj) = stable (adj) = invariable (adj)
+
+steer (v) drive (car/ship/plane); navigate
+
+stick up (v) 豎起
+
 stiff (adj)
 inflexible (adj)
+
+stimulus (n) things can stimulate
+
+sting (v) 叮咬
+= stitch (v)(n) (縫紉/受傷)縫針 e.g. put N stitches on my head
 
 stuffy (adj) <-> drafty
 
 stop at nothing to do (v) 不擇手段
 
+floor (n) = story = storey = level (n) 樓層
+
+straightforward (adj) = [pro in-ㄊㄩ-a-tive] intuitive (adj)
+straightforward (adj) 直率的(人)
+
 straw (n) 稻草; 吸管
 
 straggler (n) people in the last of the group to become lost
+
+strain (n) = force (n) 作用力
+strain (n)(v) 拉傷
+strain (n) 品種
+tension (n) 繩張力, dramatic tension (n) 戲劇張力
 
 strive for (v)
 
@@ -2809,6 +2977,13 @@ strike back (v) 反擊
 
 suffer from the motion sickness (v) being ill in a moving vehicle
 motion sickness pill (n)
+
+superstitious (adj) 迷信的
+supersition (n) 迷信
+
+use broom to sweeping and mop to mopping the floor
+
+swerve (v) change direction suddenly (抽象和現實皆可)
 
 [TTT]
 tabloid (n)(adj) 八卦(的)小報 <-> broadsheet 大報 (n)
@@ -2840,7 +3015,7 @@ toasted = overcooked
 
 trauma (n) 創傷
 
-trunk (n) 樹幹, 行李箱, 後車箱
+trunk (n) 樹幹, 行李箱 (suitcase), 後車箱
 
 in turmoil (adj) 動盪的
 

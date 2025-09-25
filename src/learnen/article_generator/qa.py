@@ -12,7 +12,7 @@ class ArticleGeneratorQA:
         self,
         input_dir: str = "output/articles",
         output_dir: str = "output/articles",
-        model: str = "gemini-2.0-flash-lite"
+        model: str = "gemini-2.0-flash"  #-lite
     ):
         self.input_dir = input_dir
         self.output_dir = output_dir
