@@ -87,7 +87,7 @@ very bad = abysmal = awful = dreadful = [pro fow] foul = [pro no h sound] ghastl
 	<= atrocious = appalling = horrendous = horrific = outrageous
 very good = awesome = brilliant = exceptional = excellent = extraordinary = fabulous = fantastic = incredible = marvelous = remarkable = splendid (sb/sth) = phenomenal = superb = superior [pron: su-pi-rir] = terrific = unbelievable
 [pron: su-pi-ri-ority] sense of superiority (n) = sense of inferiority (n)
-incredulous = improbable (adj) not likely to be true
+incredulous = improbable (adj) = unlikely (adj) not likely to be true
 horror movie (n)
 
 Aes|the|tic (adj) perspective of beautiful things
@@ -230,14 +230,16 @@ demise (n) 消亡
 submerge the evidence
 conceal the evidence
 削弱
-	undermine the confidence 削弱信心
-	impair the efficiency 削弱效率
+	undermine (v) 逐步削弱 e.g. (scandals) the confidence, power, relationship, health
+	impair (v) 立即削弱 e.g. (drinking too much) the judgement, efficiency(=utility)
 [pro 瑞-vo] revel in (v) enjoy in (party)
 
 [pro] history antagonism between
 competitor = opponent = rival < antagonist 1 (n) = foe = enemy 
 antagonist 2 (n) 拮抗肌
 protagonist (n) main supporter of an idea; main actor/actress
+supporter (n) = upholder (n) 擁護者
+uphold (v) 擁護
 antipathy between/against/to (n) dislike or opposition 
 show hostility to <-> extend an olive branch (v) offer peace or reconciliation
 have sympathy for (v) care sb
@@ -298,7 +300,7 @@ allergic (adj) = hypersensitive (adj) for physical
 distress sb = disconcert sb (v) make sb worried
 dread (v) be afraid of
 [gra] breed bred bred, dwell dwelt dwelt
-apprehension (n) = misgiving (n)
+apprehension (n) = misgiving (n) = unease (n)
 depressed (adj) = gloomy = melancholic = morose = plaintive < miserable = sorrowful
 dismay (n) = distress (n) = melancholy (n) = sorrow (坎坷) = grief
 condole with (v)= lament over = grieve for = mourn for (v) show sadness to the died people
@@ -368,6 +370,7 @@ insure sb (v) provide insurance for sb
 
 awkward (adj) moving slow
 awkward (adj) thorny
+ungainly (adj) awkward and without grace
 
 at the end of one’s rope/tether (adj) = exhausted
 tether (n) = leash (n)
@@ -610,6 +613,7 @@ humiliate = insult = offend (v) = put sb to shame
 defile (v) = stain (v) 玷汙, disdain (v) = scorn (v) 鄙視, profane (v) 褻瀆(神/宗教)
 trample (v) 踐踏 (可具體可抽象)
 show one’s contempt / disdain / despise
+patronize (v) = look down on (v) = underestimate
 
 bolt (n) bar to lock a door; a bolt of lightning (v) lock a door by a bolt
 bond (n) relationship; 公債; 保釋金
@@ -899,7 +903,7 @@ colloquial (adj) words informal and used in speech only
 colloquium (n) a formal meeting for discussing something = seminar = forum
 
 colossal (adj) = enormous = giant = gigantic = huge = immense = vast
-considerable (adj) = countless = massive = numerous = innumerable = tremendous = a plenty of
+considerable (adj) = countless = massive = numerous = innumerable = tremendous = a plenty of = untold
 a great deal of (adj) for uncountable
 
 combustible (adj) easy to be burned
@@ -1038,7 +1042,8 @@ crouch (v) 蹲下 = squat down
 crouch (v) 蜷曲 = curl up = huddle
 
 Crude (adj) 簡陋的(物) = coarse = rough 粗糙的
-Crude (adj) 無理的(人) = coarse = rude, vulgar 庸俗的
+Crude (adj) 無理的(人; 行為) = coarse = impolite = rude = vulgar
+= ill-mannered = lack/poor of manners
 
 crumbs (n) small piece of bread/cake/biscuit; debris=fragment (n); dandruff 頭皮屑
 crumble (v) = fragment = smash = shatter
@@ -1454,7 +1459,7 @@ eminent (adj) = famous = renowned = well known
 <-> obscure (adj)
 prominent (adj) famous and important
 
-emphasize (v) = highlight (v) = [pro] accent (v) = underscore (v)
+emphasize (v) = highlight (v) = [pro] accent (v) = underscore (v) = underline(v)
 [pro] accent (n)
 
 empirical (adj) based on experience
@@ -1497,9 +1502,10 @@ episode (n)
 
 epoch (n) = era
 
-equitable (adj) = fair
+equitable (adj) = fair (adj)
+<-> uneven (adj) = unfair (adj)
 
-equivocal (adj) = ambiguous (adj) for abstract
+equivocal (adj) = ambiguous (adj) for abstract (e.g. meaning)
 vague (adj) = obscure (adj) = unclear (adj) for abstract or real
 vocal (adj) describe voice
 
@@ -1540,6 +1546,7 @@ excess (n) more than acceptable or reasonable
 surplus (n) more than is need
 superfluous (adj)
 leftover (n) superfluous food
+excessive (adj)(-) = extreme (adj)(-) = undue (adj)(-) e.g. undue tax 
 
 exchange (v)(n)
 
@@ -2112,6 +2119,7 @@ lobby (n) = hall (n)
 lobby (v) persuade politically
 
 lofty (adj) 崇高的(+/-) = noble (adj) 高貴的(+) < supreme (adj) 至高無上的 e.g. status
+utmost (adj) = supreme (adj) = maximum (adj) = extreme (adj)
 
 loll (v) 慵懶躺坐
 lounging (adj)(+), sluggish (adj)(-) 慵懶的
@@ -2296,7 +2304,7 @@ notion (n) = concept = idea = insight = opinion = view
 notorious (adj) = infamous
 
 nourish (v) 養育實際 e.g. feed, enrich
-nurture (v) 養育抽象 e.g. raise, cultivate, foster
+nurture (v) 養育抽象 e.g. raise, cultivate, foster, upbring
 nourishment (n) 養育
 
 nutrition (n) = sustenance (n) 營養
@@ -2434,7 +2442,7 @@ patrol (n)(v)
 patron (n) = sponsor
 patron (n) 常客
 patronize (v) 常常光顧
-patronize (v) = look down on
+patronize (v) see "look down on"
 
 pattern (n) 格局
 
@@ -2771,7 +2779,8 @@ ridge (n) 山脊; 屋脊
 
 rig (v) manipulate; set up (tent / sail 帆)
 
-righteous (adj) morally correct (sb/sth)
+righteous (adj) = upright (adj) morally correct (sb/sth)
+upright (adj) straight up
 
 rim (n) = edge
 
@@ -3014,6 +3023,8 @@ tactit (n) = strategy (n)
 
 tangible (adj) <-> intangible (adj) virtual, abstract
 
+take a step back
+
 tap (n) 水龍頭
 tap water (n) 自來水, still water (n) 礦泉水, sparkling (n) 氣泡水
 
@@ -3117,16 +3128,34 @@ tweezer (n) 鑷子
 tyre (n) 輪胎
 
 [UUU]
+
+ultimatum (n) 最後通牒 e.g. give sb a ultimatum
+
 uncooperative (adj) not willing to cooperate
 
 under torment = under torture
+
+undercharge (v) charge less than correct price
+
+undergo (v) = go through e.g. plight, ordeal
+
+underlying (adj) e.g. underlying undercurrent
+
+underneath (prep) = under (prep)
+
+underwrite (v) 擔保
+
+unfold (v) 展開
 
 unleash tear gas
 
 unwind (v) relax
 
-uphill (adj)上坡的; 艱難的 (adv)上坡地
+uphill (adj) 上坡的; 艱難的 (adv)上坡地
 uphill battle 艱難的戰事
+
+upkeep (n) 保養費; 保養負擔
+maintain (v) = keep (v) = have ... serviced (v) 保養(汽車)
 
 [VVV]
 
