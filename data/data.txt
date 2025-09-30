@@ -77,7 +77,8 @@ added value
 
 be adept / deft / skilled / talented at (v)
 = be capable of (v)
-= be accomplished / experienced / specialize / proficient in
+= be accomplished / experienced / specialize / proficient / versed in
+= be master at (v)
 = excel in (v)
 a master/genius/expert of
 
@@ -119,7 +120,7 @@ Affix a stamp to the envelope
 affordable (adj) = inexpensive = economical
 
 Aggravate 1 = deteriorate = exacerbate (v) become worse
-Aggravate 2 = exasperate = irritate = madden = provoke = inflame = offend (v) make sb angry
+Aggravate 2 = exasperate = irritate = madden = provoke = inflame = offend = vex (v) make sb angry; make trouble for sb
 agitate/argue for/against sth (v)
 erupt
 commotion (n) < unrest (n) = turbulence (n) = turmoil (n) 騷亂
@@ -144,6 +145,7 @@ describe thing
 ostentatious (adj) obviously show money/power/possession to make others admire you
 ostensible (adj) claiming sth but its something else
 ostentation (n) = window dressing (n)
+vanity (n) 虛榮
 
 commonplace (adj)(+/-) = common
 take things too far (v) = go overboard (v) 做太過火; out of line (adj)
@@ -188,7 +190,7 @@ pension = annuity (n) yearly money for sb
 grant = subsidy (n) money for sb
 scholarship (n) money for students
 dole (n) money for unemployed=jobless people
-stipend = salary
+stipend = salary = wage
 incentive bonus
 subside = recede <-> rebound
 subsidiary <-> parent comapny <-> headquarter
@@ -331,10 +333,10 @@ Be adept at = Be really Into = Be a (big fan)/aficionado of = eager to = enthusi
 hot-blooded (adj)
 ardent = fervent = zealous (adj) supporter / believer
 mania (n) very strong interest = fanatic (n)
-adore (v) = admire << idolize << worship = believe (religion)
+adore (v) = admire (v) < venerate (v) 敬重 << idolize (v) << worship (v) = believe (religion)
 want
-aspire to (v) want to achieve, (n) aspiration
-drool over (v) (sometimes silly) looking at sb or sth 垂涎
+	aspire to (v) want to achieve, (n) aspiration
+	drool over (v) (sometimes silly) looking at sb or sth 垂涎
 	desire (v)
 	desirable (adj) worth by most people e.g. a highly desirable job
 passionate about (adj) = enthusiastic about
@@ -344,11 +346,16 @@ earnest (adj) = sincere = serious, solemn (莊嚴的)
 
 in earnest = in formal
 considerate = thoughtful
-discreet = meticulous = painstaking = rigorous = scrupulous = wary about (v) careful and ensure correctness & safe (adj) >> fastidious
+謹慎的 careful
+	對於危險 discreet (守口如瓶的) = wary about = vigilant
+	工作態度 meticulous = painstaking = rigorous = scrupulous
+	催毛求疵的 fastidious (adj)(-)
 difficult (adj) = severe = rigorous = tough (adj) 嚴峻的
 serious (adj) = stern (adj) = strict (adj) 嚴肅的; 嚴格的
-[pro] conscience (n) = moral (n)(adj) = ethic (n)
+[pro] conscience (n) = moral (n)(adj) = ethic (n) = virtue (n)
 ethnics (adj)
+righteous (adj) = upright (adj) = moral (adj) = virtuous (adj)
+upright (adj) straight up
 
 asset (n) = belongings = property = possession 
 
@@ -385,7 +392,14 @@ attain = reach = fulfill (v) 達到; 實現
 attendant 2 = server = receptionist
 attendant 3 = servant
 giver <-> recipient
-steward (n) organizer; server; people take care of a particular place = janitor (n)
+特殊服務員
+	steward (n) organizer; server. people take care of a particular place
+	janitor (n) 清潔工
+	custodian (n) 保管員 (財務; 文件)
+	warden (n) 管宿舍, 監獄
+	security guard (n)
+	gatekeeper (n) = doorman (n)
+	goalkeeper (n) (球類)守門員
 
 attire (n) formal clothes
 outfit (n) clothes for particular occasion
@@ -485,7 +499,7 @@ batter (v) hit sb/sth many times (n) mixed of flour, eggs, milk (n) baseball hit
 bay (n) 海灣
 keep sth in bay = 4.
 1. 避免/躲避 avoid = elude = evade = escape = dodge = prevent = refrain from = shun
-2. 拒絕 reject = turn down = deny, overrule (v) 上對下駁回
+2. 拒絕 reject = turn down = deny, overrule (v) = veto (v) 上對下駁回
 3. 妨礙/干擾 disrupt = disturb = hamper = hinder = impede = interfere = intervene = obstruct = perturb
 4. 阻止/限制 constrain = curb = deter = prevent = restrain = restrict = retard (economic grwoth) = stem (bleeding) = suppress
 5. 禁止 ban = block = forbidden = prohibit
@@ -669,7 +683,7 @@ brisk (adj) quick/energetic (tone/pace/start)
 dynamic 1 (adj) = energetic = exuberant 1 = vibrant = vigorous
 dynamic 2 (adj) changing
 exuberant 2 (adj) (plants) strong and growing quickly
-vibrate (v) oscillate = jolt
+vibrate (v) = oscillate, jolt (suddenly or violently vibrate)
 
 brittle = frail = fragile = crisp = crispy (adj)
 crisp (adj) cold and dry
@@ -701,8 +715,9 @@ miss the stop
 underpass (n) road underground
 underway = ongoing (adj)
 
-bungalow, cabin
+bungalow (n) 平房, cabin (n) 小木屋; 船機艙; 內閣
 cabinet (n) 櫃子
+wardrobe (n) 衣櫃
 
 by = by means of = via
 
@@ -815,7 +830,7 @@ be certain (to) (adj) = sure
 certain (adj) 某個
 certainly = definitely
 
-certify = prove = substantiate
+certify = prove = substantiate = vindicate (v)
 
 cathedral (n) huge church; chapel (n) small church
 
@@ -841,6 +856,7 @@ chastity (n)
 
 chic = stylish = fashionable (adj)
 quaint (adj) 1 old-fashioned but attractive 2 strange (perpective)
+fashion (n) = vogue (n)
 
 chisel (n)(v) 鑿 = dig (v) = excavate (v)
 
@@ -953,6 +969,7 @@ senate, senator
 [US] congress = house of representative, congressman = speaker/member of …
 
 conquer = overcome = surmount (v)
+overwhelm (v) = beat (v) = vanquish (v)
 
 由...組成 consist of = be comprise of = be made up of = be composed of
 組成/占...比例 account for = compose = constitute 
@@ -1001,7 +1018,7 @@ counterfeit (adj) = fake (adj) = forged (adj)
 pirate (v) = plagiarize (v) illegal copy of a program, music, form, etc.
 piracy (n)
 infringe (v) = violate (v) = transgress (v) e.g. infringe the copyright
-fabricate (v) change truth to deceive others
+fabricate (v) change truth to deceive others 捏造; 瞎掰
 falsify (v) change document to deceive others
 feign (v) pretent feeling
 forge (v)
@@ -1126,7 +1143,7 @@ debate (v) =  = argue about/over = quarrel about/over
 debate (n) = argument = quarrel
 dispute (v)(n) quarrel usaully for salary or two countries
 disagree with (v) = disapprove (v) = oppose (v)
-retort (v) 反駁
+retort (v) 反駁 < refute (v) 駁斥
 
 decide (v) = determine 
 [pro de-sai-sive] decisive (adj) make decision quickly and confidently <-> indecisive
@@ -1653,7 +1670,10 @@ ferocious = fierce (adj) e.g. describe battle, fighting, criticism, dog, people,
 
 felony (n) serious crime
 
-fickle (adj) = capricious (adj) easy to change mind
+不穩定的
+	廣義 unstable (adj) = unpredictable (adj) = volatile (adj)
+	個性(善變) fickle (adj) = capricious (adj) easy to change mind
+volatile (adj) 易揮發的
 
 filth (n) dirty thing; sexually offensive
 
@@ -1795,6 +1815,7 @@ greasy (adj)
 	groan (n)(v) = moan (n)(v) = grumble (n)(v) = complaint / complain
 [pro Gr-奧] growl (v) make anger noise
 [pro 號-喔] howl (v) 嚎叫
+wail (v) 大哭; 大抱怨
 
 grope for (v) 摸黑尋找
 
@@ -2402,8 +2423,6 @@ overture (n) = prelude (n) 序章; 前奏
 preface (n) 前言
 prologue (n) 開場白
 
-overwhelm (v) = beat
-
 ownership (n) power to have sth
 
 [PPP]
@@ -2593,7 +2612,7 @@ potent (adj) = powerful (adj) strong and efficient
 
 a love/magic potion (n) ...藥劑
 
-practicable (adj) = feasible (adj)
+practicable (adj) = feasible (adj) = viable (adj)
 practical (adj) 實用的; 實際的
 pragmatic (adj) 務實的
 
@@ -2703,6 +2722,8 @@ reap (v) 收割
 rear (n) 尾部
 
 receipt (n), invoice (n)
+voucher (n) = coupon (n)
+voucher (n) = certification (n) 憑證
 
 recital (n) 音樂會; 條列(法律)
 
@@ -2778,9 +2799,6 @@ strap (v) 用帶子綁緊
 ridge (n) 山脊; 屋脊
 
 rig (v) manipulate; set up (tent / sail 帆)
-
-righteous (adj) = upright (adj) morally correct (sb/sth)
-upright (adj) straight up
 
 rim (n) = edge
 
@@ -2892,8 +2910,9 @@ slender (adj) = slim (adj)
 
 slump = plummet = plunge (v) decrease rapidly
 <-> soar (v) = surge (v) = rocket (v)
-diminish = decrease (v)
+diminish = decrease (v) = attenuate (v)
 <-> increase (v) = rise
+wane (v) 漸漸衰弱
 
 smuggle (v)
 stowaway (n) 偷渡者
@@ -2919,6 +2938,7 @@ soil (n) 泥土
 solidarity (n) 團結
 
 solitary (adj) 孤獨的
+withdrawn (adj) 孤僻的
 
 somewhat = somehow = sort of = a little (bit)
 
@@ -2940,6 +2960,10 @@ tell on sb to sb
 spontaneous (adj)
 
 sporadic (adj) 零星的 e.g. sporadic disturbance
+
+spouse (n) 配偶
+
+sprawl (v) 蔓延 (四肢; 城市)
 
 stance = standpoint = position
 Step aside 讓開
@@ -3037,6 +3061,7 @@ tariff (n) 關稅
 taxation (n) tax system
 
 teetering on the brink of war/collapse/disaster/...
+= on the verge of ...
 
 temptress (n) 狐狸精
 
@@ -3159,17 +3184,45 @@ maintain (v) = keep (v) = have ... serviced (v) 保養(汽車)
 
 [VVV]
 
-Veil (v) 遮蔽
+vacant (adj) empty
+
+valve (n) 瓣膜
+
+vanish (v) disappear
+
+veil (v) 遮蔽 (n) 面紗
+
+vengeance (n) = revenge (n) = retaliation (n)
+retribution (n) 報應
+
+vent (n) 排氣孔
+ventilate (v) 通風
+
+venture (v)(n) 冒險(事業; 探索)
+adventure (n) 冒險(旅行)
+
+verbal (adj) 言語上的
+
+versatile (adj) 多才多藝的; multi-functioned
+
+versus (prep) vs. like against
+
+vicinity (n) = surrounding (n) = locality (n) 周遭區域
 
 villain = scoundrel (n)
+
+vivid (adj)
 
 volatility (n) 揮發性 動盪
 
 [WWW]
 
-whimperling = sobbing
+wager (v) = bet (v)
+gamble (v)
 
-Withdrawn (adj) 孤僻的
+warehouse (n)
+
+weave (v) 編織; (編)故事
 
 [XXX]
 
