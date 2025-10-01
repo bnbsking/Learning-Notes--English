@@ -75,10 +75,9 @@ accomplish = complete  (v)
 
 added value
 
-be adept / deft / skilled / talented at (v)
+be adept / deft / master / skilled / talented at (v)
 = be capable of (v)
 = be accomplished / experienced / specialize / proficient / versed in
-= be master at (v)
 = excel in (v)
 a master/genius/expert of
 
@@ -329,18 +328,20 @@ herbivore / herbivorous <- omnivore / omnivorous -> carnivore / carnivorous
 terrorist
 Be terrorized = be panic about
 
-Be adept at = Be really Into = Be a (big fan)/aficionado of = eager to = enthusiastic about = keen (on/to)
-hot-blooded (adj)
-ardent = fervent = zealous (adj) supporter / believer
-mania (n) very strong interest = fanatic (n)
+熱情
+	熱情於(事)(v) Be really Into = Be a (big fan)/aficionado of = eager to = enthusiastic about = keen (on/to)
+	熱情於(人)(v) be passionate about (adj) = be enthusiastic about
+	狂熱的(支持者)(adj) ardent = fervent = zealous (adj) supporter / believer
+	腦粉(n) mania (n) = fanatic (n)
+	熱情(n) eagerness (n) = enthusiasm (n) = zeal (n) = zest (n)
 adore (v) = admire (v) < venerate (v) 敬重 << idolize (v) << worship (v) = believe (religion)
 want
 	aspire to (v) want to achieve, (n) aspiration
 	drool over (v) (sometimes silly) looking at sb or sth 垂涎
-	desire (v)
+	desire (v) = yearn (v)
 	desirable (adj) worth by most people e.g. a highly desirable job
-passionate about (adj) = enthusiastic about
 hospitable (adj) welcoming; hospitality (n)
+hot-blooded (adj)
 diligent (adj) = conscientious = persevering with = hard-working
 earnest (adj) = sincere = serious, solemn (莊嚴的)
 
@@ -734,6 +735,7 @@ cannibal (n) people who eats human
 
 canny = shrewd = intelligent (adj)
 intellectual (adj) relate to intelligence (n) very educated person
+intelligence (n), wisdom (n)
 
 cancer = carcinoma = malignant tumor (<->[pro] benign tumor)
 
@@ -757,7 +759,7 @@ cause public outrage (v) 引起公憤
 
 collar (n) 領子 項圈
 leash (n) 牽繩
-lash (n)(v) 鞭打; 鞭繩
+lash (n)(v) = whip (v)(n) 鞭打; 鞭繩
 
 carpenter 木匠, electrician, plumber, technician
 
@@ -1237,6 +1239,7 @@ dermatology (n) the study of skin and its disease
 [pro di ...] desert (v) leave the army without permission
 [pro di ...] deserted (adj) = [pro de ...] desolate (adj) (people or place) which is left alone
 [pro di ...] dessert (n) sweet food (pronounciation is similar to the above)
+wilderness (n) 荒野
 
 despair (n)
 desparate (adj)
@@ -1422,7 +1425,7 @@ ease (n) e.g. win the race with ease
 ease (v) = relieve = alleviate = mitigate = soothe
 
 eddy (n) = whirlpool (n); be caught in an eddy
-swirl (v) moving circularly with twisting
+swirl (v) = whirl (v) moving circularly with twisting
 
 edible (adj); barely edible (adj)
 
@@ -1635,11 +1638,12 @@ myth 2 (n) = mythology (n) story of gods
 mystery (n) sth not yet been explained or understood; 推理劇
 inference (n)
 [pro 阿里掰] alibi (n) 不在場證明
+witness (n) 目擊者; 證人; 見證人 (v) 目擊
 
 fallacy (n) = paradox = myth
 
 falter 1 (v) lose strength and stop or almost stop
-shrink back (v) <-> stick out (v) = protrude (v)
+shrink back (v) = withdraw (v) <-> stick out (v) = protrude (v)
 falter 2 (v) = shamble (v) = stagger (v) = stumble (v) walk unstably
 stumble 2 (v) = tumble (v) walking or running then fall down
 
@@ -2913,6 +2917,7 @@ slump = plummet = plunge (v) decrease rapidly
 diminish = decrease (v) = attenuate (v)
 <-> increase (v) = rise
 wane (v) 漸漸衰弱
+wither (v) 漸漸枯萎; 漸漸萎縮消亡
 
 smuggle (v)
 stowaway (n) 偷渡者
@@ -3222,11 +3227,48 @@ gamble (v)
 
 warehouse (n)
 
-weave (v) 編織; (編)故事
+weave (v) 編織; (編)故事 e.g. weave/spin a story/yarn
+
+wedge (n) wooden triangular prism
+prism (n) 柱體
+pyramid (n) 錐體
+
+weld (v) 焊接 (n) 焊接點
+
+whereby (adv) = by which (adv)
+
+whilst (conj) = while (conj)
+
+wholesale (adj) <-> retail (adj)
+
+wholesome (adj) beneficial to health
+
+wicked (adj) = evil (adj)
+
+wield (v) hold (weapon / power) 
+
+wit (n) humor
+
+withhold (v) refuse to give
+
+withstand (v) 使...可承受
+
+worth (adj) = worthy (adj)
+	be worth N = be worthy of N
+worthwhile (adj)
+
+wrestle (v) 摔角
+
+wretch (n) people undergo unpleasant things; unpleasant people
 
 [XXX]
 
 [YYY]
+yarn (n) thread to make cloth; story
+
+yawn (n)(v) 哈欠; 打哈欠
+
+yield (v) 帶來...; 讓 (n) production or profit
 
 [ZZZ]
 

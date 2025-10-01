@@ -1,90 +1,59 @@
+weave (v) 編織; (編)故事 e.g. weave/spin a story/yarn
 
-vacant (adj) empty
+wedge (n) wooden triangular prism
+prism (n) 柱體
+pyramid (n) 錐體
 
-valve (n) 瓣膜
+weld (v) 焊接 (n) 焊接點
 
-vanish (v) disappear
+whereby (adv) = by which (adv)
 
-veil (v) 遮蔽 (n) 面紗
+whilst (conj) = while (conj)
 
-vengeance (n) = revenge (n) = retaliation (n)
-retribution (n) 報應
+wholesale (adj) <-> retail (adj)
 
-vent (n) 排氣孔
-ventilate (v) 通風
+wholesome (adj) beneficial to health
 
-venture (v)(n) 冒險(事業; 探索)
-adventure (n) 冒險(旅行)
+wicked (adj) = evil (adj)
 
-verbal (adj) 言語上的
+wield (v) hold (weapon / power) 
 
-versatile (adj) 多才多藝的; multi-functioned
+wit (n) humor
 
-versus (prep) vs. like against
+withhold (v) refuse to give
 
-vicinity (n) = surrounding (n) = locality (n) 周遭區域
+withstand (v) 使...可承受
 
-villain = scoundrel (n)
+worth (adj) = worthy (adj)
+	be worth N = be worthy of N
+worthwhile (adj)
 
-vivid (adj)
+wrestle (v) 摔角
 
-volatility (n) 揮發性 動盪
+wretch (n) people undergo unpleasant things; unpleasant people
 
-[WWW]
+[XXX]
 
-wager (v) = bet (v)
-gamble (v)
+[YYY]
+yarn (n) thread to make cloth; story
 
-warehouse (n)
+yawn (n)(v) 哈欠; 打哈欠
 
-weave (v) 編織; (編)故事
-
-on the verge of ...
-
-solitary (adj) 孤獨的
-withdrawn (adj) 孤僻的
+yield (v) 帶來...; 讓 (n) production or profit
 
 wane (v) 漸漸衰弱
-attenuate (v)
+wither (v) 漸漸枯萎; 漸漸萎縮消亡
 
-voucher (n)
+shrink back (v) = withdraw (v) <-> stick out (v) = protrude (v)
 
-practicable (adj) = feasible (adj) = viable (adj)
-pragmatic (adj) 務實的
+witness (n) 目擊者; 證人; 見證人 (v) 目擊
 
-wail (v) 大哭; 大抱怨
+swirl (v) = whirl (v) moving circularly with twisting
 
-volatile (adj) 易揮發的
+wilderness (n) 荒野
 
-vanquish (v)
+intelligence (n), wisdom (n)
 
-vogue (n)
+desire (v) = yearn (v)
 
-vindicate (v)
-
-wardrobe (n) 衣櫃
-
-retort (v) 反駁 < refute (v) 駁斥
-
-特殊服務員
-	steward (n) organizer; server. people take care of a particular place
-	janitor (n) 清潔工
-	custodian (n) 保管員 (財務; 文件)
-	warden (n) 管宿舍, 監獄
-	security guard (n)
-	gatekeeper (n) = doorman (n)
-	goalkeeper (n) (球類)守門員
-
-vigilant
-
-righteous (adj) = upright (adj) = moral (adj) = virtuous (adj)
-
-venerate
-
-stipend = salary = wage
-
-vanity (n) 虛榮
-
-vex
-
-versed in
+zeal (n) = zest (n)
