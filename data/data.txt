@@ -2805,10 +2805,14 @@ ridge (n) 山脊; 屋脊
 rig (v) manipulate; set up (tent / sail 帆)
 
 rim (n) = edge
+teetering on the brink of war/collapse/disaster/...
+= on the verge of ...
 
 rip (v) = slit (v) = tear (v) 
 
 rivet (n)(v) ~ nail (n)(v)
+
+rubble (n) 瓦礫堆
 
 Rubella 德國麻疹
 
@@ -3064,9 +3068,6 @@ trailor (n) 預告片
 tariff (n) 關稅
 
 taxation (n) tax system
-
-teetering on the brink of war/collapse/disaster/...
-= on the verge of ...
 
 temptress (n) 狐狸精
 
