@@ -1,0 +1,346 @@
+[
+    {
+        "id": 0,
+        "question": "Question 1: Can you tell me about a time you had to explain a complex technical concept to a non-technical stakeholder? How did you ensure they understood it?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 1,
+        "question": "Question 2: Describe a situation where you had to work with a team that had conflicting priorities or opinions. How did you navigate the situation to achieve a positive outcome?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 2,
+        "question": "Question 3: Give an example of a time you took initiative on a project. What motivated you, and what was the result?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 3,
+        "question": "Question 4: How do you typically handle working under pressure and managing multiple tasks simultaneously?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 4,
+        "question": "Question 5: Describe your experience working in a collaborative environment. How do you contribute to a positive team dynamic?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 5,
+        "question": "Question 6: Explain your experience with maintaining and updating documentation. How do you ensure the documentation is clear, concise, and up-to-date?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 6,
+        "question": "Question 7: Can you describe your experience with translating high-level requirements into actionable engineering specifications and tickets?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 7,
+        "question": "Question 8: What are your preferred methods for staying organized and tracking progress on multiple projects or tasks?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 8,
+        "question": "Question 9: How do you approach problem-solving, and can you provide an example of a challenging technical problem you solved?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 9,
+        "question": "Question 10:  How do you stay up-to-date with the latest advancements in AI and machine learning?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 10,
+        "question": "Question 11:  Can you walk me through your experience with Python, and databases (SQL, Vector Database), and GCP (Google Cloud Platform)?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 11,
+        "question": "Question 12: Describe your experience with implementing Machine Learning algorithms at scale.  What were some of the challenges you faced, and how did you overcome them?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 12,
+        "question": "Question 13:  What experience do you have with AI Agent, Agentic AI, MCP, and A2A? Could you provide a specific example of a project where you utilized these technologies?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 13,
+        "question": "Question 14:  Can you describe your experience with MLOps best practices (CI/CD) and risk mitigation strategies?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 14,
+        "question": "Question 15: How do you ensure your work aligns with model fairness and ethical guidelines?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 15,
+        "question": "Question 16: What is your understanding of technical KPIs, and how have you used them to measure model effectiveness?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 16,
+        "question": "Question 17:  Describe your experience with the software development lifecycle, including testing, deployment, and maintenance.",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 17,
+        "question": "Question 18: What is your familiarity with different database technologies (e.g., MySQL, PostgreSQL)?  What factors do you consider when choosing a database for a project?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 18,
+        "question": "Question 19:  How would you approach the task of creating and maintaining a single source of truth for all active carrier/vendor technical requirements and specifications?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 19,
+        "question": "Question 20:  How would you handle a situation where a deployed model's performance deviates significantly from expectations?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 20,
+        "question": "Question 21: (Technical - Online Code Exam)  Please describe how you would approach a problem to clean, process, and validate data streams for ML model consumption. (Follow-up:  The exam will likely involve a short Python coding exercise. Be prepared for this).",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 21,
+        "question": "Question 22: (Technical - Online Code Exam) How would you approach writing a Python script to test a model feature, ensuring that it aligns with model fairness and ethical guidelines? (Follow-up: The exam will likely involve a short Python coding exercise. Be prepared for this).",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 22,
+        "question": "Question 23: (If applicable) Have you ever worked in a fast-paced environment? Describe your experience and how you managed to stay organized and productive in that setting?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 23,
+        "question": "Question 24: (If applicable) Can you discuss your experience with international teams/clients/projects, where fluency in English and Mandarin was required for communication?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 24,
+        "question": "Question 25: (For the candidate)  Do you have any questions for us about this role or the company?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 25,
+        "question": "Question 1: The job description emphasizes MLOps best practices and CI/CD. Can you describe your experience with CI/CD pipelines and how you've contributed to MLOps in previous projects?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 26,
+        "question": "Question 2: The role requires developing and implementing Python scripts. Can you discuss a specific example where you used Python to implement model features or test algorithms, and what challenges you faced?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 27,
+        "question": "Question 3: This position involves establishing and tracking technical KPIs. Provide an example of a project where you defined, tracked, and reported on KPIs to measure the effectiveness of a deployed ML model. What were the key insights you gained?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 28,
+        "question": "Question 4:  The job description mentions acting as a liaison between Engineers, Data Scientists, and Business stakeholders.  Can you describe a time when you successfully translated technical requirements into actionable specifications and tickets for an engineering team?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 29,
+        "question": "Question 5: The role requires providing regular updates to stakeholders. Can you describe your approach to communicating project progress, key metrics, and any blockers to stakeholders, and what tools or methods you utilize?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 30,
+        "question": "Question 6: The requirements emphasize proficiency in Python, Database (SQL, Vector Database) and GCP (Google Cloud Platform). Given your experience, can you elaborate on your practical experience with GCP, and in which specific GCP services have you used to build and deploy ML models?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 31,
+        "question": "Question 7: This role calls for experience with implementing Machine Learning algorithms in practice at scale. Can you describe a project where you deployed an ML model in a production environment, detailing the scalability challenges and how you addressed them?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 32,
+        "question": "Question 8: The job description mentions Agentic AI. Have you had experience with agentic AI, and can you give an overview of its application in your previous projects?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 33,
+        "question": "Question 9: The ability to work in a collaborative environment is essential. Describe a project where you worked in a team setting. What was your role, and how did you contribute to the team's success?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 34,
+        "question": "Question 10: Given your experience in LLM/VLM engineering, how have you addressed challenges in creating or using those models in previous projects?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 35,
+        "question": "Question 11: The role requires strong English communication skills. Please describe a technical project where you had to communicate complex ideas to both technical and non-technical audiences in English.",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 36,
+        "question": "Question 12: The job description states that experience with Machine Learning algorithms in practice at scale is required. Could you discuss a specific project where you tackled the challenge of scaling up Machine Learning algorithms?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 37,
+        "question": "Question 13: The role will involve working at the Google Banqiao Office. Are you comfortable with commuting to this location daily? Also, are you willing to relocate to Xindian, or Taipei 101 Tower per Google's request?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 38,
+        "question": "Question 14: The job posting requires a strong foundation in SQL. Can you discuss your experience with SQL and how you've used it in a data processing or model training context?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 39,
+        "question": "Question 15:  The job requires the candidate to provide regular, concise updates for stakeholders on project progress. How do you make sure the updates are easy to understand?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 40,
+        "question": "Question 16: The role emphasizes problem-solving skills. Describe a challenging technical problem you faced in a past project, the steps you took to solve it, and the outcome.",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 41,
+        "question": "Question 17: The job description mentions experience with time-series and tabular learning. Can you describe a project where you've applied time-series or tabular learning techniques, and what were the results?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    },
+    {
+        "id": 42,
+        "question": "Question 18: How familiar are you with model fairness and ethical guidelines when developing and implementing Python scripts for machine learning?",
+        "answer": "",
+        "model_answer": "",
+        "eval": "",
+        "score": -1
+    }
+]

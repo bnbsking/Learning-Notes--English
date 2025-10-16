@@ -1,0 +1,93 @@
+Google 專案 | AI 工程師 (模型訓練) AI/ML Engineer [板橋]10/13更新
+HCL Technologies Taiwan_台灣愛渠西來技術股份有限公司本公司其他工作
+19 小時前聯絡過求職者
+徵才積極度：極為活躍
+10/14已應徵
+應徵人數 11~30 人
+工作內容
+1. Actively clean, process, and validate Data streams for ML model consumption. Contribute to the implementation of MLOps best practices (CI/CD) and risk mitigation strategies as guided by the engineering team.
+
+2. Actively develop and implement Python scripts and small utilities for model features and basic algorithm testing. Ensure development practices align with model fairness and ethical guidelines.
+
+3. Establish and track technical Key Performance Indicators (KPIs) to measure model effectiveness post-deployment. Document and report potential technical risks identified during implementation.
+
+4. Create and maintain a single source of truth for all active Carrier/vendor technical requirements and specifications. Support the definition of project scope, timelines, and milestones.
+
+5. Act as the central liaison between Engineers, Data Scientists, and Business stakeholders. Translate incoming high-level partner requests into clear, detailed, and actionable engineering specifications and tickets.
+
+6. Provide regular, concise updates for stakeholders on project progress, key metrics, and any blockers.
+
+7. Annual salary: 1000K NTD and above
+
+8. Onsite Google Banqiao Office
+
+職務類別
+AI工程師、機器學習工程師、演算法工程師
+工作待遇
+月薪70,000~120,000元（固定或變動薪資因個人資歷或績效而異）
+工作性質
+全職
+上班地點
+新北市板橋區遠東路 (距捷運 - 亞東醫院站 600公尺)
+管理責任
+不需負擔管理責任
+出差外派
+無需出差外派
+上班時段
+日班
+休假制度
+週休二日
+可上班日
+一個月內
+需求人數
+1人
+條件要求
+工作經歷
+7年以上
+學歷要求
+大學以上
+科系要求
+不拘
+語文條件
+英文 -- 聽 /中等、說 /中等、讀 /中等、寫 /中等
+
+提升英文能力
+擅長工具
+Python、MS SQL、Cloud、AWS、Microsoft Azure、PL/SQL、MySQL、PostgreSQL
+提升專業能力
+工作技能
+AI、演算法設計、機器學習、Machine Learning、人工智慧、軟體程式設計、資料庫程式設計、系統架構規劃、結構化程式設計、系統整合分析、軟體品質與保證、軟體整合測試、問題追蹤處理(Bug tracking)
+其他條件
+1. Min. 7-yr exp. in an AI-related role.
+2. Proficiency in programming Python, Database (SQL, Vector Database) and GCP (Google Cloud Platform).
+3. Hands-on AI Agent, Agentic AI*, MCP, A2A, Context Engineering exp.
+4. Exp. w/ implementing Machine Learning algorithms in practice at scale.
+5. Good communication skills and a positive attitude to work with stakeholders.
+6. Proficient English speaking, reading, and writing ability.
+
+* Agentic AI = Autonomous AI
+MCP (Model Context Protocol) 
+A2A (Agent2Agent) 
+
+
+Others:
+1. Ability to communicate w/ cross-functional teams 
+in English & Chinese fluently. English reading/speaking is a MUST.
+2. Bilingual capability is required (Mandarin & English).
+Mandarin speaking/reading is essential skill in HCLTech Taiwan.
+3. Must demonstrate initiative & ownership of assigned responsibilities
+4. Ability to work collaboratively & openly w/ cross-functional Team Leaders, members and client
+5. Soft Skills: Good listener, positive attitude, sense of humor, open minded, respect, patience, resolving issues, etc.
+6. Exp. working in a collaborative environment & promoting a teamwork mentality
+7. Patience to detail, Good analytical thinking & problem-solving skills
+8. Ability to predict challenges & seek to proactively head-off obstacles
+9. Can work independently (e.g. manage tasks to complete on time, etc.)
+10. Can work under pressure
+11. Can adapt to fast-paced environment
+12. Working location: may adjust to Xindian, 
+or Taipei 101 Tower per Google's request
+13. Taiwan APRC is required w/ expat.
+
+應徵需附上英文履歷
+可以接受英文口說線上面試 w/ online code exam in Python (max. 0.5 hr)
+年薪可談
